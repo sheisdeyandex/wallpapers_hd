@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Tapet Nou</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">Dublu</string>
+<string name="category_ABSTRACTION">Abstractizare</string>
+<string name="category_AUTO">Mașini</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Armată / Echipament</string>
+<string name="category_ART">Artă</string>
+<string name="category_ARCHITECTURE">Arhitectura</string>
+<string name="category_FOOD">Masă</string>
+<string name="category_ANIMALS">Animale</string>
+<string name="category_ZNAKI">Semne / Inscripții</string>
+<string name="category_GAMES">Jocuri</string>
+<string name="category_SPACE">Spațiu</string>
+<string name="category_PIPL">Oameni</string>
+<string name="category_MACRO">Macro</string>
+<string name="category_MINIMALISM">Minimalism</string>
+<string name="category_MOTO">Motociclete</string>
+<string name="category_MUSIC">Muzică</string>
+<string name="category_HOLIDAYS">Sărbători</string>
+<string name="category_NATURE">Natura</string>
+<string name="category_SPORT">Sport</string>
+<string name="category_SUPERHIROS">Supereroi</string>
+<string name="category_TEXTURE">Texturi</string>
+<string name="category_FILMS">Filme</string>
+<string name="category_FANTASY">Fantezie</string>
+<string name="category_FLOWERS">Flori</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Diverse</string>
+<string name="categories">Categorii</string>
+<string name="install">Instalare</string>
+<string name="save">Salvează</string>
+<string name="tvBlockScreen">Ecran De Blocare</string>
+<string name="homeScreen">Ecranul De Pornire</string>
+<string name="everywhere">Peste tot</string>
+<string name="downloading">Se încarcă...</string>
+<string name="downloadingInfo">După descărcare, vi se va afișa 1 anunț</string>
+<string name="installedandsaved">Salvat și instalat</string>
+<string name="saved">Salvat în Galerie</string>
+<string name="share">Pentru a partaja</string>
+<string name="clearCookies">Ștergeți Memoria Cache</string>
+<string name="language">Limba</string>
+<string name="disableAds">Dezactivați anunțurile</string>
+<string name="rateApp">Estimare</string>
+<string name="activatePro">Activați versiunea PRO</string>
+<string name="month">1 lună</string>
+<string name="always">Pentru totdeauna</string>
+<string name="subscriptionText">Dezactivați anunțurile.</string>
+<string name="once">Plata unică</string>
+<string name="getPro">Cumpara</string>
+<string name="selectScreen">Selectați un ecran</string>
+<string name="apply">Aplică</string>
+<string name="ok">Ok</string>
+<string name="no_internet">Nu există conexiune la internet</string>
+<string name="make_sure_connected">Asigurați-vă că dispozitivul dvs. este conectat la Internet. Încercați să utilizați o rețea mobilă sau Wi-Fi.</string>
+<string name="try_vpn">Dacă există o conexiune la Internet, dar aplicația dă o eroare, utilizați un VPN</string>
+<string name="user_agreement">Politica de confidențialitate</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Bună! Mi-a plăcut această aplicație și a decis să-l împărtășească cu tine. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Ștergeți Memoria Cache</string>
+<string name="clear">Clear</string>
+<string name="wholeCache">Cache partajat - </string>
+<string-array name="language">
+<item>Amharică,am</item>
+<item>Arab,ar</item>
+<item>Bulgari,bg</item>
+<item>Bengali,bn</item>
+<item>Catalană,ca</item>
+<item>Cehă,cs</item>
+<item>Danez,da</item>
+<item>Germană,de</item>
+<item>Greacă,el</item>
+<item>Română,en</item>
+<item>Spaniolă,es</item>
+<item>Estonă,et</item>
+<item>Persană,fa</item>
+<item>Finlandeză,fi</item>
+<item>Filipineză,fil</item>
+<item>Franceză,fr</item>
+<item>Gujarati,gu</item>
+<item>Hindi,hi</item>
+<item>Croată,hr</item>
+<item>Maghiară,hu</item>
+<item>Armeană,hy</item>
+<item>Indoneziană,id</item>
+<item>Islandeză,is</item>
+<item>Italiană,it</item>
+<item>Ebraică,he</item>
+<item>Japoneze,ja</item>
+<item>Kannada,kn</item>
+<item>Coreeană,ko</item>
+<item>Lituaniană,lt</item>
+<item>Letonă,lv</item>
+<item>Malayalam,ml</item>
+<item>Marathi,mr</item>
+<item>Malay,ms</item>
+<item>Norvegiană,nb</item>
+<item>Punjabi,pa</item>
+<item>Poloneză,pl</item>
+<item>Portugheză,pt</item>
+<item>Romanian,ro</item>
+<item>Rusă,ru</item>
+<item>Sinhaleză,si</item>
+<item>Slovacă,sk</item>
+<item>Slovenă,sl</item>
+<item>Sârbă,sr</item>
+<item>Suedeză,sv</item>
+<item>Swahili,sw</item>
+<item>Tamil,ta</item>
+<item>Telugu,te</item>
+<item>Tailandez,th</item>
+<item>Turcă,tr</item>
+<item>Ucraineană,uk</item>
+<item>Urdu,ur</item>
+<item>Vietnameză,vi</item>
+<item>Chineză,zh</item>
+</string-array>
+</resources>

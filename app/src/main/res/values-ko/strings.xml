@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">새로운</string>
+<string name="category_3D">3 차원</string>
+<string name="category_AMOLED">아몰레드는</string>
+<string name="category_DOUBLE">더블 벽지</string>
+<string name="category_ABSTRACTION">추상화</string>
+<string name="category_AUTO">자동차</string>
+<string name="category_ANIME">애니메이션</string>
+<string name="category_ARMY">육군/장비</string>
+<string name="category_ART">예술</string>
+<string name="category_ARCHITECTURE">건축</string>
+<string name="category_FOOD">식사</string>
+<string name="category_ANIMALS">동물</string>
+<string name="category_ZNAKI">표지판/비문</string>
+<string name="category_GAMES">게임</string>
+<string name="category_SPACE">공간</string>
+<string name="category_PIPL">사람들</string>
+<string name="category_MACRO">매크로</string>
+<string name="category_MINIMALISM">미니멀리즘</string>
+<string name="category_MOTO">오토바이</string>
+<string name="category_MUSIC">음악</string>
+<string name="category_HOLIDAYS">휴일</string>
+<string name="category_NATURE">자연</string>
+<string name="category_SPORT">스포츠</string>
+<string name="category_SUPERHIROS">슈퍼 히어로</string>
+<string name="category_TEXTURE">텍스처</string>
+<string name="category_FILMS">영화</string>
+<string name="category_FANTASY">판타지</string>
+<string name="category_FLOWERS">꽃</string>
+<string name="category_HI_TECH">하이테크</string>
+<string name="category_OTHER">다양한</string>
+<string name="categories">카테고리</string>
+<string name="install">설치</string>
+<string name="save">저장</string>
+<string name="tvBlockScreen">잠금 화면</string>
+<string name="homeScreen">홈 화면</string>
+<string name="everywhere">어디에나</string>
+<string name="downloading">다운로드...</string>
+<string name="downloadingInfo">다운로드 후,당신은 1 광고를 표시됩니다</string>
+<string name="installedandsaved">저장 및 설치</string>
+<string name="saved">갤러리에 저장</string>
+<string name="share">공유하려면</string>
+<string name="clearCookies">캐시 지우기</string>
+<string name="language">언어</string>
+<string name="disableAds">광고 비활성화</string>
+<string name="rateApp">견적</string>
+<string name="activatePro">프로 버전 활성화</string>
+<string name="month">1 개월</string>
+<string name="always">영원히</string>
+<string name="subscriptionText">광고를 비활성화합니다.</string>
+<string name="once">일회성 지불</string>
+<string name="getPro">구매</string>
+<string name="selectScreen">화면 선택</string>
+<string name="apply">적용</string>
+<string name="ok">확인</string>
+<string name="no_internet">인터넷 연결이 없습니다</string>
+<string name="make_sure_connected">장치가 인터넷에 연결되어 있는지 확인합니다. 모바일 또는 와이파이 네트워크를 사용해보십시오.</string>
+<string name="try_vpn">이 인터넷 연결이 있지만,응용 프로그램이 오류를 제공하는 경우</string>
+<string name="user_agreement">개인 정보 보호 정책</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">안녕! 나는이 응용 프로그램을 좋아하고 당신과 함께 그것을 공유하기로 결정했다. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">캐시 지우기</string>
+<string name="clear">명확한</string>
+<string name="wholeCache">공유 캐시-</string>
+<string-array name="language">
+<item>암하라어,am</item>
+<item>아라비아,ar</item>
+<item>불가리아어,bg</item>
+<item>벵골어,bn</item>
+<item>카탈루냐어,ca</item>
+<item>체코어,cs</item>
+<item>덴마크,da</item>
+<item>독일,de</item>
+<item>그리스어,el</item>
+<item>영어,en</item>
+<item>스페인어,es</item>
+<item>에스토니아어,et</item>
+<item>페르시아어,fa</item>
+<item>핀란드의,fi</item>
+<item>필리핀,fil</item>
+<item>프랑스어,fr</item>
+<item>구자라트어,gu</item>
+<item>힌디어,hi</item>
+<item>크로아티아어,hr</item>
+<item>헝가리어,hu</item>
+<item>아르메니아어,hy</item>
+<item>인도네시아,id</item>
+<item>아이슬란드어,is</item>
+<item>이탈리아,it</item>
+<item>히브리어,he</item>
+<item>일본,ja</item>
+<item>칸나다어,kn</item>
+<item>한국어,ko</item>
+<item>리투아니아어,lt</item>
+<item>라트비아어,lv</item>
+<item>말라얄람어,ml</item>
+<item>마라타어,mr</item>
+<item>한국어/조선말,ms</item>
+<item>노르웨이,nb</item>
+<item>펀자브어,pa</item>
+<item>폴란드어,pl</item>
+<item>포르투갈어,pt</item>
+<item>루마니아어,ro</item>
+<item>러시아어,ru</item>
+<item>신할라어,si</item>
+<item>슬로바키아어,sk</item>
+<item>슬로베니아어,sl</item>
+<item>세르비아어,sr</item>
+<item>스웨덴어,sv</item>
+<item>스와힐리어,sw</item>
+<item>타밀 사람,ta</item>
+<item>텔루구어,te</item>
+<item>태국,th</item>
+<item>터키어,tr</item>
+<item>우크라이나,uk</item>
+<item>우르두어,ur</item>
+<item>중국(본토),vi</item>
+<item>중국,zh</item>
+</string-array>
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Uus</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">DOUBLE</string>
+<string name="category_ABSTRACTION">Võtmiseks</string>
+<string name="category_AUTO">Auto</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Armee / Tehnika</string>
+<string name="category_ART">ART</string>
+<string name="category_ARCHITECTURE">Arhitektuur</string>
+<string name="category_FOOD">Toit</string>
+<string name="category_ANIMALS">Loom</string>
+<string name="category_ZNAKI">Märgid / Kirjutised</string>
+<string name="category_GAMES">Mäng</string>
+<string name="category_SPACE">Kosmos</string>
+<string name="category_PIPL">Inimesed</string>
+<string name="category_MACRO">Makro</string>
+<string name="category_MINIMALISM">Minimalism</string>
+<string name="category_MOTO">Mootorratas</string>
+<string name="category_MUSIC">Muusika</string>
+<string name="category_HOLIDAYS">Puhkus</string>
+<string name="category_NATURE">Loodus</string>
+<string name="category_SPORT">Sport</string>
+<string name="category_SUPERHIROS">Superkangelane</string>
+<string name="category_TEXTURE">Tekstuurid</string>
+<string name="category_FILMS">Filmid</string>
+<string name="category_FANTASY">Fantaasia</string>
+<string name="category_FLOWERS">Lill</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Erinev</string>
+<string name="categories">Liik</string>
+<string name="install">Installima</string>
+<string name="save">Salvestama</string>
+<string name="tvBlockScreen">Lukustuskuva</string>
+<string name="homeScreen">Avakuva</string>
+<string name="everywhere">Kõikjal</string>
+<string name="downloading">Allalaadimine...</string>
+<string name="downloadingInfo">Pärast allalaadimist kuvatakse teile 1 Reklaam</string>
+<string name="installedandsaved">Säilitatud ja paigaldatud</string>
+<string name="saved">Salvestatud galeriisse</string>
+<string name="share">Jagama</string>
+<string name="clearCookies">Puhastage cash</string>
+<string name="language">Keel</string>
+<string name="disableAds">Lülitage reklaamid välja</string>
+<string name="rateApp">Hinnata</string>
+<string name="activatePro">Aktiveeri unikaalne versioon</string>
+<string name="month">1 kuu</string>
+<string name="always">Igavesti</string>
+<string name="subscriptionText">Lülitage reklaamid välja.</string>
+<string name="once">Ühekordne makse</string>
+<string name="getPro">Ostma</string>
+<string name="selectScreen">Valige Ekraan</string>
+<string name="apply">Rakendama</string>
+<string name="ok">Olgu</string>
+<string name="no_internet">Puudub Interneti-ühendus</string>
+<string name="make_sure_connected">Veenduge, et teie seade on Internetiga ühendatud. Proovige kasutada mobiil-või Veebivõrku.</string>
+<string name="try_vpn">Kui Internet on olemas, kuid rakendus annab vea, siis kasutage väärtust</string>
+<string name="user_agreement">Privaatsuspoliitika</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Tere! Mulle meeldis see rakendus ja otsustasin seda teiega jagada. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Puhastage cash</string>
+<string name="clear">Puhastama</string>
+<string name="wholeCache">Üldine Kesh - </string>
+<string-array name="language">
+<item>Amhari,am</item>
+<item>Araabia,ar</item>
+<item>Bulgaaria,bg</item>
+<item>Bengali,bn</item>
+<item>Katalaani,ca</item>
+<item>Tšehhi,cs</item>
+<item>Taani,da</item>
+<item>Saksa,de</item>
+<item>Kreeka,el</item>
+<item>Inglise,en</item>
+<item>Hispaania,es</item>
+<item>Eesti,et</item>
+<item>Pärsia,fa</item>
+<item>Soome,fi</item>
+<item>Filipiinide,fil</item>
+<item>Prantsuse,fr</item>
+<item>Gudžarati,gu</item>
+<item>Hindi,hi</item>
+<item>Horvaatia,hr</item>
+<item>Ungari,hu</item>
+<item>Armeenia,hy</item>
+<item>Indoneesia,id</item>
+<item>Islandi,is</item>
+<item>Itaalia,it</item>
+<item>Heebrea,he</item>
+<item>Japanese,ja</item>
+<item>Kannada,kn</item>
+<item>Korea,ko</item>
+<item>Leedu,lt</item>
+<item>Läti,lv</item>
+<item>Malajalami,ml</item>
+<item>Marathi,mr</item>
+<item>Malai,ms</item>
+<item>Norra,nb</item>
+<item>Punjabi,pa</item>
+<item>Poola,pl</item>
+<item>Portugali,pt</item>
+<item>Rumeenia,ro</item>
+<item>Vene,ru</item>
+<item>Singali,si</item>
+<item>Slovaki,sk</item>
+<item>Sloveeni,sl</item>
+<item>Serbia,sr</item>
+<item>Rootsi,sv</item>
+<item>Suahiili,sw</item>
+<item>Tamili,ta</item>
+<item>Telugu,te</item>
+<item>Tai,th</item>
+<item>Türgi,tr</item>
+<item>Ukraina,uk</item>
+<item>Urdu,ur</item>
+<item>Vietnami,vi</item>
+<item>Hiina,zh</item>
+</string-array>
+</resources>

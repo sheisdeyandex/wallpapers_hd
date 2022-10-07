@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Yeni duvar kağıtları</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">DOUBLE</string>
+<string name="category_ABSTRACTION">Soyutlama</string>
+<string name="category_AUTO">Arabalar</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Ordu / Teknoloji</string>
+<string name="category_ART">ART</string>
+<string name="category_ARCHITECTURE">Mimari</string>
+<string name="category_FOOD">Yiyecek</string>
+<string name="category_ANIMALS">Hayvanlar</string>
+<string name="category_ZNAKI">İşaretler / Yazıtlar</string>
+<string name="category_GAMES">Oyunlar</string>
+<string name="category_SPACE">Uzay</string>
+<string name="category_PIPL">İnsanlar</string>
+<string name="category_MACRO">Makro</string>
+<string name="category_MINIMALISM">Minimalizm</string>
+<string name="category_MOTO">Motosikletler</string>
+<string name="category_MUSIC">Müzik</string>
+<string name="category_HOLIDAYS">Tatil</string>
+<string name="category_NATURE">Doğa</string>
+<string name="category_SPORT">Spor</string>
+<string name="category_SUPERHIROS">Süper Kahramanlar</string>
+<string name="category_TEXTURE">Dokular</string>
+<string name="category_FILMS">Filmler</string>
+<string name="category_FANTASY">Fantezi</string>
+<string name="category_FLOWERS">Çiçekler</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Farklı</string>
+<string name="categories">Kategoriler</string>
+<string name="install">Yüklemek</string>
+<string name="save">Kaydetmek</string>
+<string name="tvBlockScreen">Kilit ekranı</string>
+<string name="homeScreen">Ana ekran</string>
+<string name="everywhere">Her yerde</string>
+<string name="downloading">Yükleniyor...</string>
+<string name="downloadingInfo">İndirildikten sonra size 1 adet reklam gösterilecektir</string>
+<string name="installedandsaved">Kaydedildi ve yüklendi</string>
+<string name="saved">Galeriye kaydedildi</string>
+<string name="share">Paylaş</string>
+<string name="clearCookies">Önbelleği temizle</string>
+<string name="language">Dil</string>
+<string name="disableAds">Reklamları devre dışı bırak</string>
+<string name="rateApp">Değerlendirin</string>
+<string name="activatePro">PRO sürümünü etkinleştir</string>
+<string name="month">1 ay</string>
+<string name="always">Ebediyen</string>
+<string name="subscriptionText">Reklamları devre dışı bırakın.</string>
+<string name="once">Tek seferlik ödeme</string>
+<string name="getPro">Almak</string>
+<string name="selectScreen">Ekranı seçin</string>
+<string name="apply">Uygulamak</string>
+<string name="ok">Tamam, tamam</string>
+<string name="no_internet">İnternet bağlantısı yok</string>
+<string name="make_sure_connected">Cihazınızın internete bağlı olduğundan emin olun. Mobil veya Wi-Fi ağınızı kullanmayı deneyin.</string>
+<string name="try_vpn">İnternetiniz varsa ancak uygulama bir hata veriyorsa, VPN kullanın</string>
+<string name="user_agreement">Gizlilik Politikası</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Merhaba! Bu uygulamayı beğendim ve sizinle paylaşmaya karar verdim. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Önbelleği temizle</string>
+<string name="clear">Temizlemek</string>
+<string name="wholeCache">Paylaşılan önbellek </string>
+<string-array name="language">
+<item>Amharca,am</item>
+<item>Arap,ar</item>
+<item>Bulgar,bg</item>
+<item>Bengalce dili,bn</item>
+<item>Katalanca,ca</item>
+<item>Çek,cs</item>
+<item>Danimarkalı,da</item>
+<item>Alman,de</item>
+<item>Yunan,el</item>
+<item>İngiliz,en</item>
+<item>İspanyol,es</item>
+<item>Estonya,et</item>
+<item>Farsça,fa</item>
+<item>Fince,fi</item>
+<item>Filipinli,fil</item>
+<item>Fransız,fr</item>
+<item>Gujarati Dili,gu</item>
+<item>Hintçe,hi</item>
+<item>Hırvat,hr</item>
+<item>Macar,hu</item>
+<item>Ermeni,hy</item>
+<item>Endonezya,id</item>
+<item>İzlanda,is</item>
+<item>İtalyan,it</item>
+<item>İbranice,he</item>
+<item>Japon,ja</item>
+<item>Kannada,kn</item>
+<item>Kore,ko</item>
+<item>Litvanya dili,lt</item>
+<item>Letonyalı,lv</item>
+<item>Malayalam,ml</item>
+<item>Marathi,mr</item>
+<item>Malayca,ms</item>
+<item>Norveç,nb</item>
+<item>Pencap,pa</item>
+<item>Polonya,pl</item>
+<item>Portekiz,pt</item>
+<item>Rumen,ro</item>
+<item>Rus,ru</item>
+<item>Sinhala Dili,si</item>
+<item>Slovakça,sk</item>
+<item>Slovence,sl</item>
+<item>Sırpça,sr</item>
+<item>İsveç,sv</item>
+<item>Swahili,sw</item>
+<item>Tamilce,ta</item>
+<item>Telugu Dili,te</item>
+<item>Taylandlı,th</item>
+<item>Türk,tr</item>
+<item>Ukrayna,uk</item>
+<item>Urduca,ur</item>
+<item>Vietnam,vi</item>
+<item>Çin,zh</item>
+</string-array>
+</resources>

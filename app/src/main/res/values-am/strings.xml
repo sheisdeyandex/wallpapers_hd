@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">አዲስ</string>
+<string name="category_3D">3ኛ</string>
+<string name="category_AMOLED">አሚዶ</string>
+<string name="category_DOUBLE">ድርብ ልጣፍ</string>
+<string name="category_ABSTRACTION">የአብይ አለመሳብ</string>
+<string name="category_AUTO">መኪናዎች የመኪና መለዋወጫ</string>
+<string name="category_ANIME">አኒሜ</string>
+<string name="category_ARMY">ሠራዊት / መሣሪያዎች</string>
+<string name="category_ART">ሥዕል</string>
+<string name="category_ARCHITECTURE">ሥነ ሕንፃ</string>
+<string name="category_FOOD">ምግብ</string>
+<string name="category_ANIMALS">እንስሳት</string>
+<string name="category_ZNAKI">ምልክቶች / በድንጋይ ላይ የተቀረጹ</string>
+<string name="category_GAMES">ጨዋታዎች</string>
+<string name="category_SPACE">ቦታ</string>
+<string name="category_PIPL">ሰዎች</string>
+<string name="category_MACRO">የማክሮ</string>
+<string name="category_MINIMALISM">አነስተኛ</string>
+<string name="category_MOTO">ሞተርሳይክሎች</string>
+<string name="category_MUSIC">ሙዚቃ እና ቪድዮ</string>
+<string name="category_HOLIDAYS">በዓላት</string>
+<string name="category_NATURE">ተፈጥሮ</string>
+<string name="category_SPORT">ፖለቲካ</string>
+<string name="category_SUPERHIROS">ሱፐርገር</string>
+<string name="category_TEXTURE">ውህዶች</string>
+<string name="category_FILMS">ፊልሞች</string>
+<string name="category_FANTASY">ቅዠት</string>
+<string name="category_FLOWERS">አበባ</string>
+<string name="category_HI_TECH">ታዲያስ-የቴክኖሎጂ</string>
+<string name="category_OTHER">የተለያዩ</string>
+<string name="categories">ምድቦች</string>
+<string name="install">_አስገባ</string>
+<string name="save">አስቀምጥ</string>
+<string name="tvBlockScreen">ማያ ገጽ ይቆልፉ የተሻለ የማያ ቆልፍ ማመልከቻ</string>
+<string name="homeScreen">መኖሪያ ቤት</string>
+<string name="everywhere">ሁሉም ቦታ</string>
+<string name="downloading">በማውረድ ላይ...</string>
+<string name="downloadingInfo">በማውረድ በኋላ, የ 1 ማስታወቂያ ይታያል</string>
+<string name="installedandsaved">የተቀመጡ እና የተጫነ</string>
+<string name="saved">የተቀመጡ</string>
+<string name="share">ማካፈል</string>
+<string name="clearCookies">ግልጽ</string>
+<string name="language">ቋንቋ</string>
+<string name="disableAds">ማስታወቂያዎችን አሰናክሉ</string>
+<string name="rateApp">ግምታዊ</string>
+<string name="activatePro">የቅርብ ስሪቶች</string>
+<string name="month">1 ወር</string>
+<string name="always">በፍጹም</string>
+<string name="subscriptionText">ማስታወቂያዎችን አሰናክሉ።</string>
+<string name="once">የአንድ ጊዜ ክፍያ</string>
+<string name="getPro">ግዛ</string>
+<string name="selectScreen">ፋይል ምረጡ</string>
+<string name="apply">ተግብር</string>
+<string name="ok">እሺ</string>
+<string name="no_internet">የበይነመረብ ግንኙነት የለም</string>
+<string name="make_sure_connected">መሣሪያዎ ከበይነመረቡ ጋር እየተገናኘ መሆኑን ያረጋግጡ ።  ተንቀሳቃሽ ወይም ዋይ-ፋይ አውታረ መረብ በመጠቀም ይሞክሩ ።</string>
+<string name="try_vpn">የበይነመረብ ግንኙነት ካለ ግን መተግበሪያው ስህተት ይሰጣል, ከዚያም የግል ቪፒኤን ይጠቀሙ</string>
+<string name="user_agreement">የግላዊ ሁኔታ መመሪያ</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">ሰላም! ግምገማ ከማስገባትዎ በፊት ይህን መተግበሪያ መጫን አለብዎት ።  https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">ግልጽ</string>
+<string name="clear">ሰርዝ</string>
+<string name="wholeCache">የ"የጋራ መሸጎጫ -"</string>
+<string-array name="language">
+<item>አማርኛ,am</item>
+<item>የአረብ,ar</item>
+<item>ቡልጋሪኛ,bg</item>
+<item>አማርኛ,bn</item>
+<item>ጣሊያንኛ,ca</item>
+<item>ቼክኛ,cs</item>
+<item>ኢንዱኑስኛ,da</item>
+<item>ጀርመን,de</item>
+<item>ግሪክኛ,el</item>
+<item>አማርኛ,en</item>
+<item>ስፓኒሽ,es</item>
+<item>ኢስቶኒያንኛ,et</item>
+<item>ፐርሺያኛ,fa</item>
+<item>ፊኒሽ,fi</item>
+<item>ፊሊፒንኛ,fil</item>
+<item>የፈረንሳ ይ,fr</item>
+<item>ጉጅራቲ,gu</item>
+<item>ሒንዱኛ,hi</item>
+<item>ጣሊያንኛ,hr</item>
+<item>ሀንጋሪኛ,hu</item>
+<item>አርመናዊ,hy</item>
+<item>እንዶኒሲኛ,id</item>
+<item>ኢግቦኛ,is</item>
+<item>ኢጣሊያንኛ,it</item>
+<item>ዕብራስጥ,he</item>
+<item>ጃፓንኛ,ja</item>
+<item>ካናዳኛ,kn</item>
+<item>ኮሪያኛ,ko</item>
+<item>ሊቱአኒያን,lt</item>
+<item>ላትቪያን,lv</item>
+<item>ማላይኛ,ml</item>
+<item>ተሉጉ ማራቲ,mr</item>
+<item>ማላይኛ,ms</item>
+<item>ኖርዌጂያን,nb</item>
+<item>ፑንጃቢ,pa</item>
+<item>ፖሊሽ,pl</item>
+<item>ፖርቱጋልኛ,pt</item>
+<item>ሮማኒያን,ro</item>
+<item>ራሺያኛ,ru</item>
+<item>አማርኛ,si</item>
+<item>ስሎቫክኛ,sk</item>
+<item>ስሎቪኛ,sl</item>
+<item>ሰርቢኛ,sr</item>
+<item>ስዊድንኛ,sv</item>
+<item>ስዋሂሊኛ,sw</item>
+<item>ታሚልኛ,ta</item>
+<item>ተሉጉኛ,te</item>
+<item>ታይኛ,th</item>
+<item>ቱርክኛ,tr</item>
+<item>ዩክረኒኛ,uk</item>
+<item>ኡርዱኛ,ur</item>
+<item>ቪትናምኛ,vi</item>
+<item>ቻይንኛ,zh</item>
+</string-array>
+</resources>

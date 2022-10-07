@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Ny</string>
+<string name="category_3D">3D ANIMASJON</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">DOBBELT Tapet</string>
+<string name="category_ABSTRACTION">Abstraksjon</string>
+<string name="category_AUTO">Biler</string>
+<string name="category_ANIME">Erotisk massasje trondheim Anime hentai</string>
+<string name="category_ARMY">Hæren / Utstyr</string>
+<string name="category_ART">ART</string>
+<string name="category_ARCHITECTURE">Arkitektur</string>
+<string name="category_FOOD">Måltid</string>
+<string name="category_ANIMALS">Dyr</string>
+<string name="category_ZNAKI">Skilt / Inskripsjoner</string>
+<string name="category_GAMES">Games</string>
+<string name="category_SPACE">Plass</string>
+<string name="category_PIPL">Folk</string>
+<string name="category_MACRO">Makro</string>
+<string name="category_MINIMALISM">Minimalisme</string>
+<string name="category_MOTO">Motorsykkel</string>
+<string name="category_MUSIC">Musikk</string>
+<string name="category_HOLIDAYS">Ferie</string>
+<string name="category_NATURE">Natur</string>
+<string name="category_SPORT">Sport</string>
+<string name="category_SUPERHIROS">Superhelt</string>
+<string name="category_TEXTURE">Tekstur</string>
+<string name="category_FILMS">Film</string>
+<string name="category_FANTASY">Fantasiverden</string>
+<string name="category_FLOWERS">Blomster</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Ulike</string>
+<string name="categories">Kategorier</string>
+<string name="install">Installere</string>
+<string name="save">Lagre</string>
+<string name="tvBlockScreen">låseskjerm</string>
+<string name="homeScreen">Startskjerm</string>
+<string name="everywhere">Overalt</string>
+<string name="downloading">Laste...</string>
+<string name="downloadingInfo">Etter nedlasting vil du bli vist 1 annonse</string>
+<string name="installedandsaved">Lagret og installert</string>
+<string name="saved">Lagret I Galleriet</string>
+<string name="share">Dele</string>
+<string name="clearCookies">Tøm Hurtigbuffer</string>
+<string name="language">Språk</string>
+<string name="disableAds">Deaktiver annonser</string>
+<string name="rateApp">Anslag</string>
+<string name="activatePro">Aktiver PRO-versjonen</string>
+<string name="month">1 måned igjen</string>
+<string name="always">Alltid</string>
+<string name="subscriptionText">Deaktiver annonser.</string>
+<string name="once">Engangsbetaling</string>
+<string name="getPro">Kjøpe</string>
+<string name="selectScreen">Velg en skjerm</string>
+<string name="apply">Gjelde</string>
+<string name="ok">OK</string>
+<string name="no_internet">Det er ingen internett-tilkobling</string>
+<string name="make_sure_connected">Forsikre deg om at enheten din er koblet til Internett. Prøv å bruke et mobil-eller Wi-Fi-nettverk.</string>
+<string name="try_vpn">Hvis Det er En Internett-tilkobling, men applikasjonen gir en feil, kan DU bruke EN VPN</string>
+<string name="user_agreement">Personvern</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Hei! Jeg likte denne appen og bestemte meg for å dele den med deg. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Tøm Hurtigbuffer</string>
+<string name="clear">Klar</string>
+<string name="wholeCache">Shared Cache -</string>
+<string-array name="language">
+<item>Amharisk,am</item>
+<item>Arabisk,ar</item>
+<item>Bulgarsk,bg</item>
+<item>Bengali,bn</item>
+<item>Katalansk,ca</item>
+<item>Tsjekkia,cs</item>
+<item>Dansk,da</item>
+<item>Tysk,de</item>
+<item>Gresk,el</item>
+<item>Engelsk,en</item>
+<item>Spansk,es</item>
+<item>Estland,et</item>
+<item>Persisk,fa</item>
+<item>Finsk,fi</item>
+<item>Filippinsk,fil</item>
+<item>Fransk,fr</item>
+<item>Gujarati,gu</item>
+<item>Hindi,hi</item>
+<item>Kroatias,hr</item>
+<item>Ungarn,hu</item>
+<item>Armensk,hy</item>
+<item>Indonesia,id</item>
+<item>Islandsk,is</item>
+<item>Italiensk,it</item>
+<item>Hebraisk,he</item>
+<item>Japansk,ja</item>
+<item>Kannada,kn</item>
+<item>Korea,ko</item>
+<item>Litauen,lt</item>
+<item>Latvia,lv</item>
+<item>Malayalam,ml</item>
+<item>Marathi,mr</item>
+<item>Malaysisk,ms</item>
+<item>Norsk,nb</item>
+<item>Punjabi,pa</item>
+<item>Pusse,pl</item>
+<item>Portugisisk,pt</item>
+<item>Romanias,ro</item>
+<item>Russisk,ru</item>
+<item>Singalesisk,si</item>
+<item>Slovakia,sk</item>
+<item>Slovensk,sl</item>
+<item>Serbisk,sr</item>
+<item>Svensk,sv</item>
+<item>Swahili,sw</item>
+<item>Tamilsk,ta</item>
+<item>Telugu,te</item>
+<item>Thailandsk,th</item>
+<item>Tyrkia,tr</item>
+<item>Ukraina,uk</item>
+<item>Urdu,ur</item>
+<item>Vietnamesisk,vi</item>
+<item>Kinesisk,zh</item>
+</string-array>
+</resources>

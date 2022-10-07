@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Nýtt</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">TVÖFALDUR</string>
+<string name="category_ABSTRACTION">Vatnstöku</string>
+<string name="category_AUTO">Bílar</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Army / Búnaður</string>
+<string name="category_ART">LIST</string>
+<string name="category_ARCHITECTURE">Arkitektúr</string>
+<string name="category_FOOD">Máltíð</string>
+<string name="category_ANIMALS">Dýr</string>
+<string name="category_ZNAKI">Merki / Áletranir</string>
+<string name="category_GAMES">Leikir</string>
+<string name="category_SPACE">Bil</string>
+<string name="category_PIPL">Fólk</string>
+<string name="category_MACRO">Fjölva</string>
+<string name="category_MINIMALISM">Minimalismi</string>
+<string name="category_MOTO">Mótorhjól</string>
+<string name="category_MUSIC">Tónlist</string>
+<string name="category_HOLIDAYS">Frídagar</string>
+<string name="category_NATURE">Náttúra</string>
+<string name="category_SPORT">Sport</string>
+<string name="category_SUPERHIROS">Superheroes</string>
+<string name="category_TEXTURE">Áferð</string>
+<string name="category_FILMS">Myndir</string>
+<string name="category_FANTASY">Fantasy</string>
+<string name="category_FLOWERS">Blóm</string>
+<string name="category_HI_TECH">Hátækni</string>
+<string name="category_OTHER">Ýmsir</string>
+<string name="categories">Flokkar</string>
+<string name="install">Setja inn</string>
+<string name="save">Vista</string>
+<string name="tvBlockScreen">Læsa Skjá</string>
+<string name="homeScreen">Heimaskjár</string>
+<string name="everywhere">Alls staðar</string>
+<string name="downloading">Sæki...</string>
+<string name="downloadingInfo">Eftir niðurhal, þú verður sýnt 1 auglýsing</string>
+<string name="installedandsaved">Vista og setja í embætti</string>
+<string name="saved">Vistað Í Gallerí</string>
+<string name="share">Til að deila</string>
+<string name="clearCookies">Hreinsa Skyndiminni</string>
+<string name="language">Tungumál</string>
+<string name="disableAds">Slökkva auglýsingar</string>
+<string name="rateApp">Mat</string>
+<string name="activatePro">Virkja PRO útgáfuna</string>
+<string name="month">1 mánuður</string>
+<string name="always">Að eilífu</string>
+<string name="subscriptionText">Slökkva auglýsingar.</string>
+<string name="once">Eingreiðsla</string>
+<string name="getPro">Kaupa</string>
+<string name="selectScreen">Veldu skjá</string>
+<string name="apply">Virkja</string>
+<string name="ok">Í lagi</string>
+<string name="no_internet">Það er engin internettenging</string>
+<string name="make_sure_connected">Gakktu úr skugga um að tækið sé tengt Við Internetið. Prófaðu að nota farsíma eða Þráðlaust Net.</string>
+<string name="try_vpn">Ef Það er Nettenging, en forritið gefur villu, þá nota VPN</string>
+<string name="user_agreement">Persónuverndarstefna</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Hæ! Mér líkaði þetta app og ákvað að deila því með þér. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Hreinsa Skyndiminni</string>
+<string name="clear">Hreinsa</string>
+<string name="wholeCache">the " Hluti Skyndiminni -"</string>
+<string-array name="language">
+<item>Amharíska,am</item>
+<item>Arabíska,ar</item>
+<item>Búlgarska,bg</item>
+<item>Bengalska,bn</item>
+<item>Katalónska,ca</item>
+<item>Tékknesku,cs</item>
+<item>Danska,da</item>
+<item>Þýska,de</item>
+<item>Gríska,el</item>
+<item>Enska,en</item>
+<item>Spænska,es</item>
+<item>Eistnesku,et</item>
+<item>Persneska,fa</item>
+<item>Finnsku,fi</item>
+<item>Filipino,fil</item>
+<item>Franska,fr</item>
+<item>Gujarati,gu</item>
+<item>Hindí,hi</item>
+<item>Króatíska,hr</item>
+<item>Ungverska,hu</item>
+<item>Armenskt,hy</item>
+<item>Indónesísku,id</item>
+<item>Íslenska,is</item>
+<item>Ítalska,it</item>
+<item>Hebreska,he</item>
+<item>Japanska,ja</item>
+<item>Kannada,kn</item>
+<item>Kóreska,ko</item>
+<item>Litháíska,lt</item>
+<item>Lettneska,lv</item>
+<item>Malajalam,ml</item>
+<item>Marathi,mr</item>
+<item>Malay,ms</item>
+<item>Norsku,nb</item>
+<item>Punjabi,pa</item>
+<item>Pólsk,pl</item>
+<item>Portúgalska,pt</item>
+<item>Rúmenska,ro</item>
+<item>Rússneska,ru</item>
+<item>Sinhala,si</item>
+<item>Slóvakíu,sk</item>
+<item>Slóvensku,sl</item>
+<item>Serbneska,sr</item>
+<item>Sænska,sv</item>
+<item>Svahílí,sw</item>
+<item>Tamil,ta</item>
+<item>Tölvupóstur,te</item>
+<item>Taílenska,th</item>
+<item>Tyrkneska,tr</item>
+<item>Úkraínsku,uk</item>
+<item>Úrdú,ur</item>
+<item>Víetnamska,vi</item>
+<item>Kínverska,zh</item>
+</string-array>
+</resources>

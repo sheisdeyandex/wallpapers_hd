@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Mpya</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">DOUBLE Karatasi</string>
+<string name="category_ABSTRACTION">Abhyanga</string>
+<string name="category_AUTO">Cars</string>
+<string name="category_ANIME">Tabu</string>
+<string name="category_ARMY">Jeshi / Vifaa</string>
+<string name="category_ART">SANAA</string>
+<string name="category_ARCHITECTURE">Usanifu</string>
+<string name="category_FOOD">Unga</string>
+<string name="category_ANIMALS">Wanyama</string>
+<string name="category_ZNAKI">Ishara / Maandishi</string>
+<string name="category_GAMES">Michezo</string>
+<string name="category_SPACE">Pole</string>
+<string name="category_PIPL">Watu</string>
+<string name="category_MACRO">Macro</string>
+<string name="category_MINIMALISM">Minimalism</string>
+<string name="category_MOTO">Pikipiki</string>
+<string name="category_MUSIC">Muziki</string>
+<string name="category_HOLIDAYS">Siku za mapumziko</string>
+<string name="category_NATURE">Nature</string>
+<string name="category_SPORT">Michezo</string>
+<string name="category_SUPERHIROS">Superheroes</string>
+<string name="category_TEXTURE">Katalogi</string>
+<string name="category_FILMS">Filamu</string>
+<string name="category_FANTASY">Ndoto</string>
+<string name="category_FLOWERS">Maua</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Mbalimbali</string>
+<string name="categories">Kategoria</string>
+<string name="install">Kufunga</string>
+<string name="save">Hifadhi</string>
+<string name="tvBlockScreen">Kufuli Screen</string>
+<string name="homeScreen">Nyumbani Screen</string>
+<string name="everywhere">Kila mahali</string>
+<string name="downloading">Kupakua...</string>
+<string name="downloadingInfo">Baada ya kushusha, utakuwa umeonyesha 1 tangazo</string>
+<string name="installedandsaved">Kuokolewa na imewekwa</string>
+<string name="saved">Kuokolewa Kwa Nyumba Ya Sanaa</string>
+<string name="share">Kushiriki</string>
+<string name="clearCookies">Wazi Cache</string>
+<string name="language">Lugha</string>
+<string name="disableAds">Lemaza matangazo</string>
+<string name="rateApp">Karibu</string>
+<string name="activatePro">Kuamsha pro version</string>
+<string name="month">1 kuu</string>
+<string name="always">Milele</string>
+<string name="subscriptionText">Lemaza matangazo.</string>
+<string name="once">Malipo ya wakati mmoja</string>
+<string name="getPro">Nakup</string>
+<string name="selectScreen">Chagua screen</string>
+<string name="apply">Maombi</string>
+<string name="ok">Sawa</string>
+<string name="no_internet">Hakuna muunganisho wa intaneti</string>
+<string name="make_sure_connected">Kuhakikisha kifaa yako ni kushikamana na Mtandao. Jaribu kutumia simu ya mkononi au Mtandao Wa Wi-Fi.</string>
+<string name="try_vpn">Kama kuna Uhusiano Wa Internet, lakini maombi inatoa makosa, kisha kutumia VPN</string>
+<string name="user_agreement">Sera ya faragha</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Hi! Mimi walipenda programu hii na aliamua kushiriki ni pamoja na wewe. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Wazi Cache</string>
+<string name="clear">Wazi</string>
+<string name="wholeCache">Pamoja Cache -</string>
+<string-array name="language">
+<item>Amharic,am</item>
+<item>Arabarabic,ar</item>
+<item>Kibulgaria,bg</item>
+<item>Kibengali,bn</item>
+<item>Kibosnia,ca</item>
+<item>Kicheki,cs</item>
+<item>Denmark,da</item>
+<item>Kijerumani,de</item>
+<item>Kigiriki,el</item>
+<item>Englishen,en</item>
+<item>Kihispania,es</item>
+<item>Kiestonia,et</item>
+<item>V. i. p,fa</item>
+<item>Kifinlandi,fi</item>
+<item>Filipino,fil</item>
+<item>Kifaransa,fr</item>
+<item>Kigujarati,gu</item>
+<item>Kihindi,hi</item>
+<item>Kroatia,hr</item>
+<item>Kihungaria,hu</item>
+<item>Kiarmenia,hy</item>
+<item>Indonesiyo,id</item>
+<item>Kiaislandi,is</item>
+<item>Italia,it</item>
+<item>Kiebrania,he</item>
+<item>Japani,ja</item>
+<item>Kannada,kn</item>
+<item>Kikorea,ko</item>
+<item>Kilithuania,lt</item>
+<item>Kibosnia,lv</item>
+<item>Swahili,ml</item>
+<item>Marathi,mr</item>
+<item>Jina *,ms</item>
+<item>Norwegian,nb</item>
+<item>Kipunjabi,pa</item>
+<item>Kipolishi,pl</item>
+<item>Kireno,pt</item>
+<item>Kiromania,ro</item>
+<item>Kirusi,ru</item>
+<item>Sinhale,si</item>
+<item>Kislovakia,sk</item>
+<item>Kislovenia,sl</item>
+<item>Kiserbia,sr</item>
+<item>Swedish,sv</item>
+<item>Kiswahili,sw</item>
+<item>Tamil,ta</item>
+<item>Izitifiketi,te</item>
+<item>Thai,th</item>
+<item>Kituruki,tr</item>
+<item>Kiukreni,uk</item>
+<item>Bidhaa,ur</item>
+<item>Kivietnam,vi</item>
+<item>Kichina,zh</item>
+</string-array>
+</resources>

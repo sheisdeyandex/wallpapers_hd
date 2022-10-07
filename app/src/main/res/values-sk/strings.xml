@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Nový</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">Dvojitá Tapeta</string>
+<string name="category_ABSTRACTION">Abstrakcia</string>
+<string name="category_AUTO">Automobilov</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Armáda / Vybavenie</string>
+<string name="category_ART">UMENIE</string>
+<string name="category_ARCHITECTURE">Architektúra</string>
+<string name="category_FOOD">Jedlo</string>
+<string name="category_ANIMALS">Zvieratá</string>
+<string name="category_ZNAKI">Značky / Nápisy</string>
+<string name="category_GAMES">Hra</string>
+<string name="category_SPACE">Priestor</string>
+<string name="category_PIPL">Ľudí</string>
+<string name="category_MACRO">Makroregionálny</string>
+<string name="category_MINIMALISM">Minimalizmus</string>
+<string name="category_MOTO">Motocykel</string>
+<string name="category_MUSIC">Hudba</string>
+<string name="category_HOLIDAYS">Dovolenka</string>
+<string name="category_NATURE">Povaha</string>
+<string name="category_SPORT">Šport</string>
+<string name="category_SUPERHIROS">Superhrdinovia</string>
+<string name="category_TEXTURE">Textúra</string>
+<string name="category_FILMS">Film</string>
+<string name="category_FANTASY">Fantasy</string>
+<string name="category_FLOWERS">Kvet</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Rozličné</string>
+<string name="categories">Kategória</string>
+<string name="install">Nainštalovať</string>
+<string name="save">Uložiť</string>
+<string name="tvBlockScreen">Uzamknutá Obrazovka</string>
+<string name="homeScreen">plocha</string>
+<string name="everywhere">Všade</string>
+<string name="downloading">Stiahnuť...</string>
+<string name="downloadingInfo">Po stiahnutí sa zobrazí 1 reklama</string>
+<string name="installedandsaved">Uložené a nainštalované</string>
+<string name="saved">Uložené do galérie</string>
+<string name="share">Zdieľať</string>
+<string name="clearCookies">Vymazať Vyrovnávaciu Pamäť</string>
+<string name="language">Jazyk</string>
+<string name="disableAds">Zakázať reklamy</string>
+<string name="rateApp">Odhad</string>
+<string name="activatePro">Aktivujte verziu PRO</string>
+<string name="month">1 mesiac</string>
+<string name="always">Navždy</string>
+<string name="subscriptionText">Zakázať reklamy.</string>
+<string name="once">Jednorazová platba</string>
+<string name="getPro">Kúpiť</string>
+<string name="selectScreen">Vyberte obrazovku</string>
+<string name="apply">Uplatňovať</string>
+<string name="ok">Dobre</string>
+<string name="no_internet">Nie je k dispozícii pripojenie na internet</string>
+<string name="make_sure_connected">Uistite sa, že je vaše zariadenie pripojené k internetu. Skúste použiť mobilnú alebo Wi-Fi sieť.</string>
+<string name="try_vpn">Ak je k dispozícii pripojenie na Internet, ale aplikácia zobrazí chybu, použite sieť VPN</string>
+<string name="user_agreement">Súkromie</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Ahoj! Táto aplikácia sa mi páčila a rozhodla som sa ju s vami zdieľať. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Vymazať Vyrovnávaciu Pamäť</string>
+<string name="clear">Jasný</string>
+<string name="wholeCache">zdieľaná vyrovnávacia pamäť -</string>
+<string-array name="language">
+<item>Amharčina,am</item>
+<item>Arabský,ar</item>
+<item>Bulharský,bg</item>
+<item>Bengálsky,bn</item>
+<item>Čeština,ca</item>
+<item>Český,cs</item>
+<item>Dánsky,da</item>
+<item>Nemecký,de</item>
+<item>Grécky,el</item>
+<item>Anglický,en</item>
+<item>Španielsko,es</item>
+<item>Estónsky,et</item>
+<item>Perzský,fa</item>
+<item>Fínsko,fi</item>
+<item>Filipínsky,fil</item>
+<item>Francúzky,fr</item>
+<item>Gujarati,gu</item>
+<item>Hindčina,hi</item>
+<item>Chorvátsky,hr</item>
+<item>Maďarský,hu</item>
+<item>Arménsky,hy</item>
+<item>Indonézske,id</item>
+<item>Islandský,is</item>
+<item>Taliansky,it</item>
+<item>Hebrejský,he</item>
+<item>Japonský,ja</item>
+<item>Kannadčina,kn</item>
+<item>Kórejský,ko</item>
+<item>Litovský,lt</item>
+<item>Lotyšský,lv</item>
+<item>Malajálamčina,ml</item>
+<item>Maráthˇ,mr</item>
+<item>Malajčina,ms</item>
+<item>Nórsko,nb</item>
+<item>Punjabi,pa</item>
+<item>Poľský,pl</item>
+<item>Portugalský,pt</item>
+<item>Rumunský,ro</item>
+<item>Ruský,ru</item>
+<item>Sinhalese,si</item>
+<item>Slovenský,sk</item>
+<item>Slovinský,sl</item>
+<item>Srbský,sr</item>
+<item>Švédsky,sv</item>
+<item>Svahilčina,sw</item>
+<item>Tamil,ta</item>
+<item>Telugu,te</item>
+<item>Thajské,th</item>
+<item>Turecký,tr</item>
+<item>Ukrajinský,uk</item>
+<item>Urdu,ur</item>
+<item>Vietnamskej,vi</item>
+<item>Čínsky,zh</item>
+</string-array>
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">নতুন</string>
+<string name="category_3D">3 ডি</string>
+<string name="category_AMOLED">অ্যামোলেড</string>
+<string name="category_DOUBLE">ডাবল ওয়ালপেপার</string>
+<string name="category_ABSTRACTION">বিমূর্ততা</string>
+<string name="category_AUTO">গাড়ি</string>
+<string name="category_ANIME">এনিমে</string>
+<string name="category_ARMY">সেনা / সরঞ্জাম</string>
+<string name="category_ART">শিল্প</string>
+<string name="category_ARCHITECTURE">স্থাপত্য</string>
+<string name="category_FOOD">খাবার</string>
+<string name="category_ANIMALS">প্রাণী</string>
+<string name="category_ZNAKI">লক্ষণ / শিলালিপি</string>
+<string name="category_GAMES">গেমস</string>
+<string name="category_SPACE">স্থান</string>
+<string name="category_PIPL">মানুষ</string>
+<string name="category_MACRO">ম্যাক্রো</string>
+<string name="category_MINIMALISM">মিনিমালিজম</string>
+<string name="category_MOTO">মোটরসাইকেল</string>
+<string name="category_MUSIC">সঙ্গীত</string>
+<string name="category_HOLIDAYS">ছুটির দিন</string>
+<string name="category_NATURE">প্রকৃতি</string>
+<string name="category_SPORT">খেলাধুলা</string>
+<string name="category_SUPERHIROS">সুপারহিরোদের</string>
+<string name="category_TEXTURE">টেক্সচার</string>
+<string name="category_FILMS">চলচ্চিত্র</string>
+<string name="category_FANTASY">কল্পনা</string>
+<string name="category_FLOWERS">ফুল</string>
+<string name="category_HI_TECH">হাই-টেক</string>
+<string name="category_OTHER">বিভিন্ন</string>
+<string name="categories">বিভাগসমূহ</string>
+<string name="install">ইনস্টল করুন</string>
+<string name="save">সংরক্ষণ</string>
+<string name="tvBlockScreen">লক স্ক্রিন</string>
+<string name="homeScreen">হোম স্ক্রিন</string>
+<string name="everywhere">সর্বত্র</string>
+<string name="downloading">ডাউনলোড হচ্ছে...</string>
+<string name="downloadingInfo">ডাউনলোড করার পরে, আপনি 1 বিজ্ঞাপন দেখানো হবে</string>
+<string name="installedandsaved">সংরক্ষিত এবং ইনস্টল করা হয়েছে</string>
+<string name="saved">গ্যালারিতে সংরক্ষিত</string>
+<string name="share">শেয়ার করতে</string>
+<string name="clearCookies">ক্যাশে সাফ করুন</string>
+<string name="language">ভাষা</string>
+<string name="disableAds">বিজ্ঞাপনগুলি অক্ষম করুন</string>
+<string name="rateApp">অনুমান</string>
+<string name="activatePro">প্রো সংস্করণ সক্রিয় করুন</string>
+<string name="month">1 মাস</string>
+<string name="always">চিরকাল</string>
+<string name="subscriptionText">বিজ্ঞাপন নিষ্ক্রিয় করুন.</string>
+<string name="once">এক সময় পেমেন্ট</string>
+<string name="getPro">কিনুন</string>
+<string name="selectScreen">একটি পর্দা নির্বাচন করুন</string>
+<string name="apply">আবেদন</string>
+<string name="ok">ঠিক আছে</string>
+<string name="no_internet">কোন ইন্টারনেট সংযোগ নেই</string>
+<string name="make_sure_connected">আপনার ডিভাইস ইন্টারনেটের সাথে সংযুক্ত করা হয় তা নিশ্চিত করুন. একটি মোবাইল বা ওয়াই-ফাই নেটওয়ার্ক ব্যবহার করার চেষ্টা করুন.</string>
+<string name="try_vpn">যদি কোনও ইন্টারনেট সংযোগ থাকে তবে অ্যাপ্লিকেশনটি একটি ত্রুটি দেয়, তবে একটি ভিপিএন ব্যবহার করুন</string>
+<string name="user_agreement">গোপনীয়তা নীতি</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">হাই! আমি এই অ্যাপ্লিকেশন পছন্দ এবং আপনার সাথে শেয়ার করার সিদ্ধান্ত নিয়েছে. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">ক্যাশে সাফ করুন</string>
+<string name="clear">পরিষ্কার</string>
+<string name="wholeCache">ভাগ করা ক্যাশে -</string>
+<string-array name="language">
+<item>আমহারিক,am</item>
+<item>আরবীয়,ar</item>
+<item>বুলগেরীয়,bg</item>
+<item>বাঙালি,bn</item>
+<item>কাতালান,ca</item>
+<item>চেক জাতি,cs</item>
+<item>ডেনিশ,da</item>
+<item>জার্মান,de</item>
+<item>গ্রীক,el</item>
+<item>ইংরেজি,en</item>
+<item>স্প্যানিশ,es</item>
+<item>এস্তোনিয়ান,et</item>
+<item>ফার্সি,fa</item>
+<item>ফিনিশ,fi</item>
+<item>ফিলিপিনো,fil</item>
+<item>ফরাসি,fr</item>
+<item>গুজরাটি,gu</item>
+<item>হিন্দি,hi</item>
+<item>ক্রোয়েশিয়ান,hr</item>
+<item>হাঙ্গেরীয়,hu</item>
+<item>আর্মেনীয়,hy</item>
+<item>ইন্দোনেশিয়ান,id</item>
+<item>আইসল্যান্ডীয়,is</item>
+<item>ইতালীয়,it</item>
+<item>হিব্রু,he</item>
+<item>জাপানি,ja</item>
+<item>কন্নড়,kn</item>
+<item>কোরিয়ান,ko</item>
+<item>লিথুয়ানিয়ান,lt</item>
+<item>লাত্ভীয়,lv</item>
+<item>মালায়ালম,ml</item>
+<item>মারাঠি,mr</item>
+<item>মালয়,ms</item>
+<item>নরওয়েয়ান,nb</item>
+<item>পাঞ্জাবি,pa</item>
+<item>পোলিশ,pl</item>
+<item>পর্তুগিজ,pt</item>
+<item>রোমানিয়ান,ro</item>
+<item>রাশিয়ান,ru</item>
+<item>সিংহলিজ,si</item>
+<item>স্লোভাক,sk</item>
+<item>স্লোভেনীয়,sl</item>
+<item>সার্বীয়,sr</item>
+<item>সুইডিশ,sv</item>
+<item>সোয়াহিলি,sw</item>
+<item>তামিল,ta</item>
+<item>তেলুগু,te</item>
+<item>থাই,th</item>
+<item>তুর্কি,tr</item>
+<item>ইউক্রেনিয়ান,uk</item>
+<item>উর্দু,ur</item>
+<item>ভিয়েতনামী,vi</item>
+<item>চীনা,zh</item>
+</string-array>
+</resources>

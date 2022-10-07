@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Új</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">Dupla</string>
+<string name="category_ABSTRACTION">Absztrakció</string>
+<string name="category_AUTO">Autók</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Hadsereg / Felszerelés</string>
+<string name="category_ART">Művészet</string>
+<string name="category_ARCHITECTURE">Építészet</string>
+<string name="category_FOOD">Liszt</string>
+<string name="category_ANIMALS">Állatok</string>
+<string name="category_ZNAKI">Jelek / Feliratok</string>
+<string name="category_GAMES">Játékok</string>
+<string name="category_SPACE">Tér</string>
+<string name="category_PIPL">Emberek</string>
+<string name="category_MACRO">Makró</string>
+<string name="category_MINIMALISM">Minimalizmus</string>
+<string name="category_MOTO">Motorkerékpárok</string>
+<string name="category_MUSIC">Zene</string>
+<string name="category_HOLIDAYS">Ünnepek</string>
+<string name="category_NATURE">Természet</string>
+<string name="category_SPORT">Sport</string>
+<string name="category_SUPERHIROS">Szuperhősök</string>
+<string name="category_TEXTURE">Textúrák</string>
+<string name="category_FILMS">Filmek</string>
+<string name="category_FANTASY">Fantázia</string>
+<string name="category_FLOWERS">Virágok</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Különböző</string>
+<string name="categories">Kategóriák</string>
+<string name="install">Telepítés</string>
+<string name="save">Mentés</string>
+<string name="tvBlockScreen">Képernyő Lezárása</string>
+<string name="homeScreen">Kezdőképernyő</string>
+<string name="everywhere">Mindenhol</string>
+<string name="downloading">Letöltés...</string>
+<string name="downloadingInfo">A letöltés után 1 hirdetés jelenik meg</string>
+<string name="installedandsaved">Mentett és telepített</string>
+<string name="saved">Galériába mentve</string>
+<string name="share">Megosztani</string>
+<string name="clearCookies">Gyorsítótár Törlése</string>
+<string name="language">Nyelv</string>
+<string name="disableAds">Hirdetések letiltása</string>
+<string name="rateApp">Becslés</string>
+<string name="activatePro">Aktiválja a PRO verziót</string>
+<string name="month">1 hónap</string>
+<string name="always">Örökre</string>
+<string name="subscriptionText">Tiltsa le a hirdetéseket.</string>
+<string name="once">Egyszeri fizetés</string>
+<string name="getPro">Vásárlás</string>
+<string name="selectScreen">Válasszon egy képernyőt</string>
+<string name="apply">Jelentkezés</string>
+<string name="ok">Ok</string>
+<string name="no_internet">Nincs internet kapcsolat</string>
+<string name="make_sure_connected">Ellenőrizze, hogy készüléke csatlakozik-e az internethez. Próbáljon mobil vagy Wi-Fi hálózatot használni.</string>
+<string name="try_vpn">Ha van internetkapcsolat, de az alkalmazás hibát ad, akkor használjon VPN-t</string>
+<string name="user_agreement">Adatvédelmi szabályzat</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Sziasztok! Tetszett ez az alkalmazás, és úgy döntött, hogy ossza meg veled. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Gyorsítótár Törlése</string>
+<string name="clear">Tiszta</string>
+<string name="wholeCache">a " megosztott gyorsítótár -"</string>
+<string-array name="language">
+<item>Amhara,am</item>
+<item>Arab,ar</item>
+<item>Bolgár,bg</item>
+<item>Bengáli,bn</item>
+<item>Katalán,ca</item>
+<item>Cseh,cs</item>
+<item>Dán,da</item>
+<item>Német,de</item>
+<item>Görög,el</item>
+<item>Magyar,en</item>
+<item>Spanyol,es</item>
+<item>Észt,et</item>
+<item>Perzsa,fa</item>
+<item>Finn,fi</item>
+<item>Fülöp-szigeteki,fil</item>
+<item>Francia,fr</item>
+<item>Gudzsaráti,gu</item>
+<item>Hindi,hi</item>
+<item>Horvát,hr</item>
+<item>Magyar,hu</item>
+<item>Örmény,hy</item>
+<item>Indonéz,id</item>
+<item>Izlandi,is</item>
+<item>Olasz,it</item>
+<item>Héber,he</item>
+<item>Japán,ja</item>
+<item>Kannada,kn</item>
+<item>Koreai,ko</item>
+<item>Litván,lt</item>
+<item>Lett,lv</item>
+<item>Malayalam,ml</item>
+<item>Marathi,mr</item>
+<item>Maláj,ms</item>
+<item>Norvég,nb</item>
+<item>Pandzsábi,pa</item>
+<item>Lengyel,pl</item>
+<item>Portugál,pt</item>
+<item>Román,ro</item>
+<item>Orosz,ru</item>
+<item>Szingaléz,si</item>
+<item>Szlovák,sk</item>
+<item>Szlovén,sl</item>
+<item>Szerb,sr</item>
+<item>Svéd,sv</item>
+<item>Szuahéli,sw</item>
+<item>Tamil,ta</item>
+<item>Telugu,te</item>
+<item>Thai,th</item>
+<item>Török,tr</item>
+<item>Ukrán,uk</item>
+<item>Urdu,ur</item>
+<item>Vietnámi,vi</item>
+<item>Kínai,zh</item>
+</string-array>
+</resources>

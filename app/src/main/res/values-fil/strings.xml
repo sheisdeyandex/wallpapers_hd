@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Bago</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">DOBLE</string>
+<string name="category_ABSTRACTION">Abstraction</string>
+<string name="category_AUTO">Mga sasakyan</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Hukbo / Sasakyan</string>
+<string name="category_ART">sining</string>
+<string name="category_ARCHITECTURE">Arkitektura</string>
+<string name="category_FOOD">Pagkain</string>
+<string name="category_ANIMALS">Mga hayop</string>
+<string name="category_ZNAKI">Mga Palatandaan / Inskripsiyon</string>
+<string name="category_GAMES">Mga laro</string>
+<string name="category_SPACE">Space</string>
+<string name="category_PIPL">Mga tao</string>
+<string name="category_MACRO">Macro</string>
+<string name="category_MINIMALISM">Minimalism</string>
+<string name="category_MOTO">Mga motorsiklo</string>
+<string name="category_MUSIC">Musika</string>
+<string name="category_HOLIDAYS">Mga Piyesta Opisyal</string>
+<string name="category_NATURE">Kalikasan</string>
+<string name="category_SPORT">Palakasan</string>
+<string name="category_SUPERHIROS">Mga superhero</string>
+<string name="category_TEXTURE">Mga texture</string>
+<string name="category_FILMS">Mga pelikula</string>
+<string name="category_FANTASY">pantasya</string>
+<string name="category_FLOWERS">Bulaklak</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Miscellaneous</string>
+<string name="categories">Mga kategorya</string>
+<string name="install">I-install</string>
+<string name="save">I-save</string>
+<string name="tvBlockScreen">Lock ng screen</string>
+<string name="homeScreen">Home screen</string>
+<string name="everywhere">Kahit saan</string>
+<string name="downloading">Naglo-load...</string>
+<string name="downloadingInfo">Pagkatapos mag-download, ipapakita sa iyo ang 1 advertisement</string>
+<string name="installedandsaved">Na-save at na-install</string>
+<string name="saved">Na-save sa Gallery</string>
+<string name="share">Ibahagi</string>
+<string name="clearCookies">I-clear ang cache</string>
+<string name="language">Wika</string>
+<string name="disableAds">Huwag paganahin ang mga ad</string>
+<string name="rateApp">Tantyahin</string>
+<string name="activatePro">I-activate ang PRO na bersyon</string>
+<string name="month">1 buwan</string>
+<string name="always">Magpakailanman at magpakailanman</string>
+<string name="subscriptionText">Huwag paganahin ang mga ad.</string>
+<string name="once">Isang beses na pagbayad</string>
+<string name="getPro">Bumili</string>
+<string name="selectScreen">Piliin ang Screen</string>
+<string name="apply">Mag-apply</string>
+<string name="ok">OK</string>
+<string name="no_internet">Walang koneksyon sa internet</string>
+<string name="make_sure_connected">Tiyaking nakakonekta ang iyong device sa internet. Subukang gumamit ng mobile o Wi-Fi network.</string>
+<string name="try_vpn">Kung ang Internet ay magagamit, ngunit ang application ay nagbibigay ng isang error, pagkatapos ay gumamit ng VPN</string>
+<string name="user_agreement">Patakaran sa Privacy</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Kamusta! Nagustuhan ko ang application na ito at nagpasya akong ibahagi ito sa iyo. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">I-clear ang cache</string>
+<string name="clear">Maaliwalas</string>
+<string name="wholeCache">Nakabahaging cache -</string>
+<string-array name="language">
+<item>Amharic,am</item>
+<item>Arabo,ar</item>
+<item>Bulgarian,bg</item>
+<item>Bengal,bn</item>
+<item>Catalan,ca</item>
+<item>Czech,cs</item>
+<item>Danish,da</item>
+<item>Deutsch,de</item>
+<item>Griyego,el</item>
+<item>Ingles,en</item>
+<item>Espanyol,es</item>
+<item>Estonian,et</item>
+<item>Persian,fa</item>
+<item>Finnish,fi</item>
+<item>Pilipinas,fil</item>
+<item>Pranses,fr</item>
+<item>Gujarati,gu</item>
+<item>Hindi,hi</item>
+<item>Croatian,hr</item>
+<item>Hungarian,hu</item>
+<item>Armenian,hy</item>
+<item>Indonesian,id</item>
+<item>Icelandic,is</item>
+<item>Italyano,it</item>
+<item>Hebrew,he</item>
+<item>Hapon,ja</item>
+<item>kannada,kn</item>
+<item>Koreano,ko</item>
+<item>Lithuanian,lt</item>
+<item>Latvian,lv</item>
+<item>Malayalam,ml</item>
+<item>Marathi,mr</item>
+<item>Malay,ms</item>
+<item>Norwegian,nb</item>
+<item>Punjabi,pa</item>
+<item>Polish,pl</item>
+<item>Portuges,pt</item>
+<item>Romanian,ro</item>
+<item>Ruso,ru</item>
+<item>Sinhalese,si</item>
+<item>Slovak,sk</item>
+<item>Slovenian,sl</item>
+<item>Serbian,sr</item>
+<item>Swedish,sv</item>
+<item>Swahili,sw</item>
+<item>Tamil,ta</item>
+<item>Telugu,te</item>
+<item>Thai,th</item>
+<item>Turkish,tr</item>
+<item>Ukrainian,uk</item>
+<item>Urdu,ur</item>
+<item>Vietnamese,vi</item>
+<item>Intsik,zh</item>
+</string-array>
+</resources>

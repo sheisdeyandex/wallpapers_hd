@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">ಹೊಸ ವಾಲ್‌ಪೇಪರ್‌ಗಳು</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">ಡಬಲ್</string>
+<string name="category_ABSTRACTION">ಅಮೂರ್ತತೆ</string>
+<string name="category_AUTO">ಕಾರುಗಳು</string>
+<string name="category_ANIME">ಅನಿಮೆ</string>
+<string name="category_ARMY">ಸೈನ್ಯ / ವಾಹನಗಳು</string>
+<string name="category_ART">ಕಲೆ</string>
+<string name="category_ARCHITECTURE">ವಾಸ್ತುಶಿಲ್ಪ</string>
+<string name="category_FOOD">ಆಹಾರ</string>
+<string name="category_ANIMALS">ಪ್ರಾಣಿಗಳು</string>
+<string name="category_ZNAKI">ಚಿಹ್ನೆಗಳು / ಶಾಸನಗಳು</string>
+<string name="category_GAMES">ಆಟಗಳು</string>
+<string name="category_SPACE">ಬಾಹ್ಯಾಕಾಶ</string>
+<string name="category_PIPL">ಜನರು</string>
+<string name="category_MACRO">ಮ್ಯಾಕ್ರೋ</string>
+<string name="category_MINIMALISM">ಕನಿಷ್ಠೀಯತೆ</string>
+<string name="category_MOTO">ಮೋಟಾರ್ಸೈಕಲ್ಗಳು</string>
+<string name="category_MUSIC">ಸಂಗೀತ</string>
+<string name="category_HOLIDAYS">ರಜಾದಿನಗಳು</string>
+<string name="category_NATURE">ಪ್ರಕೃತಿ</string>
+<string name="category_SPORT">ಕ್ರೀಡೆ</string>
+<string name="category_SUPERHIROS">ಮಹಾವೀರರು</string>
+<string name="category_TEXTURE">ಟೆಕಶ್ಚರ್ಗಳು</string>
+<string name="category_FILMS">ಚಲನಚಿತ್ರಗಳು</string>
+<string name="category_FANTASY">ಫ್ಯಾಂಟಸಿ</string>
+<string name="category_FLOWERS">ಹೂಗಳು</string>
+<string name="category_HI_TECH">ಹೈಟೆಕ್</string>
+<string name="category_OTHER">ವಿವಿಧ</string>
+<string name="categories">ವರ್ಗಗಳು</string>
+<string name="install">ಸ್ಥಾಪಿಸಿ</string>
+<string name="save">ಉಳಿಸಿ</string>
+<string name="tvBlockScreen">ಪರದೆಯನ್ನು ಲಾಕ್ ಮಾಡು</string>
+<string name="homeScreen">ಮುಖಪುಟ ಪರದೆ</string>
+<string name="everywhere">ಎಲ್ಲೆಲ್ಲೂ</string>
+<string name="downloading">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+<string name="downloadingInfo">ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ ನಂತರ, ನಿಮಗೆ 1 ಜಾಹೀರಾತನ್ನು ತೋರಿಸಲಾಗುತ್ತದೆ</string>
+<string name="installedandsaved">ಉಳಿಸಲಾಗಿದೆ ಮತ್ತು ಸ್ಥಾಪಿಸಲಾಗಿದೆ</string>
+<string name="saved">ಗ್ಯಾಲರಿಗೆ ಉಳಿಸಲಾಗಿದೆ</string>
+<string name="share">ಹಂಚಿಕೊಳ್ಳಿ</string>
+<string name="clearCookies">ಸಂಗ್ರಹವನ್ನು ತೆರವುಗೊಳಿಸಿ</string>
+<string name="language">ಭಾಷೆ</string>
+<string name="disableAds">ಜಾಹೀರಾತುಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ</string>
+<string name="rateApp">ಅಂದಾಜು</string>
+<string name="activatePro">PRO ಆವೃತ್ತಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+<string name="month">1 ತಿಂಗಳು</string>
+<string name="always">ಎಂದೆಂದಿಗೂ</string>
+<string name="subscriptionText">ಜಾಹೀರಾತುಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ.</string>
+<string name="once">ಒಂದು ಬಾರಿ ಪಾವತಿ</string>
+<string name="getPro">ಖರೀದಿಸಿ</string>
+<string name="selectScreen">ಪರದೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+<string name="apply">ಅನ್ವಯಿಸು</string>
+<string name="ok">ಸರಿ</string>
+<string name="no_internet">ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವಿಲ್ಲ</string>
+<string name="make_sure_connected">ನಿಮ್ಮ ಸಾಧನವು ಇಂಟರ್ನೆಟ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಮೊಬೈಲ್ ಅಥವಾ ವೈ-ಫೈ ನೆಟ್‌ವರ್ಕ್ ಬಳಸಲು ಪ್ರಯತ್ನಿಸಿ.</string>
+<string name="try_vpn">ಇಂಟರ್ನೆಟ್ ಲಭ್ಯವಿದ್ದರೆ, ಆದರೆ ಅಪ್ಲಿಕೇಶನ್ ದೋಷವನ್ನು ನೀಡಿದರೆ, ನಂತರ VPN ಅನ್ನು ಬಳಸಿ</string>
+<string name="user_agreement">ಗೌಪ್ಯತಾ ನೀತಿ</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">ನಮಸ್ಕಾರ! ನಾನು ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಇಷ್ಟಪಟ್ಟಿದ್ದೇನೆ ಮತ್ತು ಅದನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಲು ನಾನು ನಿರ್ಧರಿಸಿದೆ. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">ಸಂಗ್ರಹವನ್ನು ತೆರವುಗೊಳಿಸಿ</string>
+<string name="clear">ಸ್ಪಷ್ಟ</string>
+<string name="wholeCache">ಹಂಚಿದ ಸಂಗ್ರಹ -</string>
+<string-array name="language">
+<item>ಅಂಹರಿಕ್,am</item>
+<item>ಅರಬ್,ar</item>
+<item>ಬಲ್ಗೇರಿಯನ್,bg</item>
+<item>ಬಂಗಾಳ,bn</item>
+<item>ಕೆಟಲಾನ್,ca</item>
+<item>ಜೆಕ್,cs</item>
+<item>ಡ್ಯಾನಿಶ್,da</item>
+<item>ಡಾಯ್ಚ್,de</item>
+<item>ಗ್ರೀಕ್,el</item>
+<item>ಆಂಗ್ಲ,en</item>
+<item>ಸ್ಪ್ಯಾನಿಷ್,es</item>
+<item>ಎಸ್ಟೋನಿಯನ್,et</item>
+<item>ಪರ್ಷಿಯನ್,fa</item>
+<item>ಫಿನ್ನಿಶ್,fi</item>
+<item>ಫಿಲಿಪೈನ್,fil</item>
+<item>ಫ್ರೆಂಚ್,fr</item>
+<item>ಗುಜರಾತಿ,gu</item>
+<item>ಹಿಂದಿ,hi</item>
+<item>ಕ್ರೊಯೇಷಿಯನ್,hr</item>
+<item>ಹಂಗೇರಿಯನ್,hu</item>
+<item>ಅರ್ಮೇನಿಯನ್,hy</item>
+<item>ಇಂಡೋನೇಷಿಯನ್,id</item>
+<item>ಐಸ್ಲ್ಯಾಂಡಿಕ್,is</item>
+<item>ಇಟಾಲಿಯನ್,it</item>
+<item>ಹೀಬ್ರೂ,he</item>
+<item>ಜಪಾನೀಸ್,ja</item>
+<item>ಕನ್ನಡ,kn</item>
+<item>ಕೊರಿಯನ್,ko</item>
+<item>ಲಿಥುವೇನಿಯನ್,lt</item>
+<item>ಲಟ್ವಿಯನ್,lv</item>
+<item>ಮಲಯಾಳಂ,ml</item>
+<item>ಮರಾಠಿ,mr</item>
+<item>ಮಲಯ,ms</item>
+<item>ನಾರ್ವೇಜಿಯನ್,nb</item>
+<item>ಪಂಜಾಬಿ,pa</item>
+<item>ಹೊಳಪು ಕೊಡು,pl</item>
+<item>ಪೋರ್ಚುಗೀಸ್,pt</item>
+<item>ರೊಮೇನಿಯನ್,ro</item>
+<item>ರಷ್ಯನ್,ru</item>
+<item>ಸಿಂಹಳೀಯರು,si</item>
+<item>ಸ್ಲೋವಾಕ್,sk</item>
+<item>ಸ್ಲೊವೇನಿಯನ್,sl</item>
+<item>ಸರ್ಬಿಯನ್,sr</item>
+<item>ಸ್ವೀಡಿಷ್,sv</item>
+<item>ಸ್ವಾಹಿಲಿ,sw</item>
+<item>ತಮಿಳು,ta</item>
+<item>ತೆಲುಗು,te</item>
+<item>ಥಾಯ್,th</item>
+<item>ಟರ್ಕಿಶ್,tr</item>
+<item>ಉಕ್ರೇನಿಯನ್,uk</item>
+<item>ಉರ್ದು,ur</item>
+<item>ವಿಯೆಟ್ನಾಮೀಸ್,vi</item>
+<item>ಚೈನೀಸ್,zh</item>
+</string-array>
+</resources>

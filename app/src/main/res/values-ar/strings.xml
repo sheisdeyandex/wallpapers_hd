@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">جديد</string>
+<string name="category_3D">3د</string>
+<string name="category_AMOLED">أمولد</string>
+<string name="category_DOUBLE">خلفية مزدوجة</string>
+<string name="category_ABSTRACTION">التجريد</string>
+<string name="category_AUTO">سيارات</string>
+<string name="category_ANIME">انمي</string>
+<string name="category_ARMY">الجيش / المعدات</string>
+<string name="category_ART">الفن</string>
+<string name="category_ARCHITECTURE">العمارة</string>
+<string name="category_FOOD">وجبة</string>
+<string name="category_ANIMALS">الحيوانات</string>
+<string name="category_ZNAKI">علامات / نقوش</string>
+<string name="category_GAMES">الألعاب</string>
+<string name="category_SPACE">الفضاء</string>
+<string name="category_PIPL">الناس</string>
+<string name="category_MACRO">ماكرو</string>
+<string name="category_MINIMALISM">بساطتها</string>
+<string name="category_MOTO">دراجات نارية</string>
+<string name="category_MUSIC">الموسيقى</string>
+<string name="category_HOLIDAYS">العطل</string>
+<string name="category_NATURE">الطبيعة</string>
+<string name="category_SPORT">الرياضة</string>
+<string name="category_SUPERHIROS">الأبطال الخارقين</string>
+<string name="category_TEXTURE">القوام</string>
+<string name="category_FILMS">الأفلام</string>
+<string name="category_FANTASY">الخيال</string>
+<string name="category_FLOWERS">الزهور</string>
+<string name="category_HI_TECH">مرحبا التكنولوجيا</string>
+<string name="category_OTHER">مختلف</string>
+<string name="categories">الفئات</string>
+<string name="install">تثبيت</string>
+<string name="save">حفظ</string>
+<string name="tvBlockScreen">قفل الشاشة</string>
+<string name="homeScreen">الشاشة الرئيسية</string>
+<string name="everywhere">في كل مكان</string>
+<string name="downloading">تحميل...</string>
+<string name="downloadingInfo">بعد التنزيل ، سيظهر لك 1 إعلان</string>
+<string name="installedandsaved">حفظ وتثبيت</string>
+<string name="saved">المحفوظة في المعرض</string>
+<string name="share">للمشاركة</string>
+<string name="clearCookies">مسح ذاكرة التخزين المؤقت</string>
+<string name="language">اللغة</string>
+<string name="disableAds">تعطيل الإعلانات</string>
+<string name="rateApp">التقديرات</string>
+<string name="activatePro">تفعيل النسخة الموالية</string>
+<string name="month">1 شهر</string>
+<string name="always">للأبد</string>
+<string name="subscriptionText">تعطيل الإعلانات.</string>
+<string name="once">الدفع لمرة واحدة</string>
+<string name="getPro">شراء</string>
+<string name="selectScreen">اختر شاشة</string>
+<string name="apply">تطبيق</string>
+<string name="ok">حسنا</string>
+<string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+<string name="make_sure_connected">تأكد من توصيل جهازك بالإنترنت. حاول استخدام شبكة المحمول أو واي فاي.</string>
+<string name="try_vpn">إذا كان هناك اتصال بالإنترنت ، ولكن التطبيق يعطي خطأ، ثم استخدام فين</string>
+<string name="user_agreement">سياسة الخصوصية</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">مرحبا! أنا أحب هذا التطبيق ، وقررت أن تشاركه معك. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">مسح ذاكرة التخزين المؤقت</string>
+<string name="clear">واضح</string>
+<string name="wholeCache">ذاكرة التخزين المؤقت المشتركة -</string>
+<string-array name="language">
+<item>الأمهرية,am</item>
+<item>العربية,ar</item>
+<item>البلغارية,bg</item>
+<item>البنغالية,bn</item>
+<item>الكاتالونية,ca</item>
+<item>التشيكية,cs</item>
+<item>الدانماركية,da</item>
+<item>الألمانية,de</item>
+<item>اليونانية,el</item>
+<item>العربية,en</item>
+<item>الإسبانية,es</item>
+<item>الإستونية,et</item>
+<item>الفارسية,fa</item>
+<item>الفنلندية,fi</item>
+<item>الفلبينية,fil</item>
+<item>الفرنسية,fr</item>
+<item>الغوجاراتية,gu</item>
+<item>الهندية,hi</item>
+<item>الكرواتية,hr</item>
+<item>الهنغارية,hu</item>
+<item>الأرمينية,hy</item>
+<item>الإندونيسية,id</item>
+<item>الآيسلندية,is</item>
+<item>الإيطالية,it</item>
+<item>العبرية,he</item>
+<item>اليابانية,ja</item>
+<item>الكانادا,kn</item>
+<item>الكورية,ko</item>
+<item>الليتوانية,lt</item>
+<item>اللاتفية,lv</item>
+<item>المالايالامية,ml</item>
+<item>المهاراتية,mr</item>
+<item>الملايو,ms</item>
+<item>النرويجية,nb</item>
+<item>البنجابية,pa</item>
+<item>البولندية,pl</item>
+<item>البرتغالية,pt</item>
+<item>الرومانية,ro</item>
+<item>الروسية,ru</item>
+<item>السنهالية,si</item>
+<item>السلوفاكية,sk</item>
+<item>السلوفينية,sl</item>
+<item>الصربية,sr</item>
+<item>السويدية,sv</item>
+<item>السواحلية,sw</item>
+<item>التاميل,ta</item>
+<item>التيلجو,te</item>
+<item>التايلاندية,th</item>
+<item>التركية,tr</item>
+<item>الأوكرانية,uk</item>
+<item>الأردية,ur</item>
+<item>الفيتنامية,vi</item>
+<item>الصينية,zh</item>
+</string-array>
+</resources>

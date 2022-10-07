@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">కొత్త</string>
+<string name="category_3D">3డి</string>
+<string name="category_AMOLED">అమోలెడ్</string>
+<string name="category_DOUBLE">డబుల్ వాల్</string>
+<string name="category_ABSTRACTION">సంగ్రహణం</string>
+<string name="category_AUTO">కార్లు</string>
+<string name="category_ANIME">అనిమే</string>
+<string name="category_ARMY">ఆర్మీ / సామగ్రి</string>
+<string name="category_ART">కళ</string>
+<string name="category_ARCHITECTURE">ఆర్కిటెక్చర్</string>
+<string name="category_FOOD">భోజనం</string>
+<string name="category_ANIMALS">జంతువులు</string>
+<string name="category_ZNAKI">గుర్తులు / శాసనాలు</string>
+<string name="category_GAMES">ఆటలు</string>
+<string name="category_SPACE">స్పేస్</string>
+<string name="category_PIPL">ప్రజలు</string>
+<string name="category_MACRO">మాక్రో</string>
+<string name="category_MINIMALISM">మినిమలిజం</string>
+<string name="category_MOTO">మోటార్సైకిళ్ళు</string>
+<string name="category_MUSIC">సంగీతం</string>
+<string name="category_HOLIDAYS">సెలవులు</string>
+<string name="category_NATURE">ప్రకృతి</string>
+<string name="category_SPORT">క్రీడలు</string>
+<string name="category_SUPERHIROS">సూపర్ హీరోల</string>
+<string name="category_TEXTURE">అల్లికలు</string>
+<string name="category_FILMS">సినిమాలు</string>
+<string name="category_FANTASY">ఫాంటసీ</string>
+<string name="category_FLOWERS">ఫ్లవర్స్</string>
+<string name="category_HI_TECH">అత్యాధునిక</string>
+<string name="category_OTHER">వివిధ</string>
+<string name="categories">వర్గం</string>
+<string name="install">ఇన్స్టాల్ చేయి</string>
+<string name="save">సేవ్ చెయ్యండి</string>
+<string name="tvBlockScreen">స్క్రీన్ లాక్చేయుము</string>
+<string name="homeScreen">హోం స్క్రీన్</string>
+<string name="everywhere">అన్నిచోట్లా</string>
+<string name="downloading">డౌన్లోడ్ అవుతోంది...</string>
+<string name="downloadingInfo">డౌన్లోడ్ అయిన తరువాత, మీరు చూపబడుతుంది 1 ప్రకటన</string>
+<string name="installedandsaved">సేవ్ మరియు ఇన్స్టాల్</string>
+<string name="saved">గ్యాలరీ సేవ్</string>
+<string name="share">షేర్ చేయండి</string>
+<string name="clearCookies">క్యాచీ క్లియర్</string>
+<string name="language">భాష</string>
+<string name="disableAds">ప్రకటనలు ఆపివేయి</string>
+<string name="rateApp">అంచనా</string>
+<string name="activatePro">ప్రో వెర్షన్ సక్రియం</string>
+<string name="month">1 నెల</string>
+<string name="always">ఫరెవర్</string>
+<string name="subscriptionText">ప్రకటనలను ఆపివేయి.</string>
+<string name="once">వన్-టైమ్ చెల్లింపు</string>
+<string name="getPro">కొనుగోలు చేయండి</string>
+<string name="selectScreen">స్క్రీన్ ఎంచుకోండి</string>
+<string name="apply">వర్తించు</string>
+<string name="ok">సరే</string>
+<string name="no_internet">ఇంటర్నెట్ కనెక్షన్ లేదు</string>
+<string name="make_sure_connected">మీ పరికరం ఇంటర్నెట్ కనెక్ట్ నిర్ధారించుకోండి. మొబైల్ లేదా వై-ఫై నెట్వర్క్ను ఉపయోగించి ప్రయత్నించండి.</string>
+<string name="try_vpn">ఇంటర్నెట్ కనెక్షన్ ఉంటే, కానీ అప్లికేషన్ ఒక లోపం ఇస్తుంది, అప్పుడు ఉపయోగించడానికి</string>
+<string name="user_agreement">గోప్యతా విధానం</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">ఎక్కువ! నేను ఈ అనువర్తనం ఇష్టపడ్డారు మరియు మీరు భాగస్వామ్యం నిర్ణయించుకుంది. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">క్యాచీ క్లియర్</string>
+<string name="clear">చెరిపివేయము</string>
+<string name="wholeCache">పంచబడ్డ కాష్ -</string>
+<string-array name="language">
+<item>ఇండొనేషియన్లు,am</item>
+<item>అరేబియన్,ar</item>
+<item>బల్గేరియన్,bg</item>
+<item>ఇండొనేషియన్లు,bn</item>
+<item>కాటలాన్,ca</item>
+<item>చెక్ రిపబ్లిక్,cs</item>
+<item>తగాలుగ్,da</item>
+<item>జర్మన్,de</item>
+<item>గ్రీకు,el</item>
+<item>తెలుగు వంటకాలు,en</item>
+<item>స్పానిష్,es</item>
+<item>ఎస్టోనియన్,et</item>
+<item>పర్షియన్,fa</item>
+<item>ఫిన్నిష్,fi</item>
+<item>ఫిలిపినో పోర్న్,fil</item>
+<item>ఫ్రెంచ్,fr</item>
+<item>గుజరాతీ,gu</item>
+<item>హిందీ,hi</item>
+<item>క్రొయేషియన్,hr</item>
+<item>హన్గేరియన్,hu</item>
+<item>ఆర్మేనియన్,hy</item>
+<item>ఇండొనేషియన్లు,id</item>
+<item>ఐస్లాండిక్,is</item>
+<item>ఇటాలియన్,it</item>
+<item>హిబ్రూ,he</item>
+<item>జపనీస్,ja</item>
+<item>బిజినెస్ న్యూస్,kn</item>
+<item>కొరియన్,ko</item>
+<item>లిథువేనియన్,lt</item>
+<item>లాట్వియన్,lv</item>
+<item>మళయాళం,ml</item>
+<item>మరాఠీ,mr</item>
+<item>మలయ్,ms</item>
+<item>నార్వేజియన్,nb</item>
+<item>పంజాబీ,pa</item>
+<item>పోలిష్,pl</item>
+<item>బోస్నియన్లు,pt</item>
+<item>రోమేనియన్,ro</item>
+<item>రష్యన్,ru</item>
+<item>సారంశం,si</item>
+<item>స్లోవాక్,sk</item>
+<item>స్లోవేనియన్,sl</item>
+<item>సెర్బియన్,sr</item>
+<item>స్వీడిష్,sv</item>
+<item>స్వాహిలీ,sw</item>
+<item>తమిళ సినిమా,ta</item>
+<item>రంగుల,te</item>
+<item>ఇండొనేషియన్లు,th</item>
+<item>టర్కిష్,tr</item>
+<item>ఉక్రేనియన్,uk</item>
+<item>ఉర్దూ,ur</item>
+<item>వియత్నామీస్,vi</item>
+<item>చైనీస్,zh</item>
+</string-array>
+</resources>

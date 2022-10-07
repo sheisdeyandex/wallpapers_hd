@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">חדש</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">DOUBLE</string>
+<string name="category_ABSTRACTION">הַפשָׁטָה</string>
+<string name="category_AUTO">מכוניות</string>
+<string name="category_ANIME">אנימה</string>
+<string name="category_ARMY">צבא / ציוד</string>
+<string name="category_ART">ART</string>
+<string name="category_ARCHITECTURE">אדריכלות</string>
+<string name="category_FOOD">אוכל</string>
+<string name="category_ANIMALS">בעלי חיים</string>
+<string name="category_ZNAKI">שלטים / כתובות</string>
+<string name="category_GAMES">משחקים</string>
+<string name="category_SPACE">מֶרחָב</string>
+<string name="category_PIPL">אנשים</string>
+<string name="category_MACRO">מאקרו</string>
+<string name="category_MINIMALISM">מינימליזם</string>
+<string name="category_MOTO">אופנועים</string>
+<string name="category_MUSIC">מוזיקה</string>
+<string name="category_HOLIDAYS">חגים</string>
+<string name="category_NATURE">טבע</string>
+<string name="category_SPORT">ספורט</string>
+<string name="category_SUPERHIROS">גיבורי על</string>
+<string name="category_TEXTURE">מרקמים</string>
+<string name="category_FILMS">סרטים</string>
+<string name="category_FANTASY">פנטזיה</string>
+<string name="category_FLOWERS">פרחים</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">אַחֵר</string>
+<string name="categories">קטגוריות</string>
+<string name="install">להתקין</string>
+<string name="save">שמור</string>
+<string name="tvBlockScreen">מסך נעילה</string>
+<string name="homeScreen">מסך הבית</string>
+<string name="everywhere">בכל מקום</string>
+<string name="downloading">הורדה...</string>
+<string name="downloadingInfo">לאחר ההורדה תוצג לך מודעה אחת</string>
+<string name="installedandsaved">נשמר ומותקן</string>
+<string name="saved">נשמר בגלריה</string>
+<string name="share">שתף</string>
+<string name="clearCookies">נקה מטמון</string>
+<string name="language">שפה</string>
+<string name="disableAds">השבת מודעות</string>
+<string name="rateApp">דרג</string>
+<string name="activatePro">הפעל את גרסת ה - PRO</string>
+<string name="month">1 חודש</string>
+<string name="always">לנצח</string>
+<string name="subscriptionText">השבת מודעות.</string>
+<string name="once">תשלום חד פעמי</string>
+<string name="getPro">לקנות</string>
+<string name="selectScreen">בחר מסך</string>
+<string name="apply">החל</string>
+<string name="ok">בסדר.</string>
+<string name="no_internet">חסר חיבור לאינטרנט</string>
+<string name="make_sure_connected">ודא שהמכשיר שלך מחובר לאינטרנט. נסה להשתמש ברשת סלולרית או Wi-Fi.</string>
+<string name="try_vpn">אם יש אינטרנט, אך היישום נותן שגיאה, השתמש ב-VPN</string>
+<string name="user_agreement">מדיניות פרטיות</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">היי! אהבתי את האפליקציה הזו והחלטתי לשתף אותה איתך. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">נקה מטמון</string>
+<string name="clear">לנקות</string>
+<string name="wholeCache">מטמון משותף - </string>
+<string-array name="language">
+<item>אמהרית,am</item>
+<item>ערבית,ar</item>
+<item>בולגרית,bg</item>
+<item>בנגלית,bn</item>
+<item>קטלאנית,ca</item>
+<item>צ \' כית,cs</item>
+<item>דנית,da</item>
+<item>גרמנית,de</item>
+<item>יווני,el</item>
+<item>אנגלית,en</item>
+<item>ספרדית,es</item>
+<item>אסטונית,et</item>
+<item>פַּרסִית,fa</item>
+<item>פִינִית,fi</item>
+<item>פיליפינית,fil</item>
+<item>צרפתית,fr</item>
+<item>גוג \' ראטי,gu</item>
+<item>הינדי,hi</item>
+<item>קרואטית,hr</item>
+<item>הונגרי,hu</item>
+<item>אַרְמֶנִי,hy</item>
+<item>אינדונזית,id</item>
+<item>איסלנדית,is</item>
+<item>אִיטַלְקִית,it</item>
+<item>עברית,he</item>
+<item>יַפָּנִית,ja</item>
+<item>קנאדה,kn</item>
+<item>קוריאנית,ko</item>
+<item>ליטאי,lt</item>
+<item>לטבית,lv</item>
+<item>מליאלאם,ml</item>
+<item>מרת \' י,mr</item>
+<item>מלאית,ms</item>
+<item>נורווגית,nb</item>
+<item>פנג \' אבי,pa</item>
+<item>פולני,pl</item>
+<item>פורטוגזית,pt</item>
+<item>רומנית,ro</item>
+<item>עברית,ru</item>
+<item>סינהלה,si</item>
+<item>סלובקית,sk</item>
+<item>סלובנית,sl</item>
+<item>סרבית,sr</item>
+<item>שוודית,sv</item>
+<item>סווהילי,sw</item>
+<item>טמילית,ta</item>
+<item>טלוגו,te</item>
+<item>תאילנדי,th</item>
+<item>טורקי,tr</item>
+<item>אוקראינית,uk</item>
+<item>אורדו,ur</item>
+<item>ויאטנמית,vi</item>
+<item>סיני,zh</item>
+</string-array>
+</resources>

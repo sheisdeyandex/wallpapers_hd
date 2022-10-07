@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">புதிய</string>
+<string name="category_3D">3டி</string>
+<string name="category_AMOLED">அமோலேட்</string>
+<string name="category_DOUBLE">இரட்டை வால்பேப்பர்</string>
+<string name="category_ABSTRACTION">சுருக்கம்</string>
+<string name="category_AUTO">கார்கள்</string>
+<string name="category_ANIME">அசையும்</string>
+<string name="category_ARMY">இராணுவம் / உபகரணங்கள்</string>
+<string name="category_ART">கலை</string>
+<string name="category_ARCHITECTURE">கட்டிடக்கலை</string>
+<string name="category_FOOD">உணவு</string>
+<string name="category_ANIMALS">விலங்குகள்</string>
+<string name="category_ZNAKI">அறிகுறிகள் / கல்வெட்டுகள்</string>
+<string name="category_GAMES">விளையாட்டுக்கள்</string>
+<string name="category_SPACE">விண்வெளி</string>
+<string name="category_PIPL">மக்கள்</string>
+<string name="category_MACRO">மேக்ரோ</string>
+<string name="category_MINIMALISM">மினிமலிசம்</string>
+<string name="category_MOTO">மோட்டார் சைக்கிள்கள்</string>
+<string name="category_MUSIC">இசை</string>
+<string name="category_HOLIDAYS">விடுமுறை நாட்கள்</string>
+<string name="category_NATURE">இயற்கை</string>
+<string name="category_SPORT">விளையாட்டு</string>
+<string name="category_SUPERHIROS">சூப்பர் ஹீரோக்கள்</string>
+<string name="category_TEXTURE">இழைமங்கள்</string>
+<string name="category_FILMS">படங்கள்</string>
+<string name="category_FANTASY">பேண்டஸி</string>
+<string name="category_FLOWERS">மலர்கள்</string>
+<string name="category_HI_TECH">ஹைடெக்</string>
+<string name="category_OTHER">பல்வேறு</string>
+<string name="categories">வகைகள்</string>
+<string name="install">நிறுவ</string>
+<string name="save">சேமி</string>
+<string name="tvBlockScreen">பூட்டு திரை</string>
+<string name="homeScreen">முகப்புத் திரை</string>
+<string name="everywhere">எல்லா இடங்களிலும்</string>
+<string name="downloading">பதிவிறக்குகிறது...</string>
+<string name="downloadingInfo">பதிவிறக்கிய பிறகு, உங்களுக்கு 1 விளம்பரம் காண்பிக்கப்படும்</string>
+<string name="installedandsaved">சேமிக்கப்பட்டு நிறுவப்பட்டுள்ளது</string>
+<string name="saved">கேலரியில் சேமிக்கப்பட்டது</string>
+<string name="share">பகிர்ந்து கொள்ள</string>
+<string name="clearCookies">தற்காலிக சேமிப்பை அழிக்கவும்</string>
+<string name="language">மொழி</string>
+<string name="disableAds">விளம்பரங்களை முடக்கு</string>
+<string name="rateApp">மதிப்பீடு</string>
+<string name="activatePro">புரோ பதிப்பை செயல்படுத்தவும்</string>
+<string name="month">1 மாதம்</string>
+<string name="always">என்றென்றும்</string>
+<string name="subscriptionText">விளம்பரங்களை முடக்கு.</string>
+<string name="once">ஒரு முறை கட்டணம்</string>
+<string name="getPro">வாங்க</string>
+<string name="selectScreen">ஒரு திரையைத் தேர்ந்தெடுக்கவும்</string>
+<string name="apply">விண்ணப்பிக்கவும்</string>
+<string name="ok">சரி</string>
+<string name="no_internet">இணைய இணைப்பு இல்லை</string>
+<string name="make_sure_connected">உங்கள் சாதனம் இணையத்துடன் இணைக்கப்பட்டுள்ளதா என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள். மொபைல் அல்லது வைஃபை நெட்வொர்க்கைப் பயன்படுத்த முயற்சிக்கவும்.</string>
+<string name="try_vpn">இணைய இணைப்பு இருந்தால், ஆனால் பயன்பாடு பிழையைத் தருகிறது என்றால், VPN ஐப் பயன்படுத்தவும்</string>
+<string name="user_agreement">தனியுரிமைக் கொள்கை</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">ஹாய்! இந்த பயன்பாட்டை நான் விரும்பினேன், அதை உங்களுடன் பகிர்ந்து கொள்ள முடிவு செய்தேன். https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">தற்காலிக சேமிப்பை அழிக்கவும்</string>
+<string name="clear">அழி</string>
+<string name="wholeCache">பகிரப்பட்ட கேச் -</string>
+<string-array name="language">
+<item>அம்ஹாரிக்,am</item>
+<item>அரேபியன்,ar</item>
+<item>பல்கேரியன்,bg</item>
+<item>பெங்காலி,bn</item>
+<item>கற்றலான்,ca</item>
+<item>செக்,cs</item>
+<item>டேனிஷ்,da</item>
+<item>ஜெர்மன்,de</item>
+<item>கிரேக்கம்,el</item>
+<item>தமிழ்,en</item>
+<item>ஸ்பானிஷ்,es</item>
+<item>எஸ்டோனியன்,et</item>
+<item>பாரசீக,fa</item>
+<item>பின்னிஷ்,fi</item>
+<item>ஃபிலிபினோ,fil</item>
+<item>பிரெஞ்சு,fr</item>
+<item>குஜராத்தி,gu</item>
+<item>இந்தி,hi</item>
+<item>குரோஷியன்,hr</item>
+<item>ஹங்கேரியன்,hu</item>
+<item>ஆர்மீனியன்,hy</item>
+<item>இந்தோனேசிய,id</item>
+<item>ஐஸ்லாந்திய,is</item>
+<item>இத்தாலியன்,it</item>
+<item>ஹீப்ரு,he</item>
+<item>ஜப்பானியர்கள்,ja</item>
+<item>கன்னட,kn</item>
+<item>கொரியன்,ko</item>
+<item>லிதுவேனியன்,lt</item>
+<item>லாட்வியன்,lv</item>
+<item>மலையாளம்,ml</item>
+<item>மராத்தி,mr</item>
+<item>மலாய்,ms</item>
+<item>நோர்வே,nb</item>
+<item>பஞ்சாபி,pa</item>
+<item>போலிஷ்,pl</item>
+<item>போர்த்துகீசியம்,pt</item>
+<item>ருமேனிய,ro</item>
+<item>ரஷ்யன்,ru</item>
+<item>சிங்களவர்,si</item>
+<item>ஸ்லோவாக்,sk</item>
+<item>ஸ்லோவேனியன்,sl</item>
+<item>செர்பியன்,sr</item>
+<item>ஸ்வீடிஷ்,sv</item>
+<item>சுவாஹிலி,sw</item>
+<item>தமிழ்,ta</item>
+<item>தெலுங்கு,te</item>
+<item>தாய்,th</item>
+<item>டர்கிஷ்,tr</item>
+<item>தமிழ்,uk</item>
+<item>உருது,ur</item>
+<item>வியட்நாமிய,vi</item>
+<item>சீன,zh</item>
+</string-array>
+</resources>

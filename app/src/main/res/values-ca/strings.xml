@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Nou</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">Paper PINTAT DOBLE</string>
+<string name="category_ABSTRACTION">Abstracció</string>
+<string name="category_AUTO">Cotxes</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Exèrcit / Equipament</string>
+<string name="category_ART">ART</string>
+<string name="category_ARCHITECTURE">Arquitectura</string>
+<string name="category_FOOD">Menjar</string>
+<string name="category_ANIMALS">Animals</string>
+<string name="category_ZNAKI">Inscripcions / Inscripcions</string>
+<string name="category_GAMES">Jocs</string>
+<string name="category_SPACE">Espai</string>
+<string name="category_PIPL">Persones</string>
+<string name="category_MACRO">Macro</string>
+<string name="category_MINIMALISM">Minimalisme</string>
+<string name="category_MOTO">Motocicletes</string>
+<string name="category_MUSIC">Música</string>
+<string name="category_HOLIDAYS">Vacances</string>
+<string name="category_NATURE">Naturalesa</string>
+<string name="category_SPORT">Esport</string>
+<string name="category_SUPERHIROS">Superherois</string>
+<string name="category_TEXTURE">Textures</string>
+<string name="category_FILMS">Cinema</string>
+<string name="category_FANTASY">Fantasia</string>
+<string name="category_FLOWERS">Flors</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Diversos</string>
+<string name="categories">Categories</string>
+<string name="install">Instal. lació</string>
+<string name="save">Desa</string>
+<string name="tvBlockScreen">Bloqueja La Pantalla</string>
+<string name="homeScreen">Pantalla D\'Inici</string>
+<string name="everywhere">A tot arreu</string>
+<string name="downloading">Descàrrega...</string>
+<string name="downloadingInfo">Després de descarregar, se li mostrarà 1 anunci</string>
+<string name="installedandsaved">Guardado y instalado</string>
+<string name="saved">Salvat A La Galeria</string>
+<string name="share">Per compartir</string>
+<string name="clearCookies">Neteja La Memòria Cau</string>
+<string name="language">Idioma</string>
+<string name="disableAds">Desactiva els anuncis</string>
+<string name="rateApp">Pressupost</string>
+<string name="activatePro">Activar LA VERSIÓ PRO</string>
+<string name="month">1 mes</string>
+<string name="always">Forever</string>
+<string name="subscriptionText">Desactiva els anuncis.</string>
+<string name="once">Pagament únic</string>
+<string name="getPro">Comprar</string>
+<string name="selectScreen">Seleccioneu una pantalla</string>
+<string name="apply">Aplica</string>
+<string name="ok">Bé</string>
+<string name="no_internet">No hi ha connexió a internet</string>
+<string name="make_sure_connected">Assegureu-vos que el vostre dispositiu està connectat a Internet. Utilitzeu un mòbil O Una Xarxa Sense Fil.</string>
+<string name="try_vpn">SI hi ha una connexió A Internet, però l\'aplicació dóna un error, llavors utilitzeu UNA VPN</string>
+<string name="user_agreement">Política de privacitat</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Hola! M\'ha agradat aquesta app i he decidit compartir-la amb vosaltres. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Neteja La Memòria Cau</string>
+<string name="clear">Neteja</string>
+<string name="wholeCache">La"Memòria Cau Compartida -"</string>
+<string-array name="language">
+<item>Amhàric,am</item>
+<item>Àrab,ar</item>
+<item>Búlgar,bg</item>
+<item>Bengalí,bn</item>
+<item>Català,ca</item>
+<item>Txec,cs</item>
+<item>Danès,da</item>
+<item>Alemany,de</item>
+<item>Grec,el</item>
+<item>Anglès,en</item>
+<item>Espanyol,es</item>
+<item>Estonià,et</item>
+<item>Persa,fa</item>
+<item>Finlandès,fi</item>
+<item>Filipí,fil</item>
+<item>Francès,fr</item>
+<item>Gujarati,gu</item>
+<item>Hindi,hi</item>
+<item>Croata,hr</item>
+<item>Hongarès,hu</item>
+<item>Armeni,hy</item>
+<item>Indonesi,id</item>
+<item>Islandès,is</item>
+<item>Italià,it</item>
+<item>Hebreu,he</item>
+<item>Japonès,ja</item>
+<item>Canada,kn</item>
+<item>Coreà,ko</item>
+<item>Lituà,lt</item>
+<item>Letó,lv</item>
+<item>Malaialam,ml</item>
+<item>Marathi,mr</item>
+<item>Malai,ms</item>
+<item>Noruec,nb</item>
+<item>Panjabi,pa</item>
+<item>Polonès,pl</item>
+<item>Portuguès,pt</item>
+<item>Romanès,ro</item>
+<item>Rus,ru</item>
+<item>Singalesos,si</item>
+<item>Eslovac,sk</item>
+<item>Eslovè,sl</item>
+<item>Serbi,sr</item>
+<item>Suec,sv</item>
+<item>Suahili,sw</item>
+<item>Tàmil,ta</item>
+<item>Telugu,te</item>
+<item>Tailandès,th</item>
+<item>Turc,tr</item>
+<item>Ucraïnès,uk</item>
+<item>Urdú,ur</item>
+<item>Vietnamita,vi</item>
+<item>Xinès,zh</item>
+</string-array>
+</resources>

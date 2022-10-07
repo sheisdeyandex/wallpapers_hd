@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Baru</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">Kertas dinding berganda</string>
+<string name="category_ABSTRACTION">Abstraksi</string>
+<string name="category_AUTO">Kereta</string>
+<string name="category_ANIME">Anime lucah</string>
+<string name="category_ARMY">Tentera / Peralatan</string>
+<string name="category_ART">Seni</string>
+<string name="category_ARCHITECTURE">Senibina</string>
+<string name="category_FOOD">Makanan</string>
+<string name="category_ANIMALS">Haiwan</string>
+<string name="category_ZNAKI">Tanda / Inskripsi</string>
+<string name="category_GAMES">Permainan</string>
+<string name="category_SPACE">Ruang</string>
+<string name="category_PIPL">Orang</string>
+<string name="category_MACRO">Makro</string>
+<string name="category_MINIMALISM">Minimalisme</string>
+<string name="category_MOTO">Motosikal</string>
+<string name="category_MUSIC">Muzik</string>
+<string name="category_HOLIDAYS">Cuti</string>
+<string name="category_NATURE">Alam</string>
+<string name="category_SPORT">Sukan</string>
+<string name="category_SUPERHIROS">Superheroes</string>
+<string name="category_TEXTURE">Tekstur</string>
+<string name="category_FILMS">Filem</string>
+<string name="category_FANTASY">Fantasi</string>
+<string name="category_FLOWERS">Bunga</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Pelbagai</string>
+<string name="categories">Kategori</string>
+<string name="install">Pasang</string>
+<string name="save">Simpan</string>
+<string name="tvBlockScreen">Kunci Skrin</string>
+<string name="homeScreen">Skrin Utama</string>
+<string name="everywhere">Di mana sahaja</string>
+<string name="downloading">Memuat turun...</string>
+<string name="downloadingInfo">Selepas memuat turun, anda akan ditunjukkan 1 iklan</string>
+<string name="installedandsaved">Disimpan dan dipasang</string>
+<string name="saved">Disimpan dalam galeri</string>
+<string name="share">Untuk berkongsi</string>
+<string name="clearCookies">Kosongkan Cache</string>
+<string name="language">Bahasa</string>
+<string name="disableAds">Lumpuhkan Iklan</string>
+<string name="rateApp">Anggaran</string>
+<string name="activatePro">Aktifkan versi PRO</string>
+<string name="month">1 bulan</string>
+<string name="always">Selamanya</string>
+<string name="subscriptionText">Melumpuhkan iklan.</string>
+<string name="once">Bayaran sekali sahaja</string>
+<string name="getPro">Beli</string>
+<string name="selectScreen">Pilih satu skrin</string>
+<string name="apply">Memohon</string>
+<string name="ok">Ok</string>
+<string name="no_internet">Tiada sambungan internet</string>
+<string name="make_sure_connected">Pastikan peranti anda disambungkan ke internet. Cuba gunakan rangkaian mudah alih atau Wi-Fi.</string>
+<string name="try_vpn">Sekiranya terdapat sambungan Internet, tetapi aplikasi memberikan ralat, kemudian gunakan VPN</string>
+<string name="user_agreement">Dasar Privasi</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Hai! Saya suka aplikasi ini dan memutuskan untuk berkongsi dengan anda. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Kosongkan Cache</string>
+<string name="clear">Kosongkan</string>
+<string name="wholeCache">cache dikongsi -</string>
+<string-array name="language">
+<item>Amharic,am</item>
+<item>Arab,ar</item>
+<item>Bulgaria,bg</item>
+<item>Bengali,bn</item>
+<item>Catalan,ca</item>
+<item>Czech,cs</item>
+<item>Denmark,da</item>
+<item>Jerman,de</item>
+<item>Greek,el</item>
+<item>Francais,en</item>
+<item>Sepanyol,es</item>
+<item>Estonia,et</item>
+<item>Parsi,fa</item>
+<item>Finland,fi</item>
+<item>Filipina,fil</item>
+<item>Perancis,fr</item>
+<item>Gujarati,gu</item>
+<item>Hindi,hi</item>
+<item>Croatia,hr</item>
+<item>Hungary,hu</item>
+<item>Armenia,hy</item>
+<item>Indonesian,id</item>
+<item>Iceland,is</item>
+<item>Itali,it</item>
+<item>Hebrew,he</item>
+<item>Jepun,ja</item>
+<item>Kannada,kn</item>
+<item>Korea,ko</item>
+<item>Lithuania,lt</item>
+<item>Latvia,lv</item>
+<item>Malayalam,ml</item>
+<item>Marathi,mr</item>
+<item>Melayu (Malay),ms</item>
+<item>Norwegian,nb</item>
+<item>Punjabi,pa</item>
+<item>Polish,pl</item>
+<item>Portugis,pt</item>
+<item>Romania,ro</item>
+<item>Rusia,ru</item>
+<item>Sinhala,si</item>
+<item>Slovak,sk</item>
+<item>Slovenia,sl</item>
+<item>Serbia,sr</item>
+<item>Sweden,sv</item>
+<item>Swahili,sw</item>
+<item>Tamil,ta</item>
+<item>Telugu,te</item>
+<item>Thai,th</item>
+<item>Turki,tr</item>
+<item>Ukraine,uk</item>
+<item>Urdu,ur</item>
+<item>Vietnam,vi</item>
+<item>Cina,zh</item>
+</string-array>
+</resources>

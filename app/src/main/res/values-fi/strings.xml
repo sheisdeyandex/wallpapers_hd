@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Uusi</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">KAKSINKERTAINEN</string>
+<string name="category_ABSTRACTION">Abstraktio</string>
+<string name="category_AUTO">Auto</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Armeija / Varusteet</string>
+<string name="category_ART">TAIDE</string>
+<string name="category_ARCHITECTURE">Arkkitehtuuri</string>
+<string name="category_FOOD">Ateria</string>
+<string name="category_ANIMALS">Eläin</string>
+<string name="category_ZNAKI">Merkit / Merkinnät</string>
+<string name="category_GAMES">Peli</string>
+<string name="category_SPACE">Tila</string>
+<string name="category_PIPL">Kansa</string>
+<string name="category_MACRO">Makro</string>
+<string name="category_MINIMALISM">Minimalismi</string>
+<string name="category_MOTO">Moottoripyörä</string>
+<string name="category_MUSIC">Musiikki</string>
+<string name="category_HOLIDAYS">Holidays</string>
+<string name="category_NATURE">Luonto</string>
+<string name="category_SPORT">Urheilu</string>
+<string name="category_SUPERHIROS">Supersankari</string>
+<string name="category_TEXTURE">Pintakuvio</string>
+<string name="category_FILMS">Elokuva</string>
+<string name="category_FANTASY">Fantasia</string>
+<string name="category_FLOWERS">Kukka</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Erilaisia</string>
+<string name="categories">Luokka</string>
+<string name="install">Asentaa</string>
+<string name="save">Tallentaa</string>
+<string name="tvBlockScreen">Lukitusnäyttö</string>
+<string name="homeScreen">aloitusnäyttö</string>
+<string name="everywhere">Kaikkialla</string>
+<string name="downloading">Ladata...</string>
+<string name="downloadingInfo">Lataamisen jälkeen sinulle näytetään 1 mainos</string>
+<string name="installedandsaved">Tallennettu ja asennettu</string>
+<string name="saved">Tallennettu galleriaan</string>
+<string name="share">Jakaa</string>
+<string name="clearCookies">Tyhjennä Välimuisti</string>
+<string name="language">Kieli</string>
+<string name="disableAds">Poista mainokset käytöstä</string>
+<string name="rateApp">Arvio</string>
+<string name="activatePro">Aktivoi PRO-versio</string>
+<string name="month">1 kuukausi</string>
+<string name="always">Ikuisesti</string>
+<string name="subscriptionText">Poista mainokset käytöstä.</string>
+<string name="once">Kertamaksu</string>
+<string name="getPro">Ostaa</string>
+<string name="selectScreen">Valitse Näyttö</string>
+<string name="apply">Sovelleta</string>
+<string name="ok">Ok</string>
+<string name="no_internet">Internet-yhteyttä ei ole</string>
+<string name="make_sure_connected">Varmista, että laitteesi on yhteydessä Internetiin. Yritä käyttää mobiili-tai Wi-Fi-verkkoa.</string>
+<string name="try_vpn">Jos on Internet-yhteys, mutta sovellus antaa virheen, käytä VPN: ää</string>
+<string name="user_agreement">Tietosuojakäytäntö</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Hei! Pidin tästä sovelluksesta ja päätin jakaa sen kanssasi. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Tyhjennä Välimuisti</string>
+<string name="clear">Selkeä</string>
+<string name="wholeCache">jaettu välimuisti -</string>
+<string-array name="language">
+<item>Amharic,am</item>
+<item>Arabialainen,ar</item>
+<item>Bulgaria,bg</item>
+<item>Bengali,bn</item>
+<item>Katalaani,ca</item>
+<item>Tšekki,cs</item>
+<item>Tanska,da</item>
+<item>Saksa,de</item>
+<item>Kreikka,el</item>
+<item>Englanti,en</item>
+<item>Espanjan,es</item>
+<item>Viro,et</item>
+<item>Persia,fa</item>
+<item>Suomalainen,fi</item>
+<item>Filipino,fil</item>
+<item>Ranska,fr</item>
+<item>Gudžarati,gu</item>
+<item>Hindi,hi</item>
+<item>Kroatia,hr</item>
+<item>Unkari,hu</item>
+<item>Armenia,hy</item>
+<item>Indonesia,id</item>
+<item>Islanti,is</item>
+<item>Italia,it</item>
+<item>Heprean,he</item>
+<item>Japani,ja</item>
+<item>Kannada,kn</item>
+<item>Korea,ko</item>
+<item>Liettua,lt</item>
+<item>Latvia,lv</item>
+<item>Malajalam,ml</item>
+<item>Marathi,mr</item>
+<item>Malaji,ms</item>
+<item>Norja,nb</item>
+<item>Punjabi,pa</item>
+<item>Puola,pl</item>
+<item>Portugali,pt</item>
+<item>Romania,ro</item>
+<item>Venäjä,ru</item>
+<item>Singaleesi,si</item>
+<item>Slovakia,sk</item>
+<item>Sloveenin,sl</item>
+<item>Serbia,sr</item>
+<item>Ruotsalainen,sv</item>
+<item>Swahili,sw</item>
+<item>Tamili,ta</item>
+<item>Telugu,te</item>
+<item>Thai,th</item>
+<item>Turkkilainen,tr</item>
+<item>Ukraina,uk</item>
+<item>Urdu,ur</item>
+<item>Vietamilainen,vi</item>
+<item>Kiina,zh</item>
+</string-array>
+</resources>

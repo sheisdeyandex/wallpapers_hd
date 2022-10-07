@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">නව</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">ද්විත්ව ෙ වෝල් ෙ ප්පර්</string>
+<string name="category_ABSTRACTION">වියුක්තීකරණය</string>
+<string name="category_AUTO">කාර්</string>
+<string name="category_ANIME">ඇනිමෙ</string>
+<string name="category_ARMY">හමුදා / උපකරණ</string>
+<string name="category_ART">කලාව</string>
+<string name="category_ARCHITECTURE">ගෘහ නිර්මාණ ශිල්පය</string>
+<string name="category_FOOD">කෑම</string>
+<string name="category_ANIMALS">සතුන්</string>
+<string name="category_ZNAKI">සංඥා / අභිලේඛන</string>
+<string name="category_GAMES">ක්රීඩා</string>
+<string name="category_SPACE">අවකාශය</string>
+<string name="category_PIPL">ජනතාව</string>
+<string name="category_MACRO">සාර්ව</string>
+<string name="category_MINIMALISM">තවාදය</string>
+<string name="category_MOTO">යතුරු පැදි</string>
+<string name="category_MUSIC">සංගීතය</string>
+<string name="category_HOLIDAYS">නිවාඩු</string>
+<string name="category_NATURE">ස්වභාවය</string>
+<string name="category_SPORT">ක්රීඩා</string>
+<string name="category_SUPERHIROS">සුපිරි වීරයෝ</string>
+<string name="category_TEXTURE">වයනය</string>
+<string name="category_FILMS">චිත්රපට</string>
+<string name="category_FANTASY">මනඃකල්පිත</string>
+<string name="category_FLOWERS">මල්</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">විවිධ</string>
+<string name="categories">ප්රවර්ග</string>
+<string name="install">ස්ථාපනය</string>
+<string name="save">සුරකින්න</string>
+<string name="tvBlockScreen">අගුළු තිර</string>
+<string name="homeScreen">මුල් පිටුව තිරය</string>
+<string name="everywhere">හැම තැනම</string>
+<string name="downloading">බාගැනීම...</string>
+<string name="downloadingInfo">බාගත කිරීමෙන් පසු, ඔබ පෙන්වනු ලැබේ 1 දැන්වීමක්</string>
+<string name="installedandsaved">ගැලවීම සහ ස්ථාපනය</string>
+<string name="saved">ගැලරිය ගැලරිය</string>
+<string name="share">බෙදාගන්න</string>
+<string name="clearCookies">හිස් පූර්වාපේක්ෂි</string>
+<string name="language">භාෂාව</string>
+<string name="disableAds">දැන්වීම් අක්රීය කරන්න</string>
+<string name="rateApp">ඇස්තමේන්තු</string>
+<string name="activatePro">PRO version එක බාගන්න</string>
+<string name="month">මාස 1</string>
+<string name="always">සදහටම</string>
+<string name="subscriptionText">දැන්වීම් අක්රීය කරන්න.</string>
+<string name="once">එක්-කාල ගෙවීම්</string>
+<string name="getPro">මිලදී ගන්න</string>
+<string name="selectScreen">තිරයක් තෝරන්න</string>
+<string name="apply">අදාළ</string>
+<string name="ok">හරි</string>
+<string name="no_internet">Internet connection එකක් නෑ</string>
+<string name="make_sure_connected">ඔබගේ උපාංගය අන්තර්ජාලයට සම්බන්ධ බවට වග බලා ගන්න. ජංගම හෝ Wi-Fi ජාලයක් භාවිතා කරන්න.</string>
+<string name="try_vpn">අන්තර්ජාල සම්බන්ධතාවයක් තිබේ නම්, නමුත් යෙදුම දෝෂයක් ලබා දෙයි නම්, VPN භාවිතා කරන්න</string>
+<string name="user_agreement">රහස්යතා ප්රතිපත්තිය</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">හායි! මම මෙම යෙදුම නිපදවා ළඟා විය කැමති සහ ඔබ සමඟ බෙදා ගැනීමට තීරණය. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">හිස් පූර්වාපේක්ෂි</string>
+<string name="clear">පැහැදිලියි</string>
+<string name="wholeCache">හවුල් හැඹිලි -</string>
+<string-array name="language">
+<item>ඇම්හාරික්,am</item>
+<item>අරාබි,ar</item>
+<item>බල්ගේරියානු,bg</item>
+<item>බෙංගාලි,bn</item>
+<item>කැටලාන්,ca</item>
+<item>චෙක්,cs</item>
+<item>ඩෙන්මාර්ක,da</item>
+<item>ජර්මානු,de</item>
+<item>ග්රීක,el</item>
+<item>ඉංග්රීසි,en</item>
+<item>ස්පාඤ්ඤ,es</item>
+<item>එස්තෝනියානු,et</item>
+<item>පර්සියානු,fa</item>
+<item>ෆින්ලන්ත,fi</item>
+<item>පිලිපීන,fil</item>
+<item>ප්රංශ,fr</item>
+<item>ගුජරාටි,gu</item>
+<item>හින්දි,hi</item>
+<item>ක්රොඒෂියානු,hr</item>
+<item>හංගේරියානු,hu</item>
+<item>ආර්මේනියානු,hy</item>
+<item>ඉන්දුනීසියානු,id</item>
+<item>අයිස්ලන්ත,is</item>
+<item>ඉතාලි,it</item>
+<item>හෙබ්රෙව්,he</item>
+<item>ජපන්,ja</item>
+<item>කන්නඩ,kn</item>
+<item>කොරියානු,ko</item>
+<item>ලිතුවේනියානු,lt</item>
+<item>ලැට්වියානු,lv</item>
+<item>මලයාලම්,ml</item>
+<item>මරාති,mr</item>
+<item>මැලේ,ms</item>
+<item>නෝර්වීජියානු,nb</item>
+<item>පන්ජාබ්,pa</item>
+<item>පෝලන්ත,pl</item>
+<item>පෘතුගීසි,pt</item>
+<item>රුමේනියානු,ro</item>
+<item>රුසියානු,ru</item>
+<item>සිංහල,si</item>
+<item>ස්ලෝවැකියානු,sk</item>
+<item>ස්ලොවේනියානු,sl</item>
+<item>සර්බියානු,sr</item>
+<item>ස්වීඩන්,sv</item>
+<item>ස්වාහිලි,sw</item>
+<item>දෙමළ,ta</item>
+<item>තෙළිඟු,te</item>
+<item>තායි,th</item>
+<item>තුර්කි,tr</item>
+<item>යුක්රේන,uk</item>
+<item>උර්දු,ur</item>
+<item>වියට්නාම,vi</item>
+<item>චීන,zh</item>
+</string-array>
+</resources>

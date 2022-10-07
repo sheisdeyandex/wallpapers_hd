@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">ใหม่</string>
+<string name="category_3D">3 มิติ</string>
+<string name="category_AMOLED">อาโมเลด</string>
+<string name="category_DOUBLE">วอลล์เปเปอร์คู่</string>
+<string name="category_ABSTRACTION">นามธรรม</string>
+<string name="category_AUTO">รถยนต์</string>
+<string name="category_ANIME">อะนิเมะ</string>
+<string name="category_ARMY">กองทัพบก/อุปกรณ์</string>
+<string name="category_ART">ศิลปะ</string>
+<string name="category_ARCHITECTURE">สถาปัตยกรรม</string>
+<string name="category_FOOD">อาหาร</string>
+<string name="category_ANIMALS">สัตว์</string>
+<string name="category_ZNAKI">สัญญาณ/จารึก</string>
+<string name="category_GAMES">เกม</string>
+<string name="category_SPACE">พื้นที่</string>
+<string name="category_PIPL">ผู้คน</string>
+<string name="category_MACRO">แมโคร</string>
+<string name="category_MINIMALISM">ศิลปะ</string>
+<string name="category_MOTO">รถจักรยานยนต์</string>
+<string name="category_MUSIC">ดนตรี</string>
+<string name="category_HOLIDAYS">วันหยุด</string>
+<string name="category_NATURE">กเขา</string>
+<string name="category_SPORT">กีฬา</string>
+<string name="category_SUPERHIROS">ซูเปอร์ฮีโร่</string>
+<string name="category_TEXTURE">พื้นผิว</string>
+<string name="category_FILMS">ภาพยนตร์</string>
+<string name="category_FANTASY">แฟนตาซี</string>
+<string name="category_FLOWERS">ดอกไม้</string>
+<string name="category_HI_TECH">ไฮเทค</string>
+<string name="category_OTHER">ต่างๆ</string>
+<string name="categories">หมวดหมู่สินค้า</string>
+<string name="install">ติดตั้ง</string>
+<string name="save">บันทึก</string>
+<string name="tvBlockScreen">ล็อคหน้าจอ</string>
+<string name="homeScreen">หน้าจอหลัก</string>
+<string name="everywhere">ทุกที่</string>
+<string name="downloading">กำลังดาวน์โหลด..</string>
+<string name="downloadingInfo">หลังจากดาวน์โหลดคุณจะแสดง 1 โฆษณา</string>
+<string name="installedandsaved">บันทึกและติดตั้ง</string>
+<string name="saved">บันทึกในแกลเลอรี</string>
+<string name="share">เพื่อแบ่งปัน</string>
+<string name="clearCookies">ล้างแคช</string>
+<string name="language">ภาษา:</string>
+<string name="disableAds">ปิดการใช้งานโฆษณา</string>
+<string name="rateApp">ประมาณการ</string>
+<string name="activatePro">เปิดใช้งานรุ่นโปร</string>
+<string name="month">1 เดือน</string>
+<string name="always">ตลอดไป</string>
+<string name="subscriptionText">ปิดการใช้งานโฆษณา</string>
+<string name="once">การชำระเงินครั้งเดียว</string>
+<string name="getPro">ซื้อ</string>
+<string name="selectScreen">เลือกหน้าจอ</string>
+<string name="apply">สมัคร</string>
+<string name="ok">โอเค</string>
+<string name="no_internet">ไม่มีการเชื่อมต่ออินเทอร์เน็ต</string>
+<string name="make_sure_connected">ตรวจสอบว่าอุปกรณ์ของคุณเชื่อมต่อกับอินเทอร์เน็ตแล้ว การเชื่อมต่อกับเครือข่าย,โฮมกรุ๊ป,บรอดแบนด์ผ่านมือถือ,เดสก์ท็อประยะไกล,การแบ่งปัน</string>
+<string name="try_vpn">หากมีการเชื่อมต่ออินเทอร์เน็ตแต่โปรแกรมให้ข้อผิดพลาดแล้วใช้การเชื่อมต่ออินเทอร์เน็</string>
+<string name="user_agreement">นโยบายความเป็นส่วนตัว</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">หวัดดี! ะแบ่งปันกับคุณ https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">ล้างแคช</string>
+<string name="clear">ชัดเจน</string>
+<string name="wholeCache">แคชที่ใช้ร่วมกัน-</string>
+<string-array name="language">
+<item>อัมฮาริค,am</item>
+<item>อาหรับ,ar</item>
+<item>บัลแกเรีย,bg</item>
+<item>เบงกาลี,bn</item>
+<item>คาตาลัน,ca</item>
+<item>เช็ค,cs</item>
+<item>เดนิช,da</item>
+<item>ชาวเยอรมัน,de</item>
+<item>กรีก,el</item>
+<item>ภาษาไทย,en</item>
+<item>สเปน,es</item>
+<item>เอสโตเนีย,et</item>
+<item>เปอร์เซีย,fa</item>
+<item>ภาษาฟินแลนด์,fi</item>
+<item>ชาวฟิลิปปินส์,fil</item>
+<item>ฝรั่งเศส,fr</item>
+<item>คุชราต,gu</item>
+<item>ภาษาฮินดี,hi</item>
+<item>โครเอเชีย,hr</item>
+<item>ฮังการี,hu</item>
+<item>อาร์เมเนีย,hy</item>
+<item>ชาวอินโดนีเซีย,id</item>
+<item>ไอซ์แลนด์,is</item>
+<item>อิตาลี,it</item>
+<item>ฮิบรู,he</item>
+<item>ภาษาญี่ปุ่น,ja</item>
+<item>กันนาดา,kn</item>
+<item>ภาษาเกาหลี,ko</item>
+<item>ลิทัวเนีย,lt</item>
+<item>ลัตเวีย,lv</item>
+<item>มาลายาลัม,ml</item>
+<item>มราฐี,mr</item>
+<item>ภาษามาเลย์,ms</item>
+<item>ภาษานอร์เวย์,nb</item>
+<item>ปัญจาบ,pa</item>
+<item>ชาวโปแลนด์,pl</item>
+<item>ภาษาโปรตุเกส,pt</item>
+<item>โรมาเนีย,ro</item>
+<item>ชาวรัสเซีย,ru</item>
+<item>สิงหล,si</item>
+<item>สโลวัก,sk</item>
+<item>สโลวีเนีย,sl</item>
+<item>เซอร์เบีย,sr</item>
+<item>สวีเดน,sv</item>
+<item>ซวาฮิรี,sw</item>
+<item>ทมิฬ,ta</item>
+<item>กระปุก,te</item>
+<item>ไทย,th</item>
+<item>ตุรกี,tr</item>
+<item>ยูเครน,uk</item>
+<item>อิรดู,ur</item>
+<item>ชาวเวียดนาม,vi</item>
+<item>ชาวจีน,zh</item>
+</string-array>
+</resources>

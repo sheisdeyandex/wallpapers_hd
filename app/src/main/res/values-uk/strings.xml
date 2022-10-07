@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Нові шпалери</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">DOUBLE</string>
+<string name="category_ABSTRACTION">Абстракція</string>
+<string name="category_AUTO">Автомобіль</string>
+<string name="category_ANIME">Аніме</string>
+<string name="category_ARMY">Армія / Техніка</string>
+<string name="category_ART">ART</string>
+<string name="category_ARCHITECTURE">Архітектура</string>
+<string name="category_FOOD">Їжа</string>
+<string name="category_ANIMALS">Тварина</string>
+<string name="category_ZNAKI">Знаки / Написи</string>
+<string name="category_GAMES">Гра</string>
+<string name="category_SPACE">Космос</string>
+<string name="category_PIPL">Люди</string>
+<string name="category_MACRO">Макро</string>
+<string name="category_MINIMALISM">Мінімалізм</string>
+<string name="category_MOTO">Мотоцикл</string>
+<string name="category_MUSIC">Музика</string>
+<string name="category_HOLIDAYS">Свято</string>
+<string name="category_NATURE">Природа</string>
+<string name="category_SPORT">Спорт</string>
+<string name="category_SUPERHIROS">Супергерої</string>
+<string name="category_TEXTURE">Текстура</string>
+<string name="category_FILMS">Фільм</string>
+<string name="category_FANTASY">Фентезі</string>
+<string name="category_FLOWERS">Квіти</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Різне</string>
+<string name="categories">Категорія</string>
+<string name="install">Установивши</string>
+<string name="save">Зберігши</string>
+<string name="tvBlockScreen">Екран блокування</string>
+<string name="homeScreen">Домашній екран</string>
+<string name="everywhere">Скрізь</string>
+<string name="downloading">Завантаження...</string>
+<string name="downloadingInfo">Після завантаження вам буде показано 1 рекламне оголошення</string>
+<string name="installedandsaved">Збережено та встановлено</string>
+<string name="saved">Збережено в Галерею</string>
+<string name="share">Поділитися</string>
+<string name="clearCookies">Очистити кеш</string>
+<string name="language">Мова</string>
+<string name="disableAds">Вимкнути рекламу</string>
+<string name="rateApp">Оцінивши</string>
+<string name="activatePro">Активувати PRO-версію</string>
+<string name="month">1 місяць</string>
+<string name="always">Назавжди</string>
+<string name="subscriptionText">Відключити рекламу.</string>
+<string name="once">Разовий платіж</string>
+<string name="getPro">Купити</string>
+<string name="selectScreen">Виберіть екран</string>
+<string name="apply">Застосовувати</string>
+<string name="ok">Око</string>
+<string name="no_internet">Відсутнє підключення до Інтернету</string>
+<string name="make_sure_connected">Переконайтеся що ваш пристрій підключено до Інтернету. Спробуйте використовувати мобільну або Wi-Fi мережу.</string>
+<string name="try_vpn">Якщо інтернеть є, але додаток видає помилку, то використовуйте VPN</string>
+<string name="user_agreement">Політика конфіденційності</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Привіт! Мені сподобалося це додаток і я вирішив поділитися ним з тобою. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Очистити кеш</string>
+<string name="clear">Очистивши</string>
+<string name="wholeCache">Загальний кеш - </string>
+<string-array name="language">
+<item>Амхарський,am</item>
+<item>Арабський,ar</item>
+<item>Болгарський,bg</item>
+<item>Бенгальський,bn</item>
+<item>Каталанський,ca</item>
+<item>Чеський,cs</item>
+<item>Датський,da</item>
+<item>Німецький,de</item>
+<item>Грецький,el</item>
+<item>Англійський,en</item>
+<item>Іспанський,es</item>
+<item>Естонський,et</item>
+<item>Перський,fa</item>
+<item>Фінський,fi</item>
+<item>Філіппінський,fil</item>
+<item>Французький,fr</item>
+<item>Гуджараті,gu</item>
+<item>Хінді,hi</item>
+<item>Хорватський,hr</item>
+<item>Угорський,hu</item>
+<item>Вірменський,hy</item>
+<item>Індонезійський,id</item>
+<item>Ісландський,is</item>
+<item>Італійський,it</item>
+<item>Іврит,he</item>
+<item>Японський,ja</item>
+<item>Каннада,kn</item>
+<item>Корейський,ko</item>
+<item>Литовський,lt</item>
+<item>Латиський,lv</item>
+<item>Малаялам,ml</item>
+<item>Марати,mr</item>
+<item>Малайський,ms</item>
+<item>Норвезький,nb</item>
+<item>Панджабі,pa</item>
+<item>Польський,pl</item>
+<item>Португальський,pt</item>
+<item>Румунський,ro</item>
+<item>Російський,ru</item>
+<item>Сингальський,si</item>
+<item>Словацький,sk</item>
+<item>Словенський,sl</item>
+<item>Сербський,sr</item>
+<item>Шведський,sv</item>
+<item>Суахілі,sw</item>
+<item>Тамільський,ta</item>
+<item>Телугу,te</item>
+<item>Тайський,th</item>
+<item>Турецький,tr</item>
+<item>Український,uk</item>
+<item>Урду,ur</item>
+<item>В\'єтнамська,vi</item>
+<item>Китайський,zh</item>
+</string-array>
+</resources>

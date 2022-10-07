@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">Wallpapers\nPlus</string>
+    <string name="appodeal_app_key" translatable="false">dbdbbf553d228ac45a8206859a298e4b10d3be2a77679b80</string>
+    <string name="owner_id" translatable="false">-99181623</string>
+    <string name="access_token" translatable="false">29da1e9f29da1e9f29da1e9f8929b6cd99229da29da1e9f74a343c3826fef881bb9979a</string>
+    <string name="newest_album_id" translatable="false">249956323</string>
+    <string name="album_id_3d" translatable="false">227400554</string>
+    <string name="album_id_amoled" translatable="false">255792926</string>
+    <string name="album_id_double" translatable="false">279842226</string>
+    <string name="album_id_ABSTRACTION" translatable="false">227398811</string>
+    <string name="album_id_AUTO" translatable="false">227400768</string>
+    <string name="album_id_ANIME" translatable="false">227397770</string>
+    <string name="album_id_ARMY" translatable="false">227132597</string>
+    <string name="album_id_ART" translatable="false">243100477</string>
+    <string name="album_id_ARCHITECTURE" translatable="false">227395376</string>
+    <string name="album_id_FOOD" translatable="false">227394452</string>
+    <string name="album_id_ANIMALS" translatable="false">227390717</string>
+    <string name="album_id_ZNAKI" translatable="false">227397042</string>
+    <string name="album_id_GAMES" translatable="false">227389407</string>
+    <string name="album_id_SPACE" translatable="false">227405548</string>
+    <string name="album_id_PIPL" translatable="false">227405874</string>
+    <string name="album_id_MACRO" translatable="false">227387910</string>
+    <string name="album_id_MINIMALISM" translatable="false">239998507</string>
+    <string name="album_id_MOTO" translatable="false">227375589</string>
+    <string name="album_id_MUSIC" translatable="false">227386020</string>
+    <string name="album_id_HOLIDAYS" translatable="false">227379727</string>
+    <string name="album_id_NATURE" translatable="false">227380512</string>
+    <string name="album_id_SPORT" translatable="false">227377903</string>
+    <string name="album_id_SUPERHIROS" translatable="false">243298988</string>
+    <string name="album_id_TEXTURE" translatable="false">227378710</string>
+    <string name="album_id_HORRORS" translatable="false">243430022</string>
+    <string name="album_id_FILMS" translatable="false">227375782</string>
+    <string name="album_id_FANTASY" translatable="false">227377595</string>
+    <string name="album_id_FLOWERS" translatable="false">227403511</string>
+    <string name="album_id_HI_TECH" translatable="false">227400062</string>
+    <string name="album_id_OTHER" translatable="false">227376600</string>
+    <string name="version" translatable="false">5.131</string>
+    <string name="hello_blank_fragment" translatable="false">3D</string>
+    <string name="favourites" translatable="false">3D</string>
+    <string name="tt_request_permission_descript_external_storage" translatable="false">3D</string>
+    <string name="tt_request_permission_descript_location" translatable="false">3D</string>
+    <string name="tt_request_permission_descript_read_phone_state" translatable="false">3D</string>
+    <string name="category_NEWEST">New</string>
+    <string name="category_3D">3D</string>
+    <string name="category_AMOLED">AMOLED</string>
+    <string name="category_DOUBLE">DOUBLE Wallpaper</string>
+    <string name="category_ABSTRACTION">Abstraction</string>
+    <string name="category_AUTO">Cars</string>
+    <string name="category_ANIME">Anime</string>
+    <string name="category_ARMY">Army / Equipment</string>
+    <string name="category_ART">ART</string>
+    <string name="category_ARCHITECTURE">Architecture</string>
+    <string name="category_FOOD">Meal</string>
+    <string name="category_ANIMALS">Animals</string>
+    <string name="category_ZNAKI">Signs / Inscriptions</string>
+    <string name="category_GAMES">Games</string>
+    <string name="category_SPACE">Space</string>
+    <string name="category_PIPL">People</string>
+    <string name="category_MACRO">Macro</string>
+    <string name="category_MINIMALISM">Minimalism</string>
+    <string name="category_MOTO">Motorcycles</string>
+    <string name="category_MUSIC">Music</string>
+    <string name="category_HOLIDAYS">Holidays</string>
+    <string name="category_NATURE">Nature</string>
+    <string name="category_SPORT">Sport</string>
+    <string name="category_SUPERHIROS">Superheroes</string>
+    <string name="category_TEXTURE">Textures</string>
+    <string name="category_FILMS">Films</string>
+    <string name="category_FANTASY">Fantasy</string>
+    <string name="category_FLOWERS">Flowers</string>
+    <string name="category_HI_TECH">Hi-Tech</string>
+    <string name="category_OTHER">Various</string>
+    <string name="categories">Categories</string>
+    <string name="install">Install</string>
+    <string name="save">Save</string>
+    <string name="tvBlockScreen">Lock Screen</string>
+    <string name="homeScreen">Home Screen</string>
+    <string name="everywhere">Everywhere</string>
+    <string name="downloading">Downloading...</string>
+    <string name="downloadingInfo">After downloading, you will be shown 1 advertisement</string>
+    <string name="installedandsaved">Saved and installed</string>
+    <string name="saved">Saved to Gallery</string>
+    <string name="share">To share</string>
+    <string name="clearCookies">Clear Cache</string>
+    <string name="language">Language</string>
+    <string name="disableAds">Disable ads</string>
+    <string name="rateApp">Estimate</string>
+    <string name="activatePro">Activate the PRO version</string>
+    <string name="month">1 month</string>
+    <string name="always">Forever</string>
+    <string name="subscriptionText">Disable ads.</string>
+    <string name="once">One-time payment</string>
+    <string name="getPro">Buy</string>
+    <string name="selectScreen">Select a screen</string>
+    <string name="apply">Apply</string>
+    <string name="ok">Ok</string>
+    <string name="no_internet">There is no internet connection</string>
+    <string name="make_sure_connected">Make sure your device is connected to the Internet. Try using a mobile or Wi-Fi network.</string>
+    <string name="try_vpn">If there is an Internet connection, but the application gives an error, then use a VPN</string>
+    <string name="user_agreement">Privacy policy</string>
+    <string name="share_text">Hi! I liked this app and decided to share it with you. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+    <string name="cleanCache">Clear Cache</string>
+    <string name="clear">Clear</string>
+    <string name="wholeCache">the "Shared Cache -"</string>
+<string name="user_agreement_url" translatable="false">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+    <string name="cancel">Отмена</string>
+    <string-array name="language">
+        <item>Amharic,am</item>
+        <item>Arabic,ar</item>
+        <item>Bulgarian,bg</item>
+        <item>Bengali,bn</item>
+        <item>Сatalan,ca</item>
+        <item>Czech</item>
+        <item>Danish</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>English,en</item>
+        <item>Spanish</item>
+        <item>Estonian</item>
+        <item>Persian</item>
+        <item>Finnish</item>
+        <item>Filipino</item>
+        <item>French</item>
+        <item>Gujarati</item>
+        <item>Hindi</item>
+        <item>Croatian</item>
+        <item>Hungarian</item>
+        <item>Armenian</item>
+        <item>Indonesian</item>
+        <item>Icelandic</item>
+        <item>Italian</item>
+        <item>Hebrew</item>
+        <item>Japanese</item>
+        <item>Kannada,kn</item>
+        <item>Korean</item>
+        <item>Lithuanian</item>
+        <item>Latvian</item>
+        <item>Malayalam</item>
+        <item>Marathi</item>
+        <item>Malay</item>
+        <item>Norwegian</item>
+        <item>Punjabi</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Romanian</item>
+        <item>Russian,ru</item>
+        <item>Sinhalese</item>
+        <item>Slovak</item>
+        <item>Slovenian</item>
+        <item>Serbian</item>
+        <item>Swedish</item>
+        <item>Swahili</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>Ukrainian</item>
+        <item>Urdu</item>
+        <item>Vietnamese</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>

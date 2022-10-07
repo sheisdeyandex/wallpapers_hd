@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">નવું</string>
+<string name="category_3D">3ડી</string>
+<string name="category_AMOLED">એમોલેડ</string>
+<string name="category_DOUBLE">બમણું</string>
+<string name="category_ABSTRACTION">તાત્વિક</string>
+<string name="category_AUTO">કાર</string>
+<string name="category_ANIME">એનાઇમ</string>
+<string name="category_ARMY">આર્મી / સાધનો</string>
+<string name="category_ART">કળા</string>
+<string name="category_ARCHITECTURE">આર્કિટેક્ચર</string>
+<string name="category_FOOD">ભોજન</string>
+<string name="category_ANIMALS">પ્રાણીઓ</string>
+<string name="category_ZNAKI">ચિહ્નો / શિલાલેખો</string>
+<string name="category_GAMES">રમતો</string>
+<string name="category_SPACE">જગ્યા</string>
+<string name="category_PIPL">લોકો</string>
+<string name="category_MACRO">મેક્રો</string>
+<string name="category_MINIMALISM">મિનિમલિઝમ</string>
+<string name="category_MOTO">મોટરસાઈકલ</string>
+<string name="category_MUSIC">સંગીત</string>
+<string name="category_HOLIDAYS">રજાઓ</string>
+<string name="category_NATURE">કુદરત</string>
+<string name="category_SPORT">રમતગમત</string>
+<string name="category_SUPERHIROS">સુપરહીરોની</string>
+<string name="category_TEXTURE">દેખાવ</string>
+<string name="category_FILMS">ફિલ્મો</string>
+<string name="category_FANTASY">ફૅન્ટેસી</string>
+<string name="category_FLOWERS">ફૂલો</string>
+<string name="category_HI_TECH">હાય-ટેક</string>
+<string name="category_OTHER">વિવિધ</string>
+<string name="categories">વર્ગો</string>
+<string name="install">સ્થાપિત કરો</string>
+<string name="save">સંગ્રહો</string>
+<string name="tvBlockScreen">તાળુ સ્ક્રીન</string>
+<string name="homeScreen">હોમ સ્ક્રીન</string>
+<string name="everywhere">બધે</string>
+<string name="downloading">ડાઉનલોડ...</string>
+<string name="downloadingInfo">ડાઉનલોડ કર્યા પછી, તમને 1 જાહેરાત બતાવવામાં આવશે</string>
+<string name="installedandsaved">સાચવેલ અને સ્થાપિત</string>
+<string name="saved">ગેલેરી સાચવવામાં</string>
+<string name="share">શેર કરવા માટે</string>
+<string name="clearCookies">કેશ સાફ કરો</string>
+<string name="language">ભાષા</string>
+<string name="disableAds">જાહેરાતો અક્ષમ કરો</string>
+<string name="rateApp">અંદાજ</string>
+<string name="activatePro">પ્રો સંસ્કરણ સક્રિય કરો</string>
+<string name="month">1 મહિનો</string>
+<string name="always">કાયમ</string>
+<string name="subscriptionText">જાહેરાતો અક્ષમ કરો.</string>
+<string name="once">વન-ટાઇમ ચુકવણી</string>
+<string name="getPro">ખરીદો</string>
+<string name="selectScreen">સ્ક્રીન પસંદ કરો</string>
+<string name="apply">લાગુ કરો</string>
+<string name="ok">બરાબર</string>
+<string name="no_internet">ઇન્ટરનેટ કનેક્શન નથી</string>
+<string name="make_sure_connected">ખાતરી કરો કે તમારું ઉપકરણ ઇન્ટરનેટ સાથે જોડાયેલ છે. મોબાઇલ અથવા વાઇ-ફાઇ નેટવર્કનો ઉપયોગ કરવાનો પ્રયાસ કરો.</string>
+<string name="try_vpn">જો ત્યાં ઇન્ટરનેટ કનેક્શન છે, પરંતુ એપ્લિકેશન ભૂલ આપે છે, તો પછી વીપીએનનો ઉપયોગ કરો</string>
+<string name="user_agreement">ગોપનીયતા નીતિ</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">હાય! મને આ એપ્લિકેશન ગમી અને તેને તમારી સાથે શેર કરવાનું નક્કી કર્યું. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">કેશ સાફ કરો</string>
+<string name="clear">સાફ કરો</string>
+<string name="wholeCache">વહેંચાયેલ કેશ -</string>
+<string-array name="language">
+<item>એમ્હારિક,am</item>
+<item>અરેબિયન,ar</item>
+<item>બલ્ગેરિયન,bg</item>
+<item>બંગાળી,bn</item>
+<item>કતલાન,ca</item>
+<item>ચેક,cs</item>
+<item>ડેનિશ,da</item>
+<item>જર્મન,de</item>
+<item>ગ્રીક,el</item>
+<item>ગુજરાતી,en</item>
+<item>સ્પેનિશ,es</item>
+<item>એસ્ટોનિયન,et</item>
+<item>પર્સીઅન,fa</item>
+<item>ફિન્નિશ,fi</item>
+<item>ફિલિપિનો,fil</item>
+<item>ફ્રેન્ચ,fr</item>
+<item>ગુજરાતી,gu</item>
+<item>હિન્દી,hi</item>
+<item>ક્રોએટિઅન,hr</item>
+<item>હંગેરીયન,hu</item>
+<item>અર્મેનિઅન,hy</item>
+<item>ઇન્ડોનેશિયન,id</item>
+<item>આયલેંડિક,is</item>
+<item>ઇટાલિયન,it</item>
+<item>હિબ્રુ,he</item>
+<item>જાપાની,ja</item>
+<item>કન્નડા,kn</item>
+<item>કોરીઅન,ko</item>
+<item>લિથુનિયન,lt</item>
+<item>લાતવિયન,lv</item>
+<item>મલયાલમ,ml</item>
+<item>મરાઠી,mr</item>
+<item>મલય,ms</item>
+<item>નોર્વેજીઅન,nb</item>
+<item>પંજાબી,pa</item>
+<item>પોલિશ,pl</item>
+<item>પોર્ટુગીઝ,pt</item>
+<item>રોમાનિઅન,ro</item>
+<item>રશિયન,ru</item>
+<item>સિંહાલી,si</item>
+<item>સ્લોવૅક,sk</item>
+<item>સ્લોવેનિયન,sl</item>
+<item>સર્બિયન,sr</item>
+<item>સ્વિડિશ,sv</item>
+<item>સ્વાહિલી,sw</item>
+<item>તમિલ,ta</item>
+<item>તેલુગુ,te</item>
+<item>થાઈ,th</item>
+<item>તુર્કિશ,tr</item>
+<item>યુક્રેનિયન,uk</item>
+<item>ઉર્દુ,ur</item>
+<item>વિયેતનામી,vi</item>
+<item>ચીની,zh</item>
+</string-array>
+</resources>

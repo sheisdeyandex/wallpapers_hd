@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Nauji tapetai</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">DOUBLE</string>
+<string name="category_ABSTRACTION">Abstrakcija</string>
+<string name="category_AUTO">Automobilis</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Armija / Technika</string>
+<string name="category_ART">ART</string>
+<string name="category_ARCHITECTURE">Architektūra</string>
+<string name="category_FOOD">Valgis</string>
+<string name="category_ANIMALS">Gyvūnas</string>
+<string name="category_ZNAKI">Ženklai / Užrašai</string>
+<string name="category_GAMES">Žaidimas</string>
+<string name="category_SPACE">Kosmosas</string>
+<string name="category_PIPL">Žmonės</string>
+<string name="category_MACRO">Makro</string>
+<string name="category_MINIMALISM">Minimalizmas</string>
+<string name="category_MOTO">Motociklas</string>
+<string name="category_MUSIC">Muzika</string>
+<string name="category_HOLIDAYS">Šventė</string>
+<string name="category_NATURE">Prigimtis</string>
+<string name="category_SPORT">Sportas</string>
+<string name="category_SUPERHIROS">Superherojai</string>
+<string name="category_TEXTURE">Tekstūros</string>
+<string name="category_FILMS">Filmas</string>
+<string name="category_FANTASY">Fantazija</string>
+<string name="category_FLOWERS">Gėlės</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Įvairus</string>
+<string name="categories">Kategorijos</string>
+<string name="install">Nustatyti</string>
+<string name="save">Įrašyti</string>
+<string name="tvBlockScreen">Užrakinimo ekranas</string>
+<string name="homeScreen">Namų ekranas</string>
+<string name="everywhere">Visur</string>
+<string name="downloading">Apkrova...</string>
+<string name="downloadingInfo">Po atsisiuntimo jums bus parodyta 1 reklama</string>
+<string name="installedandsaved">Išsaugota ir įdiegta</string>
+<string name="saved">Išsaugota galerijoje</string>
+<string name="share">Pasidalyti</string>
+<string name="clearCookies">Išvalyti talpyklą</string>
+<string name="language">Kalba</string>
+<string name="disableAds">Išjungti reklamą</string>
+<string name="rateApp">Įvertinti</string>
+<string name="activatePro">Aktyvuoti PRO versiją</string>
+<string name="month">1 mėnuo</string>
+<string name="always">Visiems laikams</string>
+<string name="subscriptionText">Išjungti reklamą.</string>
+<string name="once">Vienkartinis mokėjimas</string>
+<string name="getPro">Pirkti</string>
+<string name="selectScreen">Pasirinkite ekraną</string>
+<string name="apply">Pritaikyti</string>
+<string name="ok">Akis</string>
+<string name="no_internet">Nėra interneto ryšio</string>
+<string name="make_sure_connected">Įsitikinkite, kad jūsų įrenginys yra prijungtas prie interneto. Pabandykite naudoti mobilųjį arba Wi-Fi tinklą.</string>
+<string name="try_vpn">Jei turite internetą, bet programa sukuria klaidą, naudokite VPN</string>
+<string name="user_agreement">Privatumo politika</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Labas! Man patiko ši programa ir nusprendžiau pasidalinti ja su tavimi. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Išvalyti talpyklą</string>
+<string name="clear">Nuvalyti</string>
+<string name="wholeCache">Bendra talpykla -</string>
+<string-array name="language">
+<item>Amharų,am</item>
+<item>Arabų,ar</item>
+<item>Bulgarų,bg</item>
+<item>Bengalų,bn</item>
+<item>Katalonų,ca</item>
+<item>Čekų,cs</item>
+<item>Danų,da</item>
+<item>Vokiškas,de</item>
+<item>Graikiškas,el</item>
+<item>Angliškas,en</item>
+<item>Ispanų,es</item>
+<item>Estų,et</item>
+<item>Persų,fa</item>
+<item>Suomių,fi</item>
+<item>Filipinų,fil</item>
+<item>Prancūzų,fr</item>
+<item>Gudžarati,gu</item>
+<item>Hindi,hi</item>
+<item>Kroatų,hr</item>
+<item>Vengrų,hu</item>
+<item>Armėnų,hy</item>
+<item>Indoneziečių,id</item>
+<item>Islandų,is</item>
+<item>Italų,it</item>
+<item>Hebrajų,he</item>
+<item>Japonų,ja</item>
+<item>Kanados,kn</item>
+<item>Korėjiečių,ko</item>
+<item>Lietuviškas,lt</item>
+<item>Latviškas,lv</item>
+<item>Malajalamas,ml</item>
+<item>Marathi,mr</item>
+<item>Malajų,ms</item>
+<item>Norvegų,nb</item>
+<item>Pandžabi,pa</item>
+<item>Lenkų,pl</item>
+<item>Portugalų,pt</item>
+<item>Rumunų,ro</item>
+<item>Rusas,ru</item>
+<item>Sinhalų,si</item>
+<item>Slovakų,sk</item>
+<item>Slovėnų,sl</item>
+<item>Serbų,sr</item>
+<item>Švedų,sv</item>
+<item>Suahili,sw</item>
+<item>Tamilų,ta</item>
+<item>Telugu,te</item>
+<item>Tajų,th</item>
+<item>Turkų,tr</item>
+<item>Ukrainiečių,uk</item>
+<item>Urdu,ur</item>
+<item>Vietnamiečių,vi</item>
+<item>Kinų,zh</item>
+</string-array>
+</resources>

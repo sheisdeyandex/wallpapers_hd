@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Novo</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">Dvojno ozadje</string>
+<string name="category_ABSTRACTION">Abstrakcija</string>
+<string name="category_AUTO">Avtomobili</string>
+<string name="category_ANIME">Animeji</string>
+<string name="category_ARMY">Vojska / Oprema</string>
+<string name="category_ART">Umetnost</string>
+<string name="category_ARCHITECTURE">Arhitektura</string>
+<string name="category_FOOD">Obrok</string>
+<string name="category_ANIMALS">Živali</string>
+<string name="category_ZNAKI">Znaki / Napisi</string>
+<string name="category_GAMES">Igre</string>
+<string name="category_SPACE">Vesolje</string>
+<string name="category_PIPL">Ljudje</string>
+<string name="category_MACRO">Makro</string>
+<string name="category_MINIMALISM">Minimalizem</string>
+<string name="category_MOTO">Motorna kolesa</string>
+<string name="category_MUSIC">Glasba</string>
+<string name="category_HOLIDAYS">Počitnice</string>
+<string name="category_NATURE">Narava</string>
+<string name="category_SPORT">Šport</string>
+<string name="category_SUPERHIROS">Superjunaki</string>
+<string name="category_TEXTURE">Teksture</string>
+<string name="category_FILMS">Filmi</string>
+<string name="category_FANTASY">Fantazija</string>
+<string name="category_FLOWERS">Cvetovi</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Različne</string>
+<string name="categories">Kategorije</string>
+<string name="install">Namestitev</string>
+<string name="save">Shrani</string>
+<string name="tvBlockScreen">Zakleni Zaslon</string>
+<string name="homeScreen">Začetni Zaslon</string>
+<string name="everywhere">Povsod</string>
+<string name="downloading">Prenos...</string>
+<string name="downloadingInfo">Po prenosu vam bo prikazan 1 oglas</string>
+<string name="installedandsaved">Shranjeno in nameščeno</string>
+<string name="saved">Shranjeno v galerijo</string>
+<string name="share">Deliti</string>
+<string name="clearCookies">Počisti Predpomnilnik</string>
+<string name="language">Jezik</string>
+<string name="disableAds">Onemogoči oglase</string>
+<string name="rateApp">Ocena</string>
+<string name="activatePro">Aktivirajte različico PRO</string>
+<string name="month">1 mesec</string>
+<string name="always">Za vedno</string>
+<string name="subscriptionText">Onemogoči oglase.</string>
+<string name="once">Enkratno plačilo</string>
+<string name="getPro">Nakup</string>
+<string name="selectScreen">Izberite zaslon</string>
+<string name="apply">Uporabi</string>
+<string name="ok">Ok</string>
+<string name="no_internet">Ni internetne povezave</string>
+<string name="make_sure_connected">Prepričajte se, da je vaša naprava povezana z internetom. Poskusite uporabiti mobilno ali brezžično omrežje.</string>
+<string name="try_vpn">Če obstaja internetna povezava, vendar aplikacija daje napako, uporabite VPN</string>
+<string name="user_agreement">Politika zasebnosti</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Živjo! Ta aplikacija mi je bila všeč in sem se odločila, da jo delim z vami. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Počisti Predpomnilnik</string>
+<string name="clear">Počisti</string>
+<string name="wholeCache">skupni predpomnilnik -</string>
+<string-array name="language">
+<item>Amharščina,am</item>
+<item>Arabskem,ar</item>
+<item>Bolgarščina,bg</item>
+<item>Bengalščina,bn</item>
+<item>Katalonski,ca</item>
+<item>Češčina,cs</item>
+<item>Danski,da</item>
+<item>Nemški,de</item>
+<item>Grški,el</item>
+<item>Slovenščina,en</item>
+<item>Španščina,es</item>
+<item>Estonski,et</item>
+<item>Perzijščina,fa</item>
+<item>Finski,fi</item>
+<item>Filipino,fil</item>
+<item>Francoski,fr</item>
+<item>Gudžaratščina,gu</item>
+<item>Hindujščina,hi</item>
+<item>Hrvaški,hr</item>
+<item>Madžarščina,hu</item>
+<item>Armensko,hy</item>
+<item>Indonezijščina,id</item>
+<item>Islandski,is</item>
+<item>Italijanski,it</item>
+<item>Hebrejščina,he</item>
+<item>Japonski,ja</item>
+<item>Kannada,kn</item>
+<item>Korejski,ko</item>
+<item>Litovski,lt</item>
+<item>Latvijščina,lv</item>
+<item>Malajalam,ml</item>
+<item>Maratščina,mr</item>
+<item>Malajščina,ms</item>
+<item>Norveški,nb</item>
+<item>Punjabi,pa</item>
+<item>Poljski,pl</item>
+<item>Portugalščina,pt</item>
+<item>Romunski,ro</item>
+<item>Ruski,ru</item>
+<item>Singalski,si</item>
+<item>Slovaščina,sk</item>
+<item>Slovenski,sl</item>
+<item>Srbski,sr</item>
+<item>Švedščina,sv</item>
+<item>Svahili,sw</item>
+<item>Tamilsko,ta</item>
+<item>Slovenščinaslovenščina,te</item>
+<item>Tajska,th</item>
+<item>Turški,tr</item>
+<item>Ukrajinski,uk</item>
+<item>Urdu,ur</item>
+<item>Vietnamščina,vi</item>
+<item>Kitajski,zh</item>
+</string-array>
+</resources>

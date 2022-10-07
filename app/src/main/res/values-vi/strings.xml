@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Mới</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMONIAC</string>
+<string name="category_DOUBLE">ĐÔI Hình Nền</string>
+<string name="category_ABSTRACTION">Trừu tượng</string>
+<string name="category_AUTO">Xe ô tô</string>
+<string name="category_ANIME">Phim hoạt hình</string>
+<string name="category_ARMY">Quân Đội / Thiết Bị</string>
+<string name="category_ART">NGHỆ THUẬT</string>
+<string name="category_ARCHITECTURE">Kiến trúc</string>
+<string name="category_FOOD">Bữa ăn</string>
+<string name="category_ANIMALS">Động vật</string>
+<string name="category_ZNAKI">Dấu Hiệu / Chữ Khắc</string>
+<string name="category_GAMES">Trò chơi</string>
+<string name="category_SPACE">Không gian</string>
+<string name="category_PIPL">Người</string>
+<string name="category_MACRO">K-pop</string>
+<string name="category_MINIMALISM">Chủ nghĩa tối giản</string>
+<string name="category_MOTO">Xe máy</string>
+<string name="category_MUSIC">Âm nhạc</string>
+<string name="category_HOLIDAYS">Ngày lễ</string>
+<string name="category_NATURE">Thiên nhiên</string>
+<string name="category_SPORT">Thể thao</string>
+<string name="category_SUPERHIROS">Siêu anh hùng</string>
+<string name="category_TEXTURE">Kết cấu</string>
+<string name="category_FILMS">Phim</string>
+<string name="category_FANTASY">Tưởng tượng</string>
+<string name="category_FLOWERS">Hoa</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Khác nhau</string>
+<string name="categories">Danh mục</string>
+<string name="install">Cài đặt</string>
+<string name="save">Tiết kiệm</string>
+<string name="tvBlockScreen">Khóa Màn Hình</string>
+<string name="homeScreen">Màn Hình Chính</string>
+<string name="everywhere">Ở khắp mọi nơi</string>
+<string name="downloading">Tải về...</string>
+<string name="downloadingInfo">Sau khi tải về, bạn sẽ được hiển thị 1 quảng cáo</string>
+<string name="installedandsaved">Lưu và cài đặt</string>
+<string name="saved">Lưu Vào Gallery</string>
+<string name="share">Chia sẻ</string>
+<string name="clearCookies">Xóa Bộ Nhớ Cache</string>
+<string name="language">Ngôn ngữ</string>
+<string name="disableAds">Tắt quảng cáo</string>
+<string name="rateApp">Ước tính</string>
+<string name="activatePro">Kích HOẠT PHIÊN BẢN PRO</string>
+<string name="month">1 tháng</string>
+<string name="always">Mãi mãi</string>
+<string name="subscriptionText">Vô hiệu hóa quảng cáo.</string>
+<string name="once">Thanh toán một lần</string>
+<string name="getPro">Mua</string>
+<string name="selectScreen">Chọn một màn hình</string>
+<string name="apply">Áp dụng</string>
+<string name="ok">Ok</string>
+<string name="no_internet">Không có kết nối internet</string>
+<string name="make_sure_connected">Đảm bảo thiết bị của bạn được kết nối Với Internet. Hãy thử sử dụng mạng Di Động hoặc Wi-Fi.</string>
+<string name="try_vpn">Nếu có kết Nối Internet, nhưng ứng dụng cung cấp cho một lỗi, sau đó sử dụng MỘT VPN</string>
+<string name="user_agreement">Chính sách bảo mật</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Chào! Tôi thích ứng dụng này và quyết định chia sẻ nó với bạn. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Xóa Bộ Nhớ Cache</string>
+<string name="clear">Rõ ràng</string>
+<string name="wholeCache">Bộ Nhớ Cache Chia sẻ -</string>
+<string-array name="language">
+<item>Tiếng Amharic,am</item>
+<item>Ả rập,ar</item>
+<item>Bun-ga-ri,bg</item>
+<item>Tiếng Bengali,bn</item>
+<item>Catalan,ca</item>
+<item>Thai,cs</item>
+<item>Đan mạch,da</item>
+<item>Tiếng đức,de</item>
+<item>Hy lạp,el</item>
+<item>Tiếng việt,en</item>
+<item>Tây ban nha,es</item>
+<item>Tiếng estonia,et</item>
+<item>Ba tư,fa</item>
+<item>Phần lan,fi</item>
+<item>Thai,fil</item>
+<item>Tiếng pháp,fr</item>
+<item>Gujarati,gu</item>
+<item>Tiếng Hindi,hi</item>
+<item>Tiếng croatia,hr</item>
+<item>Hung-ga-ri,hu</item>
+<item>Tiếng armenia,hy</item>
+<item>Tiếng việt,id</item>
+<item>Tiếng iceland,is</item>
+<item>Tiếng ý,it</item>
+<item>Tiếng do thái,he</item>
+<item>Tiếng nhật,ja</item>
+<item>Kavkaz,kn</item>
+<item>Hàn quốc,ko</item>
+<item>Litva,lt</item>
+<item>Tiếng latvia,lv</item>
+<item>Malayalam,ml</item>
+<item>Tiếng Marathi,mr</item>
+<item>Thai,ms</item>
+<item>Tiếng na uy,nb</item>
+<item>Thai,pa</item>
+<item>Ba lan,pl</item>
+<item>Tiếng bồ đào nha,pt</item>
+<item>Rumani,ro</item>
+<item>Tiếng nga,ru</item>
+<item>Tiếng Sinhalese,si</item>
+<item>Slovakia,sk</item>
+<item>Tiếng slovenia,sl</item>
+<item>Tiếng serbia,sr</item>
+<item>Thụy điển,sv</item>
+<item>Tiếng việt,sw</item>
+<item>Tamil,ta</item>
+<item>T. k.,te</item>
+<item>Thai,th</item>
+<item>Thổ nhĩ kỳ,tr</item>
+<item>Tiếng việt,uk</item>
+<item>Tiếng Urdu,ur</item>
+<item>Tiếng việt,vi</item>
+<item>Trung quốc,zh</item>
+</string-array>
+</resources>

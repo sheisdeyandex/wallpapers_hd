@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Նոր</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">DOUBLE</string>
+<string name="category_ABSTRACTION">Աբստրակցիա</string>
+<string name="category_AUTO">Ավտոմեքենաներ</string>
+<string name="category_ANIME">Անիմե</string>
+<string name="category_ARMY">Բանակ / Տեխնիկա</string>
+<string name="category_ART">ART</string>
+<string name="category_ARCHITECTURE">Ճարտարապետություն</string>
+<string name="category_FOOD">Սնունդ</string>
+<string name="category_ANIMALS">Կենդանիներ</string>
+<string name="category_ZNAKI">Նշաններ / Արձանագրություններ</string>
+<string name="category_GAMES">Խաղեր</string>
+<string name="category_SPACE">Տիեզերք</string>
+<string name="category_PIPL">Մարդիկ</string>
+<string name="category_MACRO">Մակրո</string>
+<string name="category_MINIMALISM">Մինիմալիզմ</string>
+<string name="category_MOTO">Մոտոցիկլներ</string>
+<string name="category_MUSIC">Երաժշտություն</string>
+<string name="category_HOLIDAYS">Տոներ</string>
+<string name="category_NATURE">Բնություն</string>
+<string name="category_SPORT">Սպորտ</string>
+<string name="category_SUPERHIROS">Superheroes</string>
+<string name="category_TEXTURE">Հյուսվածք</string>
+<string name="category_FILMS">Ֆիլմեր</string>
+<string name="category_FANTASY">Fantasy</string>
+<string name="category_FLOWERS">Ծաղիկներ</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Տարբեր</string>
+<string name="categories">Կատեգորիաներ</string>
+<string name="install">Տեղադրել</string>
+<string name="save">Պահպանել</string>
+<string name="tvBlockScreen">Արգելափակման էկրան</string>
+<string name="homeScreen">Տնային էկրան</string>
+<string name="everywhere">Ամենուր</string>
+<string name="downloading">Բեռնել...</string>
+<string name="downloadingInfo">Այն բանից հետո, ներբեռնման, դուք պետք է ցույց տալ, 1 adware</string>
+<string name="installedandsaved">Փրկվել եւ տեղադրվել</string>
+<string name="saved">Պահվում է պատկերասրահում</string>
+<string name="share">Համօգտագործել</string>
+<string name="clearCookies">Մաքրել cache</string>
+<string name="language">Լեզու</string>
+<string name="disableAds">Անջատել գովազդը</string>
+<string name="rateApp">Գնահատել</string>
+<string name="activatePro">Ակտիվացրեք PRO տարբերակը</string>
+<string name="month">1 ամիս</string>
+<string name="always">Հավերժ</string>
+<string name="subscriptionText">Անջատել Գովազդ.</string>
+<string name="once">Միանվագ վճարում</string>
+<string name="getPro">Գնել</string>
+<string name="selectScreen">Ընտրեք էկրանը</string>
+<string name="apply">Դիմել</string>
+<string name="ok">Լավ</string>
+<string name="no_internet">Բացակայում է ինտերնետ կապը</string>
+<string name="make_sure_connected">Համոզվեք, որ ձեր սարքը միացված է ինտերնետին: Փորձեք օգտագործել բջջային կամ Wi-Fi ցանց.</string>
+<string name="try_vpn">Եթե կա ինտերնետ, բայց ծրագիրը տալիս է սխալ, ապա օգտագործեք VPN</string>
+<string name="user_agreement">Գաղտնիության քաղաքականություն</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Բարեւ! Ինձ դուր եկավ այս ծրագիրը, եւ ես որոշեցի կիսել այն ձեզ հետ. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Մաքրել cache</string>
+<string name="clear">Մաքրել</string>
+<string name="wholeCache">Ընդհանուր քեշ </string>
+<string-array name="language">
+<item>Հայերեն,am</item>
+<item>Արաբական,ar</item>
+<item>Բուլղարերեն,bg</item>
+<item>Բենգալերեն,bn</item>
+<item>Կատալաներեն,ca</item>
+<item>Չեխական,cs</item>
+<item>Դանիերեն,da</item>
+<item>Գերմաներեն,de</item>
+<item>Հունական,el</item>
+<item>Անգլերեն,en</item>
+<item>Իսպաներեն,es</item>
+<item>Էստոներեն,et</item>
+<item>Պարսկերեն,fa</item>
+<item>Ֆիններեն,fi</item>
+<item>Ֆիլիպինյան,fil</item>
+<item>Ֆրանսերեն,fr</item>
+<item>Gujarati,gu</item>
+<item>Հինդի,hi</item>
+<item>Խորվաթիայի,hr</item>
+<item>Հունգարերեն,hu</item>
+<item>Հայերեն,hy</item>
+<item>Ինդոնեզերեն,id</item>
+<item>Իսլանդերեն,is</item>
+<item>Իտալական,it</item>
+<item>Եբրայերեն,he</item>
+<item>Ճապոնական,ja</item>
+<item>Կաննադա,kn</item>
+<item>Կորեերեն,ko</item>
+<item>Լիտվայի,lt</item>
+<item>Լատվիայի,lv</item>
+<item>Մալայալամ,ml</item>
+<item>Մարաթի,mr</item>
+<item>Մալայերեն,ms</item>
+<item>Նորվեգիայի,nb</item>
+<item>Փանջաբի,pa</item>
+<item>Լեհաստանի,pl</item>
+<item>Պորտուգալերեն,pt</item>
+<item>Ռումիներեն,ro</item>
+<item>Հայերեն,ru</item>
+<item>Սինհալերեն,si</item>
+<item>Սլովակիայի,sk</item>
+<item>Սլովենիայի,sl</item>
+<item>Սերբերեն,sr</item>
+<item>Շվեդիայի,sv</item>
+<item>Սուահիլի,sw</item>
+<item>Թամիլերեն,ta</item>
+<item>Telugu,te</item>
+<item>Թայերեն,th</item>
+<item>Թուրքական,tr</item>
+<item>Ուկրաինայի,uk</item>
+<item>Ուրդու,ur</item>
+<item>Վիետնամերեն,vi</item>
+<item>Չինական,zh</item>
+</string-array>
+</resources>

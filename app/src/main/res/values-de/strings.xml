@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Neue Tapete</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">DOUBLE</string>
+<string name="category_ABSTRACTION">Abstraktion</string>
+<string name="category_AUTO">Autos</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Armee / Technik</string>
+<string name="category_ART">ART</string>
+<string name="category_ARCHITECTURE">Die Architektur</string>
+<string name="category_FOOD">Essen</string>
+<string name="category_ANIMALS">Tiere</string>
+<string name="category_ZNAKI">Schilder / Beschriftungen</string>
+<string name="category_GAMES">Die Spiele</string>
+<string name="category_SPACE">Weltall</string>
+<string name="category_PIPL">Leute</string>
+<string name="category_MACRO">Makro</string>
+<string name="category_MINIMALISM">Minimal art</string>
+<string name="category_MOTO">Motorräder</string>
+<string name="category_MUSIC">Die Musik</string>
+<string name="category_HOLIDAYS">Feiertage</string>
+<string name="category_NATURE">Die Natur</string>
+<string name="category_SPORT">Sport</string>
+<string name="category_SUPERHIROS">Superhelden</string>
+<string name="category_TEXTURE">Texturen</string>
+<string name="category_FILMS">Filme</string>
+<string name="category_FANTASY">Fantasy</string>
+<string name="category_FLOWERS">Die Blumen</string>
+<string name="category_HI_TECH">Hi-Tech</string>
+<string name="category_OTHER">Verschiedenes</string>
+<string name="categories">Kategorien</string>
+<string name="install">Festlegen</string>
+<string name="save">Speichern</string>
+<string name="tvBlockScreen">Bildschirm sperren</string>
+<string name="homeScreen">Home-Bildschirm</string>
+<string name="everywhere">Überall</string>
+<string name="downloading">Laden...</string>
+<string name="downloadingInfo">Nach dem Herunterladen wird Ihnen eine Anzeige angezeigt</string>
+<string name="installedandsaved">Gespeichert und installiert</string>
+<string name="saved">In der Galerie gespeichert</string>
+<string name="share">Teilen</string>
+<string name="clearCookies">Cache leeren</string>
+<string name="language">Sprache</string>
+<string name="disableAds">Werbungen ausschalten</string>
+<string name="rateApp">Bewerten</string>
+<string name="activatePro">PRO - Version aktivieren</string>
+<string name="month">1 monat</string>
+<string name="always">Für immer</string>
+<string name="subscriptionText">Werbungen ausschalten.</string>
+<string name="once">Einmalige Zahlung</string>
+<string name="getPro">Kaufen</string>
+<string name="selectScreen">Bildschirm auswählen</string>
+<string name="apply">Anwenden</string>
+<string name="ok">Ok</string>
+<string name="no_internet">Keine Internetverbindung verfügbar</string>
+<string name="make_sure_connected">Stellen Sie sicher, dass Ihr Gerät mit dem Internet verbunden ist. Versuchen Sie, ein mobiles oder Wi-Fi-Netzwerk zu verwenden.</string>
+<string name="try_vpn">Wenn es ein Internet gibt, aber die Anwendung einen Fehler gibt, verwenden Sie ein VPN</string>
+<string name="user_agreement">Datenschutz</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Hallo! Mir hat diese App gefallen und ich habe beschlossen, sie mit dir zu teilen. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Cache leeren</string>
+<string name="clear">Reinigen</string>
+<string name="wholeCache">Gemeinsamer Cache - </string>
+<string-array name="language">
+<item>Amharisch,am</item>
+<item>Arabisch,ar</item>
+<item>Bulgarisch,bg</item>
+<item>Bengalisch,bn</item>
+<item>Katalanisch,ca</item>
+<item>Tschechisch,cs</item>
+<item>Dänisch,da</item>
+<item>Deutsch,de</item>
+<item>Griechisch,el</item>
+<item>Englisch,en</item>
+<item>Spanisch,es</item>
+<item>Estnisch,et</item>
+<item>Persisch,fa</item>
+<item>Finnisch,fi</item>
+<item>Philippinisch,fil</item>
+<item>Französisch,fr</item>
+<item>Gujarati,gu</item>
+<item>Hindi,hi</item>
+<item>Kroatisch,hr</item>
+<item>Ungarisch,hu</item>
+<item>Armenisch,hy</item>
+<item>Indonesisch,id</item>
+<item>Isländisch,is</item>
+<item>Italienisch,it</item>
+<item>Iwrit,he</item>
+<item>Japanisch,ja</item>
+<item>Kannada,kn</item>
+<item>Koreanisch,ko</item>
+<item>Litauisch,lt</item>
+<item>Lettisch,lv</item>
+<item>Malayalam,ml</item>
+<item>Marathi,mr</item>
+<item>Malaiisch,ms</item>
+<item>Norwegisch,nb</item>
+<item>Punjabi,pa</item>
+<item>Polnisch,pl</item>
+<item>Portugiesisch,pt</item>
+<item>Rumänisch,ro</item>
+<item>Russisch,ru</item>
+<item>Singhalesisch,si</item>
+<item>Slowakisch,sk</item>
+<item>Slowenisch,sl</item>
+<item>Serbisch,sr</item>
+<item>Schwedisch,sv</item>
+<item>Swahili,sw</item>
+<item>Tamilisch,ta</item>
+<item>Telugu,te</item>
+<item>Thai,th</item>
+<item>Türkisch,tr</item>
+<item>Ukrainisch,uk</item>
+<item>Urdu,ur</item>
+<item>Vietnamesisch,vi</item>
+<item>Chinesisch,zh</item>
+</string-array>
+</resources>

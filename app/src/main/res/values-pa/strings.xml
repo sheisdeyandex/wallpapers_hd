@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">ਨਵਾਂ</string>
+<string name="category_3D">3ਡੀ</string>
+<string name="category_AMOLED">ਅਮੋਲਡ</string>
+<string name="category_DOUBLE">ਡਬਲ ਵਾਲਪੇਪਰ</string>
+<string name="category_ABSTRACTION">ਐਬਸਟਰੈਕਸ਼ਨ</string>
+<string name="category_AUTO">ਕਾਰ</string>
+<string name="category_ANIME">ਅਨੀਮੀ</string>
+<string name="category_ARMY">ਫੌਜ / ਉਪਕਰਣ</string>
+<string name="category_ART">ਕਲਾ</string>
+<string name="category_ARCHITECTURE">ਆਰਕੀਟੈਕਚਰ</string>
+<string name="category_FOOD">ਭੋਜਨ</string>
+<string name="category_ANIMALS">ਜਾਨਵਰ</string>
+<string name="category_ZNAKI">ਚਿੰਨ੍ਹ / ਸ਼ਿਲਾਲੇਖ</string>
+<string name="category_GAMES">ਖੇਡਾਂ</string>
+<string name="category_SPACE">ਖਾਲੀ ਥਾਂ</string>
+<string name="category_PIPL">ਲੋਕ</string>
+<string name="category_MACRO">ਮਾਈਕਰੋ</string>
+<string name="category_MINIMALISM">ਘੱਟੋ-ਘੱਟ</string>
+<string name="category_MOTO">ਮੋਟਰਸਾਈਕਲ</string>
+<string name="category_MUSIC">ਸੰਗੀਤ</string>
+<string name="category_HOLIDAYS">ਛੁੱਟੀਆਂ</string>
+<string name="category_NATURE">ਕੁਦਰਤ</string>
+<string name="category_SPORT">ਖੇਡ</string>
+<string name="category_SUPERHIROS">ਸੁਪਰਹੀਰੋਜ਼</string>
+<string name="category_TEXTURE">ਟੈਕਸਟ</string>
+<string name="category_FILMS">ਫਿਲਮਾਂ</string>
+<string name="category_FANTASY">ਕਲਪਨਾ</string>
+<string name="category_FLOWERS">ਫੁੱਲ</string>
+<string name="category_HI_TECH">ਅਧਿਕਤਮ-ਤਕਨੀਕੀ</string>
+<string name="category_OTHER">ਕਈ</string>
+<string name="categories">ਕੈਟਾਗਰੀਆਂ</string>
+<string name="install">ਇੰਸਟਾਲ</string>
+<string name="save">ਸੰਭਾਲੋ</string>
+<string name="tvBlockScreen">ਸਕਰੀਨ ਲਾਕ ਕਰੋ</string>
+<string name="homeScreen">ਹੋਮ ਸਕਰੀਨ</string>
+<string name="everywhere">ਹਰ ਜਗ੍ਹਾ</string>
+<string name="downloading">ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...</string>
+<string name="downloadingInfo">ਡਾਊਨਲੋਡ ਕਰਨ ਦੇ ਬਾਅਦ, ਤੁਹਾਨੂੰ ਵੇਖਾਇਆ ਜਾਵੇਗਾ 1 ਇਸ਼ਤਿਹਾਰ</string>
+<string name="installedandsaved">ਸੰਭਾਲਿਆ ਅਤੇ ਇੰਸਟਾਲ</string>
+<string name="saved">ਗੈਲਰੀ ਲਈ ਸੰਭਾਲੀ ਗਈ</string>
+<string name="share">ਸ਼ੇਅਰ ਕਰਨ ਲਈ</string>
+<string name="clearCookies">ਕੈਸ਼ ਸਾਫ਼ ਕਰੋ</string>
+<string name="language">ਭਾਸ਼ਾ</string>
+<string name="disableAds">ਵਿਗਿਆਪਨ ਆਯੋਗ ਕਰੋ</string>
+<string name="rateApp">ਅਨੁਮਾਨ</string>
+<string name="activatePro">ਪ੍ਰੋ ਵਰਜਨ ਸਰਗਰਮ</string>
+<string name="month">1 ਮਹੀਨਾ</string>
+<string name="always">ਹਮੇਸ਼ਾ ਲਈ</string>
+<string name="subscriptionText">ਵਿਗਿਆਪਨ ਆਯੋਗ ਕਰੋ.</string>
+<string name="once">ਇੱਕ-ਵਾਰ ਭੁਗਤਾਨ</string>
+<string name="getPro">ਖਰੀਦੋ</string>
+<string name="selectScreen">ਇੱਕ ਸਕਰੀਨ ਚੁਣੋ</string>
+<string name="apply">ਲਾਗੂ ਕਰੋ</string>
+<string name="ok">ਠੀਕ ਹੈ</string>
+<string name="no_internet">ਕੋਈ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਨਹੀ ਹੈ</string>
+<string name="make_sure_connected">ਆਪਣੇ ਜੰਤਰ ਨੂੰ ਇੰਟਰਨੈੱਟ ਨਾਲ ਜੁੜਿਆ ਹੈ ਇਹ ਯਕੀਨੀ ਬਣਾਓ ਕਿ. ਮੋਬਾਈਲ ਜਾਂ ਵਾਈ-ਫਾਈ ਨੈਟਵਰਕ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ.</string>
+<string name="try_vpn">ਇੱਕ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਹੁੰਦਾ ਹੈ, ਪਰ ਕਾਰਜ ਨੂੰ ਇੱਕ ਗਲਤੀ ਦਿੰਦਾ ਹੈ, ਜੇ, ਫਿਰ ਇੱਕ ਵੀਪੀਐਨ ਨੂੰ ਵਰਤਣ</string>
+<string name="user_agreement">ਨਿੱਜਤਾ ਨੀਤੀ</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">ਹਾਏ! ਮੈਨੂੰ ਇਸ ਐਪਲੀਕੇਸ਼ ਨੂੰ ਪਸੰਦ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਨਾਲ ਇਸ ਨੂੰ ਸ਼ੇਅਰ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕੀਤਾ. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">ਕੈਸ਼ ਸਾਫ਼ ਕਰੋ</string>
+<string name="clear">ਸਾਫ਼ ਕਰੋ</string>
+<string name="wholeCache">ਸਾਂਝੀ ਕੀਤੀ ਕੈਸ਼ -</string>
+<string-array name="language">
+<item>ਅਮਹਰਿਕ,am</item>
+<item>ਅਰਬੀ,ar</item>
+<item>ਬੁਲਗਾਰੀਆਈ ਭਾਸ਼ਾ,bg</item>
+<item>ਪੰਜਾਬੀ ਭਾਸ਼ਾ,bn</item>
+<item>ਕਾਟਾਲਾਨ,ca</item>
+<item>ਚੈੱਕ,cs</item>
+<item>ਡੈਨਿਸ਼ ਭਾਸ਼ਾ,da</item>
+<item>ਜਰਮਨ,de</item>
+<item>ਗਰੀਕ,el</item>
+<item>ਪੰਜਾਬੀ ਭਾਸ਼ਾ,en</item>
+<item>ਸਪੇਨੀ ਭਾਸ਼ਾ,es</item>
+<item>ਐਸਟੋਨੀਅਨ,et</item>
+<item>ਫ਼ਾਰਸੀ ਭਾਸ਼ਾ,fa</item>
+<item>ਫਿਨਿਸ਼,fi</item>
+<item>ਫਿਲੀਪੀਨੋ,fil</item>
+<item>ਫ਼ਰਾਂਸੀਸੀ,fr</item>
+<item>ਪੰਜਾਬੀ ਭਾਸ਼ਾ,gu</item>
+<item>ਹਿੰਦੀ,hi</item>
+<item>ਕ੍ਰੋਏਸ਼ੀਆਈ ਭਾਸ਼ਾ,hr</item>
+<item>ਹੰਗਰੀਆਈ,hu</item>
+<item>ਅਰਮੀਨੀਆਈ,hy</item>
+<item>ਇੰਡੋਨੇਸ਼ੀਆਈ,id</item>
+<item>ਆਈਸਲੈਂਡ,is</item>
+<item>ਇਤਾਲਵੀ ਭਾਸ਼ਾ,it</item>
+<item>ਹੈਬਰਿਊ,he</item>
+<item>ਜਾਪਾਨੀ,ja</item>
+<item>ਕੰਨੜ,kn</item>
+<item>ਕੋਰੀਅਨ,ko</item>
+<item>ਲਿਥੁਆਨੀਆਈ ਭਾਸ਼ਾ,lt</item>
+<item>ਲਾਤਵੀ ਭਾਸ਼ਾ,lv</item>
+<item>ਮਲਿਆਲਮ,ml</item>
+<item>ਮਰਾਠੀ ਭਾਸ਼ਾ,mr</item>
+<item>ਮਾਲੇਈ,ms</item>
+<item>ਨਾਰਵੇਜੀਆਈ ਭਾਸ਼ਾ,nb</item>
+<item>ਪੰਜਾਬੀ ਭਾਸ਼ਾ,pa</item>
+<item>ਪੋਲਿਸ਼,pl</item>
+<item>ਪੁਰਤਗਾਲੀ ਭਾਸ਼ਾ,pt</item>
+<item>ਰੋਮਾਨੀਅਨ,ro</item>
+<item>ਰੂਸੀ,ru</item>
+<item>ਸਿੰਨਹਾਲਿਸ,si</item>
+<item>ਸਲੋਵਾਕ,sk</item>
+<item>ਸਲੋਵੇਨੀਅਨ,sl</item>
+<item>ਸਰਬੀਆਈ ਭਾਸ਼ਾ,sr</item>
+<item>ਸਵੀਡਨੀ,sv</item>
+<item>ਸਵਾਹਿਲੀ,sw</item>
+<item>ਤਾਮਿਲ,ta</item>
+<item>ਤੇਲਗੂ,te</item>
+<item>ਥਾਈ,th</item>
+<item>ਤੁਰਕਿਸ਼,tr</item>
+<item>ਯੂਕਰੇਨੀ ਭਾਸ਼ਾ,uk</item>
+<item>ਉਰਦੂ,ur</item>
+<item>ਵੀਅਤਨਾਮ,vi</item>
+<item>ਚੀਨੀ,zh</item>
+</string-array>
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">新しい</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">ダブル</string>
+<string name="category_ABSTRACTION">抽象化</string>
+<string name="category_AUTO">車</string>
+<string name="category_ANIME">アニメ</string>
+<string name="category_ARMY">軍隊/装備</string>
+<string name="category_ART">アート</string>
+<string name="category_ARCHITECTURE">建築</string>
+<string name="category_FOOD">食事</string>
+<string name="category_ANIMALS">動物</string>
+<string name="category_ZNAKI">サイン/碑文</string>
+<string name="category_GAMES">ゲーム</string>
+<string name="category_SPACE">スペース</string>
+<string name="category_PIPL">人</string>
+<string name="category_MACRO">マクロ</string>
+<string name="category_MINIMALISM">ミニマリズム</string>
+<string name="category_MOTO">オートバイ</string>
+<string name="category_MUSIC">音楽</string>
+<string name="category_HOLIDAYS">休日</string>
+<string name="category_NATURE">自然</string>
+<string name="category_SPORT">スポーツ</string>
+<string name="category_SUPERHIROS">スーパーヒーロー</string>
+<string name="category_TEXTURE">テクスチャ</string>
+<string name="category_FILMS">映画</string>
+<string name="category_FANTASY">ファンタジー</string>
+<string name="category_FLOWERS">花</string>
+<string name="category_HI_TECH">こんにちはテック</string>
+<string name="category_OTHER">各種</string>
+<string name="categories">カテゴリ</string>
+<string name="install">インストール</string>
+<string name="save">保存</string>
+<string name="tvBlockScreen">ロック画面</string>
+<string name="homeScreen">ホーム画面</string>
+<string name="everywhere">どこでも</string>
+<string name="downloading">ダウンロードします。..</string>
+<string name="downloadingInfo">ダウンロードした後、あなたは1広告が表示されます</string>
+<string name="installedandsaved">保存およびインストール</string>
+<string name="saved">ギャラリーに保存</string>
+<string name="share">共有するには</string>
+<string name="clearCookies">キャッシュをクリア</string>
+<string name="language">言語</string>
+<string name="disableAds">広告を無効にする</string>
+<string name="rateApp">見積もり</string>
+<string name="activatePro">PROバージョンを有効にする</string>
+<string name="month">1ヶ月</string>
+<string name="always">永遠に</string>
+<string name="subscriptionText">広告を無効にします。</string>
+<string name="once">一度だけの支払</string>
+<string name="getPro">購入</string>
+<string name="selectScreen">画面を選択する</string>
+<string name="apply">適用する</string>
+<string name="ok">Ok</string>
+<string name="no_internet">インターネット接続はありません</string>
+<string name="make_sure_connected">デバイスがインターネットに接続されていることを確認します。 モバイルまたはWi-Fiネットワークを使用してみてください。</string>
+<string name="try_vpn">インターネットに接続されているが、アプリケーションでエラーが発生した場合は、VPNを使用します</string>
+<string name="user_agreement">個人情報保護方針</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">こんにちは! 私はこのアプリが好きで、あなたとそれを共有することにしました。 https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">キャッシュをクリア</string>
+<string name="clear">クリア</string>
+<string name="wholeCache">共有キャッシュ-</string>
+<string-array name="language">
+<item>アムハラ語,am</item>
+<item>アラビア語,ar</item>
+<item>ブルガリア語,bg</item>
+<item>ベンガル語,bn</item>
+<item>カタロニア語,ca</item>
+<item>チェコ語,cs</item>
+<item>デンマーク語,da</item>
+<item>ドイツ語,de</item>
+<item>ギリシャ語,el</item>
+<item>英語,en</item>
+<item>スペイン語,es</item>
+<item>エストニア語,et</item>
+<item>ペルシャ語,fa</item>
+<item>フィンランド語,fi</item>
+<item>フィリピン人,fil</item>
+<item>フランス語,fr</item>
+<item>グジャラート語,gu</item>
+<item>ヒンディー語,hi</item>
+<item>クロアチア語,hr</item>
+<item>ハンガリー語,hu</item>
+<item>アルメニア人,hy</item>
+<item>インドネシア語,id</item>
+<item>アイスランド語,is</item>
+<item>イタリア語,it</item>
+<item>ヘブライ語,he</item>
+<item>日本語,ja</item>
+<item>カンナダ語,kn</item>
+<item>韓国語,ko</item>
+<item>リトアニア語,lt</item>
+<item>ラトビア語,lv</item>
+<item>マラヤーラム語,ml</item>
+<item>マラーティー語,mr</item>
+<item>マレー語,ms</item>
+<item>ノルウェー語,nb</item>
+<item>パンジャブ語,pa</item>
+<item>ポーランド語,pl</item>
+<item>ポルトガル語,pt</item>
+<item>ルーマニア語,ro</item>
+<item>ロシア語,ru</item>
+<item>シンハラ語,si</item>
+<item>スロバキア語,sk</item>
+<item>スロベニア語,sl</item>
+<item>セルビア語,sr</item>
+<item>スウェーデン語,sv</item>
+<item>スワヒリ語,sw</item>
+<item>タミル語,ta</item>
+<item>テルグ語,te</item>
+<item>タイ語,th</item>
+<item>トルコ語,tr</item>
+<item>ウクライナ語,uk</item>
+<item>ウルドゥー語,ur</item>
+<item>ベトナム語,vi</item>
+<item>中国語,zh</item>
+</string-array>
+</resources>

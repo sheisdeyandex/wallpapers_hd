@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">Νέα Ταπετσαρία</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED</string>
+<string name="category_DOUBLE">ΔΙΠΛΌ</string>
+<string name="category_ABSTRACTION">Αφαίρεση</string>
+<string name="category_AUTO">Αυτοκίνητο</string>
+<string name="category_ANIME">Anime</string>
+<string name="category_ARMY">Στρατός / Εξοπλισμός</string>
+<string name="category_ART">ΤΈΧΝΗ</string>
+<string name="category_ARCHITECTURE">Αρχιτεκτονική</string>
+<string name="category_FOOD">Φαγητό</string>
+<string name="category_ANIMALS">Ζώο</string>
+<string name="category_ZNAKI">Σημάδια / Επιγραφές</string>
+<string name="category_GAMES">Παιχνίδι</string>
+<string name="category_SPACE">Διάστημα</string>
+<string name="category_PIPL">Ανθρώπους</string>
+<string name="category_MACRO">Μακροεντολή</string>
+<string name="category_MINIMALISM">Μινιμαλισμός</string>
+<string name="category_MOTO">Μοτοσικλέτα</string>
+<string name="category_MUSIC">Μουσική</string>
+<string name="category_HOLIDAYS">Διακοπές</string>
+<string name="category_NATURE">Φύση</string>
+<string name="category_SPORT">Αθλητισμός</string>
+<string name="category_SUPERHIROS">Υπερήρωας</string>
+<string name="category_TEXTURE">Υφή</string>
+<string name="category_FILMS">Ταινία</string>
+<string name="category_FANTASY">Φαντασία</string>
+<string name="category_FLOWERS">Λουλούδι</string>
+<string name="category_HI_TECH">Υψηλής Τεχνολογίας</string>
+<string name="category_OTHER">Διαφορετική</string>
+<string name="categories">Κατηγορία</string>
+<string name="install">Εγκαταστήσετε</string>
+<string name="save">Αποθηκεύσετε</string>
+<string name="tvBlockScreen">Κλείδωμα Οθόνης</string>
+<string name="homeScreen">Αρχική Οθόνη</string>
+<string name="everywhere">Παντού</string>
+<string name="downloading">Λήψη...</string>
+<string name="downloadingInfo">Μετά τη λήψη, θα εμφανιστεί 1 διαφήμιση</string>
+<string name="installedandsaved">Αποθηκεύτηκε και εγκαταστάθηκε</string>
+<string name="saved">Αποθηκεύτηκε στη συλλογή</string>
+<string name="share">Μοιραστείτε</string>
+<string name="clearCookies">Εκκαθάριση Προσωρινής Μνήμης</string>
+<string name="language">Γλώσσα</string>
+<string name="disableAds">Απενεργοποίηση διαφημίσεων</string>
+<string name="rateApp">Αξιολογήσει</string>
+<string name="activatePro">Ενεργοποιήστε την έκδοση PRO</string>
+<string name="month">1 μήνας</string>
+<string name="always">Για πάντα</string>
+<string name="subscriptionText">Απενεργοποιήστε τις διαφημίσεις.</string>
+<string name="once">Εφάπαξ πληρωμή</string>
+<string name="getPro">Αγοράσετε</string>
+<string name="selectScreen">Επιλέξτε μια οθόνη</string>
+<string name="apply">Εφαρμόσετε</string>
+<string name="ok">Εντάξει</string>
+<string name="no_internet">Δεν υπάρχει σύνδεση στο Διαδίκτυο</string>
+<string name="make_sure_connected">Βεβαιωθείτε ότι η συσκευή σας είναι συνδεδεμένη στο Διαδίκτυο. Δοκιμάστε να χρησιμοποιήσετε ένα δίκτυο κινητής τηλεφωνίας ή Wi-Fi.</string>
+<string name="try_vpn">Εάν υπάρχει σύνδεση στο Διαδίκτυο, αλλά η εφαρμογή δίνει σφάλμα, χρησιμοποιήστε ένα VPN</string>
+<string name="user_agreement">Προσωπικών</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">Γεια! Μου άρεσε αυτή η εφαρμογή και αποφάσισα να την μοιραστώ μαζί σας. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">Εκκαθάριση Προσωρινής Μνήμης</string>
+<string name="clear">Καθαρίστε</string>
+<string name="wholeCache">Κοινόχρηστη κρυφή μνήμη - </string>
+<string-array name="language">
+<item>Αμαρικά,am</item>
+<item>Αραβική,ar</item>
+<item>Βουλγαρίας,bg</item>
+<item>Μπενγκάλι,bn</item>
+<item>Καταλονίας,ca</item>
+<item>Τσεχική,cs</item>
+<item>Δανική,da</item>
+<item>Γερμανική,de</item>
+<item>Ελληνική,el</item>
+<item>Αγγλική,en</item>
+<item>Ισπανικά,es</item>
+<item>Εσθονική,et</item>
+<item>Περσική,fa</item>
+<item>Φινλανδικά,fi</item>
+<item>Φιλιππινέζος,fil</item>
+<item>Γαλλική,fr</item>
+<item>Γκουτζαράτι,gu</item>
+<item>Χίντι,hi</item>
+<item>Κροατικά,hr</item>
+<item>Ουγγρική,hu</item>
+<item>Αρμενίων,hy</item>
+<item>Ινδονησιακά,id</item>
+<item>Ισλανδική,is</item>
+<item>Ιταλική,it</item>
+<item>Εβραϊκή,he</item>
+<item>Ιαπωνική,ja</item>
+<item>Κανάντα,kn</item>
+<item>Κορεατικά,ko</item>
+<item>Λιθουανική,lt</item>
+<item>Λετονικά,lv</item>
+<item>Μαλαγιαλαμικά,ml</item>
+<item>Μαράθι,mr</item>
+<item>Μαλαισίας,ms</item>
+<item>Νορβηγική,nb</item>
+<item>Punjabi,pa</item>
+<item>Πολωνικά,pl</item>
+<item>Πορτογαλικά,pt</item>
+<item>Ρουμάνικο,ro</item>
+<item>Ρωσική,ru</item>
+<item>Σιναλέζοι,si</item>
+<item>Σλοβακικά,sk</item>
+<item>Σλοβενικά,sl</item>
+<item>Σέρβος,sr</item>
+<item>Σουηδός,sv</item>
+<item>Σουαχίλι,sw</item>
+<item>Ταμίλ,ta</item>
+<item>Τελούγκου,te</item>
+<item>Ταϊλανδικό,th</item>
+<item>Τουρκική,tr</item>
+<item>Ουκρανική,uk</item>
+<item>Ουρντού,ur</item>
+<item>Βιετνάμ,vi</item>
+<item>Κινεζική,zh</item>
+</string-array>
+</resources>

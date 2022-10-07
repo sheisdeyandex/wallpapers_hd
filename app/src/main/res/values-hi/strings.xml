@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">नया</string>
+<string name="category_3D">3 डी</string>
+<string name="category_AMOLED">एमोलेड</string>
+<string name="category_DOUBLE">डबल</string>
+<string name="category_ABSTRACTION">अमूर्तता</string>
+<string name="category_AUTO">कारें</string>
+<string name="category_ANIME">एनीमे</string>
+<string name="category_ARMY">सेना / उपकरण</string>
+<string name="category_ART">कला</string>
+<string name="category_ARCHITECTURE">वास्तुकला</string>
+<string name="category_FOOD">भोजन</string>
+<string name="category_ANIMALS">पशु</string>
+<string name="category_ZNAKI">संकेत / शिलालेख</string>
+<string name="category_GAMES">खेलों</string>
+<string name="category_SPACE">अंतरिक्ष</string>
+<string name="category_PIPL">लोग</string>
+<string name="category_MACRO">मैक्रो</string>
+<string name="category_MINIMALISM">अतिसूक्ष्मवाद</string>
+<string name="category_MOTO">मोटरसाइकिलें</string>
+<string name="category_MUSIC">संगीत</string>
+<string name="category_HOLIDAYS">छुट्टियाँ</string>
+<string name="category_NATURE">प्रकृति</string>
+<string name="category_SPORT">खेल</string>
+<string name="category_SUPERHIROS">सुपरहीरो</string>
+<string name="category_TEXTURE">बनावट</string>
+<string name="category_FILMS">फिल्में</string>
+<string name="category_FANTASY">कल्पना</string>
+<string name="category_FLOWERS">फूल</string>
+<string name="category_HI_TECH">हाई-टेक</string>
+<string name="category_OTHER">विभिन्न</string>
+<string name="categories">श्रेणियाँ</string>
+<string name="install">स्थापित करें</string>
+<string name="save">सहेजें</string>
+<string name="tvBlockScreen">लॉक स्क्रीन</string>
+<string name="homeScreen">होम स्क्रीन</string>
+<string name="everywhere">हर जगह</string>
+<string name="downloading">डाउनलोडिंग।..</string>
+<string name="downloadingInfo">डाउनलोड करने के बाद, आपको 1 विज्ञापन दिखाया जाएगा</string>
+<string name="installedandsaved">सहेजा और स्थापित</string>
+<string name="saved">गैलरी में सहेजा गया</string>
+<string name="share">साझा करना</string>
+<string name="clearCookies">कैश साफ़ करें</string>
+<string name="language">भाषा</string>
+<string name="disableAds">विज्ञापन अक्षम करें</string>
+<string name="rateApp">अनुमान</string>
+<string name="activatePro">प्रो संस्करण को सक्रिय करें</string>
+<string name="month">1 महीना</string>
+<string name="always">हमेशा के लिए</string>
+<string name="subscriptionText">विज्ञापन अक्षम करें ।</string>
+<string name="once">एकमुश्त भुगतान</string>
+<string name="getPro">खरीदें</string>
+<string name="selectScreen">एक स्क्रीन का चयन करें</string>
+<string name="apply">लागू करें</string>
+<string name="ok">ठीक है।</string>
+<string name="no_internet">कोई इंटरनेट कनेक्शन नहीं है</string>
+<string name="make_sure_connected">सुनिश्चित करें कि आपका डिवाइस इंटरनेट से जुड़ा है ।  मोबाइल या वाई-फाई नेटवर्क का उपयोग करके देखें ।</string>
+<string name="try_vpn">यदि कोई इंटरनेट कनेक्शन है, लेकिन एप्लिकेशन एक त्रुटि देता है, तो वीपीएन का उपयोग करें</string>
+<string name="user_agreement">गोपनीयता नीति</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">हाय! मुझे यह ऐप पसंद आया और मैंने इसे आपके साथ साझा करने का फैसला किया ।  https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">कैश साफ़ करें</string>
+<string name="clear">साफ़ करें</string>
+<string name="wholeCache">साझा कैश -</string>
+<string-array name="language">
+<item>अम्हारिक,am</item>
+<item>अरेबियन,ar</item>
+<item>बल्गेरियाई,bg</item>
+<item>बंगाली,bn</item>
+<item>कैटलन,ca</item>
+<item>चेक,cs</item>
+<item>डैनिश,da</item>
+<item>जर्मन,de</item>
+<item>ग्रीक,el</item>
+<item>अंग्रेजी,en</item>
+<item>स्पेनिश,es</item>
+<item>एस्टोनियाई,et</item>
+<item>फ़ारसी,fa</item>
+<item>फिनिश,fi</item>
+<item>फिलिपिनो,fil</item>
+<item>फ्रेंच,fr</item>
+<item>गुजराती,gu</item>
+<item>हिन्दी,hi</item>
+<item>क्रोएशियाई,hr</item>
+<item>हंगेरियन,hu</item>
+<item>अर्मेनियाई,hy</item>
+<item>इन्डोनेशियाई,id</item>
+<item>आइसलैंडिक,is</item>
+<item>इतालवी,it</item>
+<item>हिब्रू,he</item>
+<item>जापानी,ja</item>
+<item>कन्नड़,kn</item>
+<item>कोरियाई,ko</item>
+<item>लिथुआनियाई,lt</item>
+<item>लातवियाई,lv</item>
+<item>मलयालम,ml</item>
+<item>मराठी,mr</item>
+<item>मलय,ms</item>
+<item>नार्वेजियन,nb</item>
+<item>पंजाबी,pa</item>
+<item>पोलिश,pl</item>
+<item>पुर्तगाली,pt</item>
+<item>रोमानियाई,ro</item>
+<item>रूसी,ru</item>
+<item>सिंहली,si</item>
+<item>स्लोवाक,sk</item>
+<item>स्लोवेनियाई,sl</item>
+<item>सर्बियाई,sr</item>
+<item>स्वीडिश,sv</item>
+<item>स्वाहिली,sw</item>
+<item>तमिल,ta</item>
+<item>तेलुगु,te</item>
+<item>थाई,th</item>
+<item>तुर्की,tr</item>
+<item>यूक्रेनी,uk</item>
+<item>उर्दू,ur</item>
+<item>वियतनामी,vi</item>
+<item>चीनी,zh</item>
+</string-array>
+</resources>

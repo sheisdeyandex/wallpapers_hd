@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">جدید</string>
+<string name="category_3D">3 بعدی</string>
+<string name="category_AMOLED">امولید</string>
+<string name="category_DOUBLE">دو برابر</string>
+<string name="category_ABSTRACTION">انتزاع</string>
+<string name="category_AUTO">ماشین</string>
+<string name="category_ANIME">انیمه</string>
+<string name="category_ARMY">ارتش / تجهیزات</string>
+<string name="category_ART">هنر</string>
+<string name="category_ARCHITECTURE">معماری</string>
+<string name="category_FOOD">غذا</string>
+<string name="category_ANIMALS">حیوانات</string>
+<string name="category_ZNAKI">نشانه ها / کتیبه ها</string>
+<string name="category_GAMES">بازی ها</string>
+<string name="category_SPACE">فضا</string>
+<string name="category_PIPL">مردم</string>
+<string name="category_MACRO">ماکرو</string>
+<string name="category_MINIMALISM">مینیمالیسم</string>
+<string name="category_MOTO">موتور سیکلت</string>
+<string name="category_MUSIC">موسیقی</string>
+<string name="category_HOLIDAYS">تعطیلات</string>
+<string name="category_NATURE">طبیعت</string>
+<string name="category_SPORT">ورزش</string>
+<string name="category_SUPERHIROS">ابرقهرمانان</string>
+<string name="category_TEXTURE">بافت</string>
+<string name="category_FILMS">فیلمها</string>
+<string name="category_FANTASY">فانتزی</string>
+<string name="category_FLOWERS">گل ها</string>
+<string name="category_HI_TECH">با تکنولوژی بالا</string>
+<string name="category_OTHER">گوناگون</string>
+<string name="categories">دسته بندی ها</string>
+<string name="install">نصب</string>
+<string name="save">ذخیره</string>
+<string name="tvBlockScreen">صفحه قفل</string>
+<string name="homeScreen">صفحه اصلی</string>
+<string name="everywhere">همه جا</string>
+<string name="downloading">دانلود...</string>
+<string name="downloadingInfo">پس از دانلود, شما نشان داده خواهد شد 1 تبلیغات</string>
+<string name="installedandsaved">ذخیره و نصب شده است</string>
+<string name="saved">ذخیره شده در گالری</string>
+<string name="share">برای به اشتراک گذاشتن</string>
+<string name="clearCookies">پاک کردن حافظه پنهان</string>
+<string name="language">زبان</string>
+<string name="disableAds">تبلیغات را غیرفعال کنید</string>
+<string name="rateApp">تخمین</string>
+<string name="activatePro">نسخه حرفه ای را فعال کنید</string>
+<string name="month">1 ماه</string>
+<string name="always">برای همیشه</string>
+<string name="subscriptionText">تبلیغات را غیرفعال کنید.</string>
+<string name="once">پرداخت یک بار</string>
+<string name="getPro">خرید</string>
+<string name="selectScreen">یک صفحه را انتخاب کنید</string>
+<string name="apply">درخواست دادن</string>
+<string name="ok">باشه</string>
+<string name="no_internet">بدون اتصال به اینترنت وجود دارد</string>
+<string name="make_sure_connected">اطمینان حاصل کنید که دستگاه شما به اینترنت متصل است. سعی کنید از یک شبکه تلفن همراه یا وای فای استفاده کنید.</string>
+<string name="try_vpn">در صورتی که یک اتصال به اینترنت وجود دارد, اما نرم افزار یک خطا می دهد, سپس با استفاده از یک شبکه اختصاصی مجازی</string>
+<string name="user_agreement">سیاست حفظ حریم خصوصی</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">سلام! من این برنامه را دوست داشتم و تصمیم گرفتم با شما به اشتراک بگذارم. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">پاک کردن حافظه پنهان</string>
+<string name="clear">پاک کردن</string>
+<string name="wholeCache">حافظه نهان مشترک -</string>
+<string-array name="language">
+<item>امهری,am</item>
+<item>عربی,ar</item>
+<item>بلغاری,bg</item>
+<item>بنگالی,bn</item>
+<item>کاتالان,ca</item>
+<item>چک,cs</item>
+<item>دانمارکی,da</item>
+<item>المانی,de</item>
+<item>یونانی,el</item>
+<item>فارسی,en</item>
+<item>اسپانیایی,es</item>
+<item>استونیایی,et</item>
+<item>فارسی,fa</item>
+<item>فنلاندی,fi</item>
+<item>فیلیپینی,fil</item>
+<item>فرانسوی,fr</item>
+<item>گجراتی,gu</item>
+<item>هندی,hi</item>
+<item>کرواسی,hr</item>
+<item>مجارستانی,hu</item>
+<item>ارمنی,hy</item>
+<item>اندونزیایی,id</item>
+<item>ایسلندی,is</item>
+<item>ایتالیایی,it</item>
+<item>عبری,he</item>
+<item>ژاپنی,ja</item>
+<item>کانادا,kn</item>
+<item>کره ای,ko</item>
+<item>لیتوانیایی,lt</item>
+<item>لتونی,lv</item>
+<item>مالایایی,ml</item>
+<item>مراتی,mr</item>
+<item>مالایی,ms</item>
+<item>نروژی,nb</item>
+<item>پنجابی,pa</item>
+<item>لهستانی,pl</item>
+<item>پرتغالی,pt</item>
+<item>رومانیایی,ro</item>
+<item>روسی,ru</item>
+<item>سینهالی,si</item>
+<item>اسلواکی,sk</item>
+<item>اسلوونیایی,sl</item>
+<item>صربستان,sr</item>
+<item>سویدنی,sv</item>
+<item>سواحیلی,sw</item>
+<item>تامیل,ta</item>
+<item>تلوگو,te</item>
+<item>تایلندی,th</item>
+<item>ترکی,tr</item>
+<item>اوکراینی,uk</item>
+<item>اردو,ur</item>
+<item>ویتنامی,vi</item>
+<item>چینی,zh</item>
+</string-array>
+</resources>

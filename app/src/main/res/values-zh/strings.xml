@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">新的</string>
+<string name="category_3D">3D</string>
+<string name="category_AMOLED">AMOLED的</string>
+<string name="category_DOUBLE">双壁纸</string>
+<string name="category_ABSTRACTION">抽象化</string>
+<string name="category_AUTO">汽车</string>
+<string name="category_ANIME">动漫</string>
+<string name="category_ARMY">军队/装备</string>
+<string name="category_ART">艺术</string>
+<string name="category_ARCHITECTURE">建筑设计</string>
+<string name="category_FOOD">膳食</string>
+<string name="category_ANIMALS">动物</string>
+<string name="category_ZNAKI">标志/铭文</string>
+<string name="category_GAMES">游戏</string>
+<string name="category_SPACE">空间</string>
+<string name="category_PIPL">人</string>
+<string name="category_MACRO">宏</string>
+<string name="category_MINIMALISM">极简主义</string>
+<string name="category_MOTO">摩托车</string>
+<string name="category_MUSIC">音乐</string>
+<string name="category_HOLIDAYS">假日</string>
+<string name="category_NATURE">大自然</string>
+<string name="category_SPORT">运动</string>
+<string name="category_SUPERHIROS">超级英雄</string>
+<string name="category_TEXTURE">纹理</string>
+<string name="category_FILMS">电影</string>
+<string name="category_FANTASY">幻想</string>
+<string name="category_FLOWERS">花儿</string>
+<string name="category_HI_TECH">高科技</string>
+<string name="category_OTHER">各种</string>
+<string name="categories">类别：</string>
+<string name="install">安装/安装</string>
+<string name="save">储蓄</string>
+<string name="tvBlockScreen">锁定屏幕</string>
+<string name="homeScreen">主屏幕</string>
+<string name="everywhere">到处都是</string>
+<string name="downloading">正在下载。..</string>
+<string name="downloadingInfo">下载后，您将看到1个广告</string>
+<string name="installedandsaved">保存并安装</string>
+<string name="saved">保存到画廊</string>
+<string name="share">分享</string>
+<string name="clearCookies">清除缓存</string>
+<string name="language">语言</string>
+<string name="disableAds">禁用广告</string>
+<string name="rateApp">估计数</string>
+<string name="activatePro">激活专业版</string>
+<string name="month">1个月</string>
+<string name="always">永遠！</string>
+<string name="subscriptionText">禁用广告。</string>
+<string name="once">一次性付款</string>
+<string name="getPro">购买</string>
+<string name="selectScreen">选择屏幕</string>
+<string name="apply">申请</string>
+<string name="ok">好的</string>
+<string name="no_internet">没有互联网连接</string>
+<string name="make_sure_connected">确保您的设备已连接到互联网。 尝试使用移动或Wi-Fi网络。</string>
+<string name="try_vpn">如果有互联网连接，但应用程序给出错误，则使用VPN</string>
+<string name="user_agreement">私隐政策</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">嗨！ 我喜欢这个应用程序，并决定与你分享。 https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">清除缓存</string>
+<string name="clear">清楚</string>
+<string name="wholeCache">共享缓存-</string>
+<string-array name="language">
+<item>阿姆哈拉语,am</item>
+<item>阿拉伯,ar</item>
+<item>保加利亚语,bg</item>
+<item>孟加拉语,bn</item>
+<item>加泰罗尼亚语,ca</item>
+<item>捷克语,cs</item>
+<item>丹麦语,da</item>
+<item>德语,de</item>
+<item>希腊文,el</item>
+<item>英语,en</item>
+<item>西班牙语,es</item>
+<item>爱沙尼亚语,et</item>
+<item>波斯语,fa</item>
+<item>芬兰语,fi</item>
+<item>菲律宾人,fil</item>
+<item>法语,fr</item>
+<item>古吉拉特语,gu</item>
+<item>印地语,hi</item>
+<item>克罗地亚语,hr</item>
+<item>匈牙利语,hu</item>
+<item>亚美尼亚语,hy</item>
+<item>印尼语,id</item>
+<item>冰岛语,is</item>
+<item>意大利文,it</item>
+<item>希伯来语,he</item>
+<item>日本语,ja</item>
+<item>卡纳达语,kn</item>
+<item>韩国人,ko</item>
+<item>立陶宛语,lt</item>
+<item>拉脱维亚语,lv</item>
+<item>马拉雅拉姆语,ml</item>
+<item>马拉地语,mr</item>
+<item>马来语,ms</item>
+<item>挪威人,nb</item>
+<item>旁遮普语,pa</item>
+<item>波兰语,pl</item>
+<item>葡萄牙语,pt</item>
+<item>罗马尼亚语,ro</item>
+<item>俄语,ru</item>
+<item>僧伽罗人,si</item>
+<item>斯洛伐克语,sk</item>
+<item>斯洛文尼亚语,sl</item>
+<item>塞尔维亚语,sr</item>
+<item>瑞典语,sv</item>
+<item>斯瓦希里语,sw</item>
+<item>泰米尔语,ta</item>
+<item>泰卢固语,te</item>
+<item>泰国语,th</item>
+<item>土耳其语,tr</item>
+<item>乌克兰语,uk</item>
+<item>乌尔都语,ur</item>
+<item>越南人,vi</item>
+<item>中文,zh</item>
+</string-array>
+</resources>

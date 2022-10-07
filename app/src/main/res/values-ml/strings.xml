@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Wallpapers\nPlus</string>
+<string name="category_NEWEST">പുതിയ</string>
+<string name="category_3D">3ഡി</string>
+<string name="category_AMOLED">അമോലെഡ്</string>
+<string name="category_DOUBLE">ഇരട്ട വാൾപേപ്പർ</string>
+<string name="category_ABSTRACTION">അബ്സ്ട്രാക്ഷൻ</string>
+<string name="category_AUTO">കാറുകൾ</string>
+<string name="category_ANIME">ആനിമേഷൻ</string>
+<string name="category_ARMY">സൈന്യം / ഉപകരണങ്ങൾ</string>
+<string name="category_ART">കല</string>
+<string name="category_ARCHITECTURE">വാസ്തുവിദ്യ</string>
+<string name="category_FOOD">ഭക്ഷണം</string>
+<string name="category_ANIMALS">മൃഗങ്ങൾ</string>
+<string name="category_ZNAKI">ദൃഷ്ടാന്തങ്ങൾ / ലിഖിതങ്ങൾ</string>
+<string name="category_GAMES">ഗെയിമുകൾ</string>
+<string name="category_SPACE">സ്പെയ്സ്</string>
+<string name="category_PIPL">ആളുകൾ</string>
+<string name="category_MACRO">മാക്രോ</string>
+<string name="category_MINIMALISM">മിനിമലിസം</string>
+<string name="category_MOTO">മോട്ടോർസൈക്കിൾ</string>
+<string name="category_MUSIC">സംഗീതം</string>
+<string name="category_HOLIDAYS">അവധി ദിവസങ്ങൾ</string>
+<string name="category_NATURE">പ്രകൃതി</string>
+<string name="category_SPORT">കായികം</string>
+<string name="category_SUPERHIROS">സൂപ്പർ ഹീറോകൾ</string>
+<string name="category_TEXTURE">ടെക്സ്ചറുകൾ</string>
+<string name="category_FILMS">ചലച്ചിത്രങ്ങൾ</string>
+<string name="category_FANTASY">ഫാന്റസി</string>
+<string name="category_FLOWERS">പൂക്കൾ</string>
+<string name="category_HI_TECH">ഹൈടെക്</string>
+<string name="category_OTHER">പലവക</string>
+<string name="categories">വിഭാഗങ്ങൾ</string>
+<string name="install">പ്രതിഷ്ഠിക്കുക</string>
+<string name="save">സംരക്ഷിക്കുക</string>
+<string name="tvBlockScreen">സ്ക്രീന് പൂട്ടുക</string>
+<string name="homeScreen">ഹോം സ്ക്രീൻ</string>
+<string name="everywhere">എല്ലായിടത്തും</string>
+<string name="downloading">ഡൌണ്ലോട് ചെയ്യുന്നു...</string>
+<string name="downloadingInfo">ഡൌൺലോഡ് ശേഷം, നിങ്ങൾ കാണിക്കും 1 പരസ്യം</string>
+<string name="installedandsaved">സംരക്ഷിച്ചു ഇന്സ്റ്റോള് ചെയ്തു</string>
+<string name="saved">ഗാലറി സംരക്ഷിച്ചു</string>
+<string name="share">പങ്കിടാൻ</string>
+<string name="clearCookies">കാഷ് വൃത്തിയാക്കുക</string>
+<string name="language">ഭാഷ</string>
+<string name="disableAds">പരസ്യങ്ങൾ പ്രവർത്തനരഹിതമാക്കുക</string>
+<string name="rateApp">കണക്ക്</string>
+<string name="activatePro">പ്രോ പതിപ്പ് സജീവമാക്കുക</string>
+<string name="month">1 മാസം</string>
+<string name="always">എന്നേക്കും</string>
+<string name="subscriptionText">പരസ്യങ്ങൾ പ്രവർത്തനരഹിതമാക്കുക.</string>
+<string name="once">ഒറ്റത്തവണ പേയ്മെന്റ്</string>
+<string name="getPro">വാങ്ങുക</string>
+<string name="selectScreen">ഒരു സ്ക്രീന് തെരഞ്ഞെടുക്കുക</string>
+<string name="apply">അപേക്ഷിക്കുക</string>
+<string name="ok">ശരി</string>
+<string name="no_internet">ഇന്റര്നെറ്റ് കണക്ഷന് ലഭ്യമല്ല</string>
+<string name="make_sure_connected">നിങ്ങളുടെ ഉപകരണം ഇന്റർനെറ്റുമായി ബന്ധിപ്പിച്ചിരിക്കുന്നു എന്ന് ഉറപ്പാക്കുക. ഒരു മൊബൈൽ അല്ലെങ്കിൽ വൈ-ഫൈ നെറ്റ്വർക്ക് ഉപയോഗിച്ച് ശ്രമിക്കുക.</string>
+<string name="try_vpn">ഇന്റർനെറ്റ് കണക്ഷൻ ഉണ്ടെങ്കിൽ, എന്നാൽ ആപ്ലിക്കേഷൻ ഒരു പിശക് നൽകുന്നു, തുടർന്ന് ഒരു വിപിഎൻ ഉപയോഗിക്കുക</string>
+<string name="user_agreement">സ്വകാര്യതാ നയം</string>
+<string name="user_agreement_url">https://disk.yandex.ru/i/lshFDaQf7LMqZg</string>
+<string name="share_text">ഹായ്! ഞാൻ ഈ അപ്ലിക്കേഷൻ ഇഷ്ടപ്പെട്ടു നിങ്ങളോടു പങ്കിടാൻ തീരുമാനിച്ചു. https://play.google.com/store/apps/details?id=com.wallpaper.fullhd.p1080new2</string>
+<string name="cleanCache">കാഷ് വൃത്തിയാക്കുക</string>
+<string name="clear">വൃത്തിയാക്കുക</string>
+<string name="wholeCache">പങ്കായം എന്ന വർഗ്ഗത്തിലെ താളുകൾ</string>
+<string-array name="language">
+<item>അംഹറിക്,am</item>
+<item>അറേബ്യൻ,ar</item>
+<item>ബൾഗേറിയൻ,bg</item>
+<item>ബംഗാളി,bn</item>
+<item>കറ്റാലൻ,ca</item>
+<item>ചെക്ക്,cs</item>
+<item>ഡാനിഷ്,da</item>
+<item>ജർമ്മൻ,de</item>
+<item>ഗ്രീക്ക്,el</item>
+<item>ഇംഗ്ലീഷ്,en</item>
+<item>സ്പാനിഷ്,es</item>
+<item>എസ്റ്റോണിയൻ,et</item>
+<item>പേർഷ്യൻ,fa</item>
+<item>ഫിന്നിഷ്,fi</item>
+<item>ഫിലിപ്പിനോ,fil</item>
+<item>ഫ്രഞ്ച്,fr</item>
+<item>ഗുജറാത്തി,gu</item>
+<item>ഹിന്ദി,hi</item>
+<item>ക്രൊയേഷ്യൻ,hr</item>
+<item>ഹങ്കേറിയൻ,hu</item>
+<item>ആര്മേനിയന്,hy</item>
+<item>ഇന്തോനേഷ്യൻ,id</item>
+<item>ഐസ്ലാൻഡിക്,is</item>
+<item>ഇറ്റാലിയൻ,it</item>
+<item>ഹിബ്രൂ,he</item>
+<item>ജപ്പാന്,ja</item>
+<item>കന്നഡ,kn</item>
+<item>കൊറിയന്,ko</item>
+<item>ലിത്വാനിയൻ,lt</item>
+<item>ലാത്വിയൻ,lv</item>
+<item>മലയാളം,ml</item>
+<item>മറാത്തി,mr</item>
+<item>മലയ്,ms</item>
+<item>നോർവീജിയൻ,nb</item>
+<item>പഞ്ചാബി,pa</item>
+<item>പോളിഷ്,pl</item>
+<item>പോർച്ചുഗീസ്,pt</item>
+<item>റൊമാനിയന്,ro</item>
+<item>റഷ്യൻ,ru</item>
+<item>സിംഹളീസ്,si</item>
+<item>സ്ലോവാക്,sk</item>
+<item>സ്ലോവേനിയൻ,sl</item>
+<item>സെർബിയൻ,sr</item>
+<item>സ്വീഡിഷ്,sv</item>
+<item>സ്വാഹിലി,sw</item>
+<item>തമിഴ്,ta</item>
+<item>കല / സാഹിത്യം,te</item>
+<item>തായ്,th</item>
+<item>ടര്ക്കിഷ്,tr</item>
+<item>ഉക്രേനിയൻ,uk</item>
+<item>ഉർദു,ur</item>
+<item>വിയറ്റ്നാമീസ്,vi</item>
+<item>ചൈനീസ്,zh</item>
+</string-array>
+</resources>

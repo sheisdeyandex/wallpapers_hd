@@ -5,19 +5,13 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.os.ConfigurationCompat
-import androidx.navigation.Navigation
 import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.ivan.wallpapers.MainActivity
-import com.ivan.wallpapers.MainApplication
-import com.ivan.wallpapers.R
 import com.ivan.wallpapers.databinding.LanguageItemBinding
-import com.ivan.wallpapers.databinding.WallpapersItemBinding
-import com.ivan.wallpapers.ui.fragments.main.model.CategoriesModel
-import com.ivan.wallpapers.ui.fragments.main.model.mainmodel.SizesModel
-import com.ivan.wallpapers.ui.fragments.main.view.MainFragment
-import com.ivan.wallpapers.ui.fragments.settings.language.LanguageFragment
+import com.ivan.wallpapers.dry.NavigationHelper
+import com.ivan.wallpapers.dry.Screens
 import com.ivan.wallpapers.ui.fragments.settings.language.model.LanguagesModel
 import java.util.Locale
 
@@ -48,7 +42,7 @@ class LanguagesAdapter(private val context: Context, var languageFragment: MainA
             binding.clLanguages.setOnClickListener {
                 languageFragment.setLanguage(languagesModel.languageCode)
               //  languagesFragment.setLanguage(languagesModel.languageCode)
-                Navigation.findNavController(it).popBackStack()
+                NavigationHelper.backTo(Screens.main())
             }
             val current = ConfigurationCompat.getLocales(context.resources.configuration).get(0)
             Log.d("localesuka", Locale.getDefault().language.lowercase())

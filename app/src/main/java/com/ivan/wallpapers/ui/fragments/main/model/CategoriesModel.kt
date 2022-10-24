@@ -1,3 +1,5 @@
 package com.ivan.wallpapers.ui.fragments.main.model
 
-data class CategoriesModel(val category:String, val albumId:String)
+import android.graphics.drawable.Drawable
+
+data class CategoriesModel(val name:String,val id:String, val icon:Drawable?)

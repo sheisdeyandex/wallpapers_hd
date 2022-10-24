@@ -13,21 +13,84 @@ import android.provider.MediaStore
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import androidx.lifecycle.viewModelScope
+import com.google.firebase.ktx.Firebase
+import com.google.firebase.storage.ktx.storage
 import com.ivan.wallpapers.MainApplication
 import com.ivan.wallpapers.R
 import com.ivan.wallpapers.interfaces.ApiInterface
+import com.ivan.wallpapers.repository.FavouritesRepository
+import com.ivan.wallpapers.ui.fragments.favourites.model.FavouritesModel
 import com.ivan.wallpapers.ui.fragments.fullscreenwallpaper.model.ResponseModel
+import com.ivan.wallpapers.ui.fragments.main.model.mainmodel.SizesModel
+import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
 import retrofit2.Call
 import retrofit2.Response
 import java.io.*
 import java.net.HttpURLConnection
 import java.net.MalformedURLException
 import java.net.URL
-import javax.security.auth.callback.Callback
+import javax.inject.Inject
 
-class FullScreenWallpaperViewModel : ViewModel() {
+@HiltViewModel
+class FullScreenWallpaperViewModel @Inject constructor(private val repository: FavouritesRepository): ViewModel() {
     var finished = MutableLiveData<Boolean>()
     var fullScreenWallpaper = MutableLiveData<String>()
+    var favouritesLiveData=MutableLiveData<Boolean>()
+    var storage = Firebase.storage
+    var first = true
+    private suspend fun getAllFavourites() : List<SizesModel?> {
+        return repository.getAllFavourites()
+    }
+    private suspend fun saveToFavourites(){
+        favouritesLiveData.postValue(false)
+        repository.insetFavourite(MainApplication.sizedModel)
+    }
+    init {
+    }
+
+    private suspend fun deleteFromFavourites(){
+        repository.deleteFavourite(MainApplication.sizedModel)
+    }
+
+    fun checkFavourites(save:Boolean, check:Boolean){
+        var saveIt:Boolean? = null
+        viewModelScope.launch(Dispatchers.IO) {
+            val allFavourites : List<SizesModel?> = getAllFavourites()
+            MainApplication.sizedModel?.let {mainAppModel->
+                if (allFavourites.isEmpty()){
+                    if (!check){
+                        saveToFavourites()
+                    }
+                }
+                allFavourites.forEach { favouritesModel->
+                    favouritesModel?.let {
+                        if (it.id==mainAppModel.id){
+                            saveIt = false
+                            if (check){
+                                favouritesLiveData.postValue(false)
+                            }
+                            else{
+                                deleteFromFavourites()
+                                favouritesLiveData.postValue(true)
+                            }
+                        }
+                    }
+                }.also {
+                    saveIt?.let {
+
+                    }?: kotlin.run {
+                        if (save){
+                        saveToFavourites()
+                    }}
+
+                }
+            }
+        }
+    }
+
     fun mLoad(string: String): Bitmap? {
         val url: URL = mStringToURL(string)!!
         val connection: HttpURLConnection?
@@ -42,6 +105,7 @@ class FullScreenWallpaperViewModel : ViewModel() {
         }
         return null
     }
+
     private fun mStringToURL(string: String): URL? {
         try {
             return URL(string)
@@ -50,6 +114,7 @@ class FullScreenWallpaperViewModel : ViewModel() {
         }
         return null
     }
+
     fun mSaveMediaToStorage(bitmap: Bitmap?, context: Context, name:String) {
         var fos: OutputStream? = null
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
@@ -72,7 +137,22 @@ class FullScreenWallpaperViewModel : ViewModel() {
         }
     }
 
+    fun makeFirebaseOrigPhotoRequest(path:String, name:String){
+        val listRef = storage.reference.child(path).listAll()
+        listRef.addOnSuccessListener {
+            it.items.forEach {
+                if (it.name.contains(name)){
+                    it.downloadUrl.addOnSuccessListener {
+                       // fullScreenWallpaper.postValue(it)
+                    }
+                }
+            }
+        }
+
+    }
+
     fun makeOrigPhotoRequest(access_token:String, photo_id:String){
+
         ApiInterface.create().originalPhoto(
             access_token,
             MainApplication.INSTANCE.getString(R.string.owner_id)+"_"+ photo_id, "1",
@@ -94,6 +174,7 @@ class FullScreenWallpaperViewModel : ViewModel() {
                 }
             })
     }
+
     fun installWallpaper(wallpaper: Bitmap, context: Context){
         val myWallpaperManager = WallpaperManager.getInstance(context)
         try {
@@ -103,6 +184,7 @@ class FullScreenWallpaperViewModel : ViewModel() {
             e.printStackTrace()
         }
     }
+
     fun installLockScreenWallpaper(wallpaper: Bitmap,context:Context){
         val wallpaperManager = WallpaperManager.getInstance(context)
         try {
@@ -111,6 +193,7 @@ class FullScreenWallpaperViewModel : ViewModel() {
             e.printStackTrace()
         }
     }
+
     private fun saveImageInQ(bitmap: Bitmap, name:String, context: Context): Uri? {
         val cw = ContextWrapper(context)
         val fos: OutputStream?
@@ -140,6 +223,7 @@ class FullScreenWallpaperViewModel : ViewModel() {
         }?:finished.postValue(true)
         return uri
     }
+
     fun saveToInternalStorage(bitmapImage: Bitmap, name:String, context: Context) {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) { //this one
             saveImageInQ(bitmapImage,name, context)

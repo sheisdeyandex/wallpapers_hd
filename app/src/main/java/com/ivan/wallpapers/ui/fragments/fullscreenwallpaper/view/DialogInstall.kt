@@ -8,7 +8,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.Window
 import androidx.fragment.app.DialogFragment
-import com.ivan.wallpapers.MainApplication
 import com.ivan.wallpapers.databinding.DialogInstallBinding
 
 
@@ -23,9 +22,6 @@ class DialogInstall : DialogFragment() {
         dialog?.window?.requestFeature(Window.FEATURE_NO_TITLE)
         dialog?.setCanceledOnTouchOutside(true)
         dialog?.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
-        MainApplication.installWallpaper.observe(requireActivity()){
-            dismiss()
-        }
         return binding.root
     }
 }

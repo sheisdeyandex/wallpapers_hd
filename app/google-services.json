@@ -1,48 +1,38 @@
 {
   "project_info": {
-    "project_number": "768674508448",
-    "firebase_url": "https://fullhd-b3a74.firebaseio.com",
-    "project_id": "fullhd-b3a74",
-    "storage_bucket": "fullhd-b3a74.appspot.com"
+    "project_number": "351904745358",
+    "project_id": "wallpapers-9e3a1",
+    "storage_bucket": "wallpapers-9e3a1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:768674508448:android:3a93aa43ca2e025678a3c5",
+        "mobilesdk_app_id": "1:351904745358:android:13a33ff85419ebbd9886df",
         "android_client_info": {
-          "package_name": "com.wallpaper.fullhd.p1080new2"
+          "package_name": "com.wallpapers.hd"
         }
       },
       "oauth_client": [
         {
-          "client_id": "768674508448-bbhh7t9emveqs2o2o0mqddqo8igi2kif.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.wallpaper.fullhd.p1080new2",
-            "certificate_hash": "7d9606e649a38028652ef748737d32fa3b5cb9a3"
-          }
-        },
-        {
-          "client_id": "768674508448-50jvc6ntoe97r6luat73dre1r73omuqd.apps.googleusercontent.com",
+          "client_id": "351904745358-hk1miui428fecot4rlnn4odnbl94m6hq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAj6uu9CrQmtBCbNjMZSLwN0KUq0jv5aKI"
+          "current_key": "AIzaSyB8pEjCpn5aTBB8lg5E4GqGg4db-CsZ06s"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "768674508448-50jvc6ntoe97r6luat73dre1r73omuqd.apps.googleusercontent.com",
+              "client_id": "351904745358-hk1miui428fecot4rlnn4odnbl94m6hq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
         }
-      },
-      "admob_app_id": "ca-app-pub-2106148984810594~1092771423"
+      }
     }
   ],
   "configuration_version": "1"

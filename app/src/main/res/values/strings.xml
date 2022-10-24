@@ -1,47 +1,84 @@
 <resources>
     <string name="app_name">Wallpapers\nPlus</string>
-    <string name="appodeal_app_key" translatable="false">dbdbbf553d228ac45a8206859a298e4b10d3be2a77679b80</string>
-    <string name="owner_id" translatable="false">-99181623</string>
-    <string name="access_token" translatable="false">29da1e9f29da1e9f29da1e9f8929b6cd99229da29da1e9f74a343c3826fef881bb9979a</string>
-    <string name="newest_album_id" translatable="false">249956323</string>
-    <string name="album_id_3d" translatable="false">227400554</string>
-    <string name="album_id_amoled" translatable="false">255792926</string>
-    <string name="album_id_double" translatable="false">279842226</string>
-    <string name="album_id_ABSTRACTION" translatable="false">227398811</string>
-    <string name="album_id_AUTO" translatable="false">227400768</string>
-    <string name="album_id_ANIME" translatable="false">227397770</string>
-    <string name="album_id_ARMY" translatable="false">227132597</string>
-    <string name="album_id_ART" translatable="false">243100477</string>
-    <string name="album_id_ARCHITECTURE" translatable="false">227395376</string>
-    <string name="album_id_FOOD" translatable="false">227394452</string>
-    <string name="album_id_ANIMALS" translatable="false">227390717</string>
-    <string name="album_id_ZNAKI" translatable="false">227397042</string>
-    <string name="album_id_GAMES" translatable="false">227389407</string>
-    <string name="album_id_SPACE" translatable="false">227405548</string>
-    <string name="album_id_PIPL" translatable="false">227405874</string>
-    <string name="album_id_MACRO" translatable="false">227387910</string>
-    <string name="album_id_MINIMALISM" translatable="false">239998507</string>
-    <string name="album_id_MOTO" translatable="false">227375589</string>
-    <string name="album_id_MUSIC" translatable="false">227386020</string>
-    <string name="album_id_HOLIDAYS" translatable="false">227379727</string>
-    <string name="album_id_NATURE" translatable="false">227380512</string>
-    <string name="album_id_SPORT" translatable="false">227377903</string>
-    <string name="album_id_SUPERHIROS" translatable="false">243298988</string>
-    <string name="album_id_TEXTURE" translatable="false">227378710</string>
-    <string name="album_id_HORRORS" translatable="false">243430022</string>
-    <string name="album_id_FILMS" translatable="false">227375782</string>
-    <string name="album_id_FANTASY" translatable="false">227377595</string>
-    <string name="album_id_FLOWERS" translatable="false">227403511</string>
-    <string name="album_id_HI_TECH" translatable="false">227400062</string>
-    <string name="album_id_OTHER" translatable="false">227376600</string>
+    <string name="appodeal_app_key" translatable="false">a4d5a86d98bcc84158724ae500fa3f79ce1eb8a08713b906</string>
+    <string name="owner_id" translatable="false">-216602425</string>
+    <string name="access_token" translatable="false">894af8d1894af8d1894af8d1448a5aa6d48894a894af8d1ebb782e0bf31982b2e98cd90</string>
+    <string name="album_id_dusk" translatable="false">287488043</string>
+    <string name="album_id_fog" translatable="false">287488038</string>
+    <string name="album_id_art" translatable="false">287488030</string>
+    <string name="album_id_loneliness" translatable="false">287488028</string>
+    <string name="album_id_human" translatable="false">287487991</string>
+    <string name="album_id_hand" translatable="false">287487981</string>
+    <string name="album_id_black_and_white" translatable="false">287487971</string>
+    <string name="album_id_retro" translatable="false">287487967</string>
+    <string name="album_id_words" translatable="false">287487905</string>
+    <string name="album_id_3d" translatable="false">287487900</string>
+    <string name="album_id_music" translatable="false">287487896</string>
+    <string name="album_id_couple" translatable="false">287487890</string>
+    <string name="album_id_fantasy" translatable="false">287487774</string>
+    <string name="album_id_animals" translatable="false">287487711</string>
+    <string name="album_id_funny" translatable="false">287487694</string>
+    <string name="album_id_black" translatable="false">287487629</string>
+    <string name="album_id_trending_movies" translatable="false">287487583</string>
+    <string name="album_id_flowers" translatable="false">287487556</string>
+    <string name="album_id_motivation" translatable="false">287487484</string>
+    <string name="album_id_sport" translatable="false">287487454</string>
+    <string name="album_id_fields" translatable="false">287487428</string>
+    <string name="album_id_autumn" translatable="false">287487409</string>
+    <string name="album_id_night" translatable="false">287487368</string>
+    <string name="album_id_water" translatable="false">287487324</string>
+    <string name="album_id_snow" translatable="false">287487258</string>
+    <string name="album_id_sky" translatable="false">287487196</string>
+    <string name="album_id_cities" translatable="false">287487127</string>
+    <string name="album_id_sunset" translatable="false">287487068</string>
+    <string name="album_id_mountains" translatable="false">287487026</string>
+    <string name="album_id_nature" translatable="false">287486975</string>
+    <string name="album_id_anime" translatable="false">287486911</string>
+    <string name="album_id_abstractions" translatable="false">287486813</string>
+    <string name="album_id_games" translatable="false">287486344</string>
+
     <string name="version" translatable="false">5.131</string>
+    <string name="category_dusk" >Dusk</string>
+    <string name="category_fog" >Fog</string>
+    <string name="category_art" >Art</string>
+    <string name="category_Loneliness" >Loneliness</string>
+    <string name="category_Human" >Human</string>
+    <string name="category_Hand" >Hand</string>
+    <string name="category_black_and_white" >Black and white</string>
+    <string name="category_Retro" >Retro</string>
+    <string name="category_Words" >Words</string>
+    <string name="category_3D" >3D</string>
+    <string name="category_Music" >Music</string>
+    <string name="category_black" >Black</string>
+    <string name="category_Couple" >Couple</string>
+    <string name="category_Fantasy" >Fantasy</string>
+    <string name="category_Animals" >Animals</string>
+    <string name="category_Funny" >Funny</string>
+    <string name="category_tending_movies" >Trending movies</string>
+    <string name="category_Flowers" >Flowers</string>
+    <string name="category_Motivation" >Motivation</string>
+    <string name="category_Sport" >Sport</string>
+    <string name="category_Fields" >Fields</string>
+    <string name="category_Autumn" >Autumn</string>
+    <string name="category_Night" >Night</string>
+    <string name="category_Water" >Water</string>
+    <string name="category_Snow" >Snow</string>
+    <string name="category_Sky" >Sky</string>
+    <string name="category_Cities" >Cities</string>
+    <string name="category_Sunset" >Sunset</string>
+    <string name="category_Mountains" >Mountains</string>
+    <string name="category_Nature" >Nature</string>
+    <string name="category_Anime" >Anime</string>
+    <string name="category_Abstractions" >Abstractions</string>
+    <string name="category_Games" >Games</string>
+
+
     <string name="hello_blank_fragment" translatable="false">3D</string>
     <string name="favourites" translatable="false">3D</string>
     <string name="tt_request_permission_descript_external_storage" translatable="false">3D</string>
     <string name="tt_request_permission_descript_location" translatable="false">3D</string>
     <string name="tt_request_permission_descript_read_phone_state" translatable="false">3D</string>
     <string name="category_NEWEST">New</string>
-    <string name="category_3D">3D</string>
     <string name="category_AMOLED">AMOLED</string>
     <string name="category_DOUBLE">DOUBLE Wallpaper</string>
     <string name="category_ABSTRACTION">Abstraction</string>

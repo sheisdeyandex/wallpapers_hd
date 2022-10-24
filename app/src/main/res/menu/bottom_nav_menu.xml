@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-<item android:id="@+id/settings"
-    android:title=""
-    android:icon="@drawable/settings_icon"
-    />
-    <item android:id="@+id/refresh"
+    <item android:id="@+id/main"
         android:title=""
+        android:icon="@drawable/ic_baseline_home_24"
         />
-    <item android:id="@+id/saved"
+    <item android:id="@+id/favourites"
         android:title=""
+        android:icon="@drawable/ic_favourite"
         />
-    <item android:id="@+id/right_menu"
+    <item android:id="@+id/settings"
         android:title=""
-        android:icon="@drawable/ic_baseline_menu_24"
+        android:icon="@drawable/settings_icon"
         />
 </menu>

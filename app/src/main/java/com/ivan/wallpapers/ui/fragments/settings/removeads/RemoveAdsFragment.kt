@@ -2,20 +2,16 @@
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
-import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.activity.OnBackPressedCallback
 import androidx.core.view.isVisible
-import androidx.navigation.findNavController
-import com.anjlab.android.iab.v3.BillingProcessor
-import com.anjlab.android.iab.v3.SkuDetails
 import com.ivan.wallpapers.MainActivity
 import com.ivan.wallpapers.R
 import com.ivan.wallpapers.databinding.FragmentRemoveAdsBinding
-import com.ivan.wallpapers.ui.fragments.main.view.MainFragment
+import com.ivan.wallpapers.dry.NavigationHelper
+import com.ivan.wallpapers.dry.Screens
 
  class RemoveAdsFragment : Fragment() {
     private var _binding: FragmentRemoveAdsBinding? = null
@@ -40,7 +36,7 @@ import com.ivan.wallpapers.ui.fragments.main.view.MainFragment
     }
      private fun initClicks(){
          binding.ivBack.setOnClickListener {
-             view?.findNavController()?.popBackStack()
+             NavigationHelper.backTo(Screens.main())
          }
          binding.mcvMonth.setOnClickListener {
              context?.getColor(R.color.selectTextColor)?.let { yellowColor -> binding.mcvMonth.strokeColor = yellowColor }

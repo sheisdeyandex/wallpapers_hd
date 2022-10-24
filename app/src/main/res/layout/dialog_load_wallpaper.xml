@@ -93,6 +93,7 @@
                     app:layout_constraintEnd_toStartOf="@+id/glCancel"
                     app:strokeWidth="1dp"
                     app:strokeColor="@color/white"
+                    app:backgroundTint="@color/white"
                     android:text="@string/cancel"
                     />
                 <androidx.constraintlayout.widget.Guideline
@@ -120,6 +121,7 @@
                     app:layout_constraintStart_toEndOf="@+id/glClear"
                     app:strokeWidth="1dp"
                     app:strokeColor="@color/white"
+                    app:backgroundTint="@color/white"
                     android:text="@string/clear"
                     />
                 <View

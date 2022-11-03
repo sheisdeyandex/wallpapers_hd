@@ -66,7 +66,6 @@ class MainActivity : LocalizationActivity() {
         initStatusBar()
         setSideMenuAreaRatio(0.2)
         initRateApp()
-        NavigationHelper.navigate(Screens.categories())
         initViewVisibilities()
         firebaseAnalytics =  FirebaseAnalytics.getInstance(applicationContext)
         binding.ivCookies.setColorFilter(ContextCompat.getColor(this, R.color.white), android.graphics.PorterDuff.Mode.MULTIPLY)
@@ -144,12 +143,12 @@ class MainActivity : LocalizationActivity() {
                     override fun onSkuDetailsResponse(products: MutableList<SkuDetails>?) {
                         products?.forEach {skuDetails->
                             monthPrice.postValue(skuDetails.priceText)
-                        }?:Log.d("suka","error")
+                        }
 
                     }
 
                     override fun onSkuDetailsError(error: String?) {
-                        error?.let { Log.d("suka", it) }
+
                     }
 
                 })
@@ -157,12 +156,12 @@ class MainActivity : LocalizationActivity() {
                     override fun onSkuDetailsResponse(products: MutableList<SkuDetails>?) {
                         products?.forEach {skuDetails->
                             alwaysPrice.postValue(skuDetails.priceText)
-                        }?:Log.d("suka","error")
+                        }
 
                     }
 
                     override fun onSkuDetailsError(error: String?) {
-                        error?.let { Log.d("suka", it) }
+
                     }
 
                 })
@@ -206,7 +205,12 @@ class MainActivity : LocalizationActivity() {
         }
     }
     private fun initBottomNavClicks(){
+        NavigationHelper.navigate(Screens.categories())
         binding.bnvWallpaperSettings.setOnItemSelectedListener {
+            if (it.itemId==R.id.categories){
+                NavigationHelper.navigate(Screens.categories())
+                favourites = true
+            }
             if (it.itemId==R.id.settings){
                 binding.drawer.openDrawer(GravityCompat.START)
             }

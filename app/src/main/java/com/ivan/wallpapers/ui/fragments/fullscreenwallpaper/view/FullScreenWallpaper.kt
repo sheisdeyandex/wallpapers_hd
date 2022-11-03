@@ -72,7 +72,6 @@ class FullScreenWallpaper(var backTo:FragmentScreen) : Fragment(){
         backToMainFragment()
         initFavouritesObserver()
         firebaseAnalytics = context?.let { FirebaseAnalytics.getInstance(it) }
-        Log.d("sukaphotoid", MainApplication.photoId)
       //  (activity as MainActivity).binding.drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED)
 
     }
@@ -102,9 +101,8 @@ class FullScreenWallpaper(var backTo:FragmentScreen) : Fragment(){
     private fun initFavouritesObserver(){
         favouritesObserver = Observer {
             CoroutineScope(Dispatchers.Main).launch {
-                changeFavouriteColor(!it, binding?.ivFavourites)
+                changeFavouriteColor(it, binding?.ivFavourites)
             }
-
         }
         activity?.let { viewModel.favouritesLiveData.observe(it, favouritesObserver!!) }
     }
@@ -306,6 +304,9 @@ class FullScreenWallpaper(var backTo:FragmentScreen) : Fragment(){
             wallpaperLoadedObserver = Observer {imageUrl->
                 MainApplication.fullUrl = imageUrl
                 viewModel.checkFavourites(save = false, check = true)
+                CoroutineScope(Dispatchers.IO).launch {
+                    imageUrl?.let { wallpaper = viewModel.mLoad(it) }
+                }
                 Picasso.get().load(imageUrl).centerCrop().fit().into(binding?.ivFullScreenWallpaper, object :Callback{
                     override fun onSuccess() {
                         binding?.skvLoadingFullScreen?.isVisible = false
@@ -361,9 +362,7 @@ class FullScreenWallpaper(var backTo:FragmentScreen) : Fragment(){
     private fun checkWallpaperInstallType(type:String){
         val params = Bundle()
         params.putString("install_type", type)
-        CoroutineScope(Dispatchers.IO).launch {
-            imageUrl?.let { wallpaper = viewModel.mLoad(it) }
-        }
+
         firebaseAnalytics?.logEvent("install", params)
         if (type == MainApplication.both){
             wallpaper?.let {wallpaperBitmap-> context?.let { mContext ->

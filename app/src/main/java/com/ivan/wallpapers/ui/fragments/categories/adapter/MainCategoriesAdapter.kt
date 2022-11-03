@@ -1,5 +1,6 @@
 package com.ivan.wallpapers.ui.fragments.categories.adapter
 
+import android.app.Activity
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -7,14 +8,16 @@ import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.ivan.wallpapers.MainActivity
 import com.ivan.wallpapers.MainApplication
+import com.ivan.wallpapers.R
 import com.ivan.wallpapers.databinding.ItemMainCategoriesBinding
 import com.ivan.wallpapers.dry.NavigationHelper
 import com.ivan.wallpapers.dry.Screens
 import com.ivan.wallpapers.ui.fragments.main.model.CategoriesModel
 
 
-class MainCategoriesAdapter(val context: Context):
+class MainCategoriesAdapter(val context: Context,val activity:Activity):
     RecyclerView.Adapter<RecyclerView.ViewHolder>() {
     private val differCallback = object : DiffUtil.ItemCallback<CategoriesModel>() {
         override fun areItemsTheSame(oldItem: CategoriesModel, newItem: CategoriesModel): Boolean {
@@ -38,10 +41,10 @@ class MainCategoriesAdapter(val context: Context):
             binding.tvCategoryName.text = categoryName.name
             Glide.with(context).load(categoryName.icon).centerCrop().into(binding.ivCategories)
             binding.clCategoriesItem.setOnClickListener {
-                NavigationHelper.navigate(Screens.main())
                 MainApplication.mainFragmentLoader.postValue(true)
                 MainApplication.albumId = categoryName.id
                 MainApplication.albumName = categoryName.name
+                (activity as MainActivity).binding.bnvWallpaperSettings.selectedItemId = R.id.main
             }
         }
     }

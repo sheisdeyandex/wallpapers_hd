@@ -58,7 +58,11 @@ class CategoriesFragment : Fragment() {
     private fun initRecycler(){
         val gridLayoutManager = GridLayoutManager(context,2)
         binding.rvCategories.layoutManager = gridLayoutManager
-        mainCategoriesAdapter = context?.let { MainCategoriesAdapter(it) }
+        mainCategoriesAdapter = context?.let { activity?.let { it1 ->
+            MainCategoriesAdapter(it,
+                it1
+            )
+        } }
         binding.rvCategories.adapter = mainCategoriesAdapter
         binding.rvCategories.addItemDecoration(SpacesItemDecoration(resources.getDimension(R.dimen.main_recycler_decoration)
             .toInt()))

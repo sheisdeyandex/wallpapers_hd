@@ -45,8 +45,6 @@ class LanguagesAdapter(private val context: Context, var languageFragment: MainA
                 NavigationHelper.backTo(Screens.main())
             }
             val current = ConfigurationCompat.getLocales(context.resources.configuration).get(0)
-            Log.d("localesuka", Locale.getDefault().language.lowercase())
-            Log.d("suka", current?.language?.lowercase()+"=="+languagesModel.languageCode)
             if (languageFragment.getCurrentLanguage().language.lowercase()
                 == languagesModel.languageCode||languageFragment.getCurrentLanguage().language.lowercase()==""&&languagesModel.languageCode=="en"){
                 i++

@@ -45,14 +45,15 @@ class FullScreenWallpaperViewModel @Inject constructor(private val repository: F
         return repository.getAllFavourites()
     }
     private suspend fun saveToFavourites(){
-        favouritesLiveData.postValue(false)
+        favouritesLiveData.postValue(true)
         repository.insetFavourite(MainApplication.sizedModel)
     }
     init {
     }
 
-    private suspend fun deleteFromFavourites(){
-        repository.deleteFavourite(MainApplication.sizedModel)
+    private suspend fun deleteFromFavourites(sizesModel: SizesModel){
+        favouritesLiveData.postValue(false)
+        repository.deleteFavourite(sizesModel)
     }
 
     fun checkFavourites(save:Boolean, check:Boolean){
@@ -65,28 +66,29 @@ class FullScreenWallpaperViewModel @Inject constructor(private val repository: F
                         saveToFavourites()
                     }
                 }
-                allFavourites.forEach { favouritesModel->
-                    favouritesModel?.let {
-                        if (it.id==mainAppModel.id){
-                            saveIt = false
-                            if (check){
-                                favouritesLiveData.postValue(false)
-                            }
-                            else{
-                                deleteFromFavourites()
-                                favouritesLiveData.postValue(true)
+                else{
+                    allFavourites.forEach { favouritesModel->
+                        favouritesModel?.let {
+                            if (it.id==mainAppModel.id){
+                                saveIt = false
+                                if (check){
+                                    favouritesLiveData.postValue(true)
+                                }
+                                else{
+                                    deleteFromFavourites(it)
+                                }
                             }
                         }
+                    }.also {
+                        saveIt?.let {
+                        }?: kotlin.run {
+                            if (save){
+                                saveToFavourites()
+                            }}
+
                     }
-                }.also {
-                    saveIt?.let {
-
-                    }?: kotlin.run {
-                        if (save){
-                        saveToFavourites()
-                    }}
-
                 }
+
             }
         }
     }
@@ -163,8 +165,8 @@ class FullScreenWallpaperViewModel @Inject constructor(private val repository: F
                     response: Response<ResponseModel>
                 ) {
                     response.body().let {
-                        it?.response?.forEach{
-                            fullScreenWallpaper.postValue(it.orig_photo.url)
+                        it?.response?.forEach{photoModel->
+                            fullScreenWallpaper.postValue(photoModel.orig_photo.url)
                         }
                     }
                 }
@@ -180,7 +182,6 @@ class FullScreenWallpaperViewModel @Inject constructor(private val repository: F
         try {
             myWallpaperManager.setBitmap(wallpaper)
         } catch (e: IOException) {
-            // TODO Auto-generated catch block
             e.printStackTrace()
         }
     }

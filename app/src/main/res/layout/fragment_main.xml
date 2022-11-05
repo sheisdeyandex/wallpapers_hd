@@ -17,7 +17,7 @@
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:listitem="@layout/categories_item"
+        tools:listitem="@layout/item_main_categories"
         android:id="@+id/rvWallpapers"
         />
 

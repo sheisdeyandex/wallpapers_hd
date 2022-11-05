@@ -3,6 +3,7 @@
     android:id="@+id/clCategoriesItem"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="@color/background"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/mcvCategory"
@@ -22,6 +23,18 @@
             android:contentDescription="@string/categories"
             />
     </com.google.android.material.card.MaterialCardView>
+    <com.github.ybq.android.spinkit.SpinKitView
+        android:id="@+id/skvLoading"
+        style="@style/SpinKitView.Wave"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintWidth_percent="0.3"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:SpinKit_Color="@color/white" />
     <TextView
         android:id="@+id/tvCategoryName"
         android:layout_width="wrap_content"

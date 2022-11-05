@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/categories"
+    <item android:id="@+id/categoriesFragment"
         android:title=""
         android:icon="@drawable/ic_baseline_folder_24"
         />
-    <item android:id="@+id/main"
+    <item android:id="@+id/mainFragment"
         android:title=""
         android:icon="@drawable/ic_baseline_home_24"
         />
-    <item android:id="@+id/favourites"
+    <item android:id="@+id/favouritesFragment"
         android:title=""
         android:icon="@drawable/ic_favourite"
         />

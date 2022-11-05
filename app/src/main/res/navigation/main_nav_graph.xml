@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/mainFragment"
+    android:id="@+id/main_nav_graph">
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.wallpapers.hd.ui.fragments.main.view.MainFragment"
+        tools:layout="@layout/fragment_main"
+        >
+        <action
+            android:id="@+id/action_mainFragment_to_fullScreenFragment"
+            app:destination="@id/fullScreenFragment"
+            app:popUpTo="@id/mainFragment"
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/fullScreenFragment"
+        android:name="com.wallpapers.hd.ui.fragments.fullscreenwallpaper.view.FullScreenWallpaper"
+        tools:layout="@layout/fragment_full_screen_wallpaper"
+        />
+</navigation>
